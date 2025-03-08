@@ -1,0 +1,18 @@
+Gabriel Gambetta - Computer Graphics from Scratch
+Pete Goodliffe - Code Craft
+Robert C. Seacord - Effective C, 2nd Edition
+Charles Fox - Computer Architecture
+Suzanne J. Matthews, Tia Newhall, Kevin C. Webb - Dive Into Systems
+Jon Stokes - Inside the Machine
+Angel Sola Orbaiceta - Hardcore Programming for Mechanical Engineers
+Jeremy Kubica - Graph Algorithms the Fun Way
+ - The Complete Developer
+Jonathan E. Steinhart - The Secret Life of Programs
+William Shotts - The Linux Command Line, 2nd Edition
+V. Anton Spraul - How Software Works
+Jeremy Kubica - Data Structures the Fun Way
+Randall Hyde - Understanding the Machine
+Nora Sandler - Writing a C Compiler
+Matthew Justice - How Computers Really Work
+Randall Hyde - The Book of I2C
+Robert G. Plantz - Introduction to Computer Organization

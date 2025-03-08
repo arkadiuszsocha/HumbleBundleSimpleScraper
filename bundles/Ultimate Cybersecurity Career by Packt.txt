@@ -1,0 +1,21 @@
+Pierre Thoor, Matthew Zorich - Microsoft Defender for Identity in Depth
+David Álvarez Pérez, Ravikant Tiwari - Ghidra Software Reverse-Engineering for Beginners
+Adam Book, Stuart Scott - AWS Certified Security - Specialty (SCS-C02) Exam Guide
+Diana Kelley, Ed Moyle - Practical Cybersecurity Architecture
+Mostafa Yahia - Effective Threat Investigation for SOC Analysts
+Yuri Diogenes - Enhancing Your Cloud Security with a CNAPP Solution
+Dale Meredith, Greg Shields - The OSINT Handbook
+Mark Simos, Nikhil Kumar, Ann Johnson - Zero Trust Overview and Playbook Introduction
+John Sotiropoulos - Adversarial AI Attacks, Mitigations, and Defense Strategies
+Anatoly Tykushin, Svetlana Ostrovskaya, Dmitry Volkov - Incident Response for Windows
+Christophe Foulon, Ken Underhill, Tia Hopkins - Hack the Cybersecurity Interview
+Denis Isakov - Pentesting Active Directory and Windows-based Infrastructure
+José Manuel Ortega - Python for Security and Networking
+Hemang Doshi, Javen Khoo Ai Wee - CISA - Certified Information Systems Auditor Study Guide
+Ru Campbell, Viktor Hedberg, Heike Ritter - Mastering Microsoft 365 Defender
+Massimo Bertaccini - Cryptography Algorithms
+Dennis Chow, David Bruskin - Automating Security Detection Engineering
+Miriam C. Wiesner, Tanya Janca - PowerShell Automation and Scripting for Cybersecurity
+Glen D. Singh - The Ultimate Kali Linux Book
+Rajneesh Gupta, Santiago Bassett - Security Monitoring with Wazuh
+Mark Dunkerley - Resilient Cybersecurity

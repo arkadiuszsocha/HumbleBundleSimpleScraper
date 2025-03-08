@@ -1,0 +1,3118 @@
+{
+    "microsoftdefenderforidentityindepth": {
+        "machine_name": "microsoftdefenderforidentityindepth",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "84.2 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/microsoftdefenderforidentityindepth_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/microsoftdefenderforidentityindepth_preview.pdf?t=st=1741450610~exp=1741537010~hmac=478668af40d59e8fdb01b084ced3803e8e7fbf0688c943bce56ad52f83fcb8bf"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Packt",
+                "publisher-url": "https://www.packtpub.com/product/-Microsoft-Defender-for-Identity-in-Depth/9781835884485"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 9.73
+        },
+        "subtitle_html": null,
+        "description_text": "<h4>Key Features</h4><ul><li>Optimize configurations for peak security performance by tailoring detection thresholds</li><li>Leverage real-world insights and case studies to improve threat detection and response strategies</li><li>Establish a strong ITDR defense with Microsoft Defender for Identity</li><li>Purchase of the print or Kindle book includes a free PDF eBook</li></ul><h4>Who this book is for</h4>If you\u2019re an IT or security professional looking to enhance your cybersecurity skills, especially in identity protection and threat management with Microsoft Defender for Identity (MDI), then this book is for you. It's perfect for system administrators, cybersecurity analysts, and cloud engineers who want to strengthen their expertise in MDI. A basic understanding of cybersecurity principles, as well as familiarity with Microsoft environments and Active Directory are recommended prerequisites for maximizing your learning experience.",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/microsoftdefenderforidentityindepth.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Microsoft Defender for Identity in Depth",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/microsoftdefenderforidentityindepth_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Pierre Thoor, Matthew Zorich"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/212f5b3bda3325906eb8dd55d3dfd9826691d919.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=37c9a9f3e38ccf4b51da46d82752e1a5",
+            "featured_image": null,
+            "front_page_art_imgix_retina": "https://hb.imgix.net/803021d5d1dc1acc60b6802aaf74defa213ac612.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=fd95d57feffbe487b507f8cd4d5e7e2a",
+            "preview_image_bonus": "https://hb.imgix.net/212f5b3bda3325906eb8dd55d3dfd9826691d919.jpg?auto=compress,format&fit=clip&h=200&w=200&s=951f166fdf7faeee5e688faa7a1e4880",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/803021d5d1dc1acc60b6802aaf74defa213ac612.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=5451de76b583fd8aa559ffab3cefa1c9",
+            "front_page_art_imgix": "https://hb.imgix.net/803021d5d1dc1acc60b6802aaf74defa213ac612.png?auto=compress,format&w=180&s=e2a87b8c40c88be90ef2242153d87f01",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/803021d5d1dc1acc60b6802aaf74defa213ac612.png?auto=compress,format&fit=clip&h=80&w=170&s=21bbd3cb680db8a7e1a98264190cd8c3",
+            "preview_image": "https://hb.imgix.net/212f5b3bda3325906eb8dd55d3dfd9826691d919.jpg?auto=compress,format&fit=clip&h=350&w=600&s=a1e341379ff3169b183d819375cacbdd"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Microsoft Defender for Identity in Depth",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "ghidrasoftwarereverse-engineeringforbeginners": {
+        "machine_name": "ghidrasoftwarereverse-engineeringforbeginners",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": "<div class=\"accolades\">2nd Edition</div>",
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "171.9 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/ghidrasoftwarereverse-engineeringforbeginners_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/ghidrasoftwarereverse-engineeringforbeginners_preview.pdf?t=st=1741450610~exp=1741537010~hmac=49b4042f5c78235d48eb01f6809b5080f29f1e593f246984b5a1ac308a62272a"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Packt",
+                "publisher-url": "https://www.packtpub.com/product/Ghidra-Software-Reverse-Engineering-for-Beginners/9781835889824"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 17.51
+        },
+        "subtitle_html": null,
+        "description_text": "<h4>Key Features</h4><ul><li>Make the most of Ghidra on different platforms such as Linux, Windows, and macOS</li><li>Unlock the potential of plug-ins and extensions for disassembly, assembly, decompilation, and scripting</li><li>Learn advanced concepts like binary diffing, debugging, unpacking real-world malware samples, and reverse engineering ransomware</li><li>Purchase of the print or Kindle book includes a free PDF eBook</li></ul><h4>Who this book is for</h4>This book is for software engineers, security researchers, and professionals working in software development and testing who want to deepen their expertise in reverse engineering and cybersecurity. Aspiring malware analysts and vulnerability researchers will also benefit greatly. Prior experience with Java or Python and a foundational understanding of programming is recommended.",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/ghidrasoftwarereverse-engineeringforbeginners.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Ghidra Software Reverse-Engineering for Beginners",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/ghidrasoftwarereverse-engineeringforbeginners_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "David \u00c1lvarez P\u00e9rez, Ravikant Tiwari"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/34aa4b095a475bbd521d507aad76cab366661db2.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=f5ee9cf5dbb6f3d57cd3f2e553e4d280",
+            "featured_image": null,
+            "front_page_art_imgix_retina": "https://hb.imgix.net/9b5d8071b55b98734232809ec824cc8cbba31622.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=0883fabe9f4c3d4f61edfc26f5c75f19",
+            "preview_image_bonus": "https://hb.imgix.net/34aa4b095a475bbd521d507aad76cab366661db2.jpg?auto=compress,format&fit=clip&h=200&w=200&s=2f219b6dbe76ecedc0569f0e549ec5a3",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/9b5d8071b55b98734232809ec824cc8cbba31622.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=6efdcaf0e86892ec2bdc40df1a9fd9e2",
+            "front_page_art_imgix": "https://hb.imgix.net/9b5d8071b55b98734232809ec824cc8cbba31622.png?auto=compress,format&w=180&s=f76df07912a0598c3be37f6292e09a10",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/9b5d8071b55b98734232809ec824cc8cbba31622.png?auto=compress,format&fit=clip&h=80&w=170&s=f78faab6f095c2c32d07223e8ce4b143",
+            "preview_image": "https://hb.imgix.net/34aa4b095a475bbd521d507aad76cab366661db2.jpg?auto=compress,format&fit=clip&h=350&w=600&s=17e448bb885d6686dab28b73d90e7adf"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Ghidra Software Reverse-Engineering for Beginners",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "awscertifiedsecurity_specialtyscs-c02examguide_secondedition": {
+        "machine_name": "awscertifiedsecurity_specialtyscs-c02examguide_secondedition",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": "<div class=\"accolades\">2nd Edition</div>",
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "767.2 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/awscertifiedsecurity_specialtyscs-c02examguide_secondedition_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/awscertifiedsecurity_specialtyscs-c02examguide_secondedition_preview.pdf?t=st=1741450610~exp=1741537010~hmac=c1060fd0ce45d526ab59ad8f8d9f6b5949a8501d71c5e3167ce0296e93ab1872"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Packt",
+                "publisher-url": "https://www.packtpub.com/product/AWS-Certified-Security-\u2013-Specialty-(SCS-C02)-Exam-Guide/9781837633982"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 17.51
+        },
+        "subtitle_html": null,
+        "description_text": "<h4>Key Features</h4><ul><li>Stay updated with the most current SCS-C02 exam syllabus</li><li>Gain modern cloud security skills to build robust security solutions</li><li>Access online exam prep resources like mock exams, flashcards, and exam tips to help with preparation</li><li>Purchase of this book unlocks access to web-based exam prep resources such as mock exams and flashcards</li></ul><h4>Who this book is for</h4>This book is for system administrators or security professionals looking to gain AWS security certification. Prior experience in securing cloud environments is necessary to get the most out of this book.",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/awscertifiedsecurity_specialtyscs-c02examguide_secondedition.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "AWS Certified Security - Specialty (SCS-C02) Exam Guide",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/awscertifiedsecurity_specialtyscs-c02examguide_secondedition_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Adam Book, Stuart Scott"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/97b10f70850099b0899900e6bd9d7e32d0e094f5.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=306d8056a0c2761bf8c35fe1bc560324",
+            "featured_image": null,
+            "front_page_art_imgix_retina": "https://hb.imgix.net/d440baa760cc7de1825960cb62d650cc96563cb7.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=ac3ab14bbd2ffda2b4d939192e8f9898",
+            "preview_image_bonus": "https://hb.imgix.net/97b10f70850099b0899900e6bd9d7e32d0e094f5.jpg?auto=compress,format&fit=clip&h=200&w=200&s=5f08bd23877588b025c96cfc8a7b0755",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/d440baa760cc7de1825960cb62d650cc96563cb7.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=86b4ba1f6c955bcd178325ab436c67df",
+            "front_page_art_imgix": "https://hb.imgix.net/d440baa760cc7de1825960cb62d650cc96563cb7.png?auto=compress,format&w=180&s=b5b1a44f751a30fd22d216d0e388f1a8",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/d440baa760cc7de1825960cb62d650cc96563cb7.png?auto=compress,format&fit=clip&h=80&w=170&s=f52e103f72ee43bbbbc0949a1afdf479",
+            "preview_image": "https://hb.imgix.net/97b10f70850099b0899900e6bd9d7e32d0e094f5.jpg?auto=compress,format&fit=clip&h=350&w=600&s=c6f1cfaa2191dfaf209862afc9e823c3"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "AWS Certified Security - Specialty (SCS-C02) Exam Guide",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "practicalcybersecurityarchitecture": {
+        "machine_name": "practicalcybersecurityarchitecture",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": "<div class=\"accolades\">2nd Edition</div>",
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "79.6 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/practicalcybersecurityarchitecture_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/practicalcybersecurityarchitecture_preview.pdf?t=st=1741450610~exp=1741537010~hmac=1c8204122875df6f7d44749b37a2d309865a6ccc2c9867d612b68b8332a4827e"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Packt",
+                "publisher-url": "https://www.packtpub.com/product/Practical-Cybersecurity-Architecture/9781837637164"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 17.51
+        },
+        "subtitle_html": null,
+        "description_text": "<h4>Key Features</h4><ul><li>Understand the role of the architect in successfully creating complex security structures</li><li>Learn methodologies for creating architecture documentation, engaging stakeholders, and implementing designs</li><li>Understand how to refine and improve architecture methodologies to meet business challenges</li><li>Purchase of the print or Kindle book includes a free PDF eBook</li></ul><h4>Who this book is for</h4>This book is for new as well as seasoned cybersecurity architects looking to explore and polish their cybersecurity architecture skills. Additionally, anyone involved in the process of implementing, planning, operating, or maintaining cybersecurity in an organization can benefit from this book. If you are a security practitioner, systems auditor, and (to a lesser extent) software developer invested in keeping your organization secure, this book will act as a reference guide.",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/practicalcybersecurityarchitecture.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Practical Cybersecurity Architecture",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/practicalcybersecurityarchitecture_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Diana Kelley, Ed Moyle"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/101c70f0f318510f17f8af1d6840ddd39186cd76.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=ec3e2fd445e86be73c28b8d53913f76c",
+            "featured_image": null,
+            "front_page_art_imgix_retina": "https://hb.imgix.net/40c0543d2b289d4e5bfeb557011cd88c52846342.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=384c94074378ea40d3eca512ee460b0e",
+            "preview_image_bonus": "https://hb.imgix.net/101c70f0f318510f17f8af1d6840ddd39186cd76.jpg?auto=compress,format&fit=clip&h=200&w=200&s=0b8fb1b59264c767c0a0f5c808e151ad",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/40c0543d2b289d4e5bfeb557011cd88c52846342.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=efba5f63f0ddbf1e9e7980871044d5e5",
+            "front_page_art_imgix": "https://hb.imgix.net/40c0543d2b289d4e5bfeb557011cd88c52846342.png?auto=compress,format&w=180&s=38f296d11b13f3ef2deb5516da02068b",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/40c0543d2b289d4e5bfeb557011cd88c52846342.png?auto=compress,format&fit=clip&h=80&w=170&s=d2efa67e5f936bf9a7ab77af2bb4113f",
+            "preview_image": "https://hb.imgix.net/101c70f0f318510f17f8af1d6840ddd39186cd76.jpg?auto=compress,format&fit=clip&h=350&w=600&s=2304c66837a71ebf090a4bb89e703cb0"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Practical Cybersecurity Architecture",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "effectivethreatinvestigationforsocanalysts": {
+        "machine_name": "effectivethreatinvestigationforsocanalysts",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "129.8 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/effectivethreatinvestigationforsocanalysts_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/effectivethreatinvestigationforsocanalysts_preview.pdf?t=st=1741450610~exp=1741537010~hmac=415b42e30951631582ab69cce7fb6c2d9edd217462c0b35ce72a63316f661798"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Packt",
+                "publisher-url": "https://www.packtpub.com/product/Effective-Threat-Investigation-for-SOC-Analysts/9781837634781"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 9.73
+        },
+        "subtitle_html": null,
+        "description_text": "<h4>Key Features</h4><ul><li>Understand and analyze various modern cyber threats and attackers' techniques</li><li>Gain in-depth knowledge of email security, Windows, firewall, proxy, WAF, and security solution logs</li><li>Explore popular cyber threat intelligence platforms to investigate suspicious artifacts</li></ul><h4>Who this book is for</h4>This book is for Security Operation Center (SOC) analysts, security professionals, cybersecurity incident investigators, incident handlers, incident responders, or anyone looking to explore attacker techniques and delve deeper into detecting and investigating attacks. If you want to efficiently detect and investigate cyberattacks by analyzing logs generated from different log sources, then this is the book for you. Basic knowledge of cybersecurity and networking domains and entry-level security concepts are necessary to get the most out of this book.",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/effectivethreatinvestigationforsocanalysts.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Effective Threat Investigation for SOC Analysts",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/effectivethreatinvestigationforsocanalysts_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Mostafa Yahia"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/51c6da17bc1233e374daceda7c1f4134a154b961.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=16c70c7e2e844e38582b2cf5a1bce163",
+            "featured_image": null,
+            "front_page_art_imgix_retina": "https://hb.imgix.net/90f9c48c7aa71c092ae8fb5e058bc3aa2dbc68ff.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=83086babd45eec20f6bf19f977eea6d4",
+            "preview_image_bonus": "https://hb.imgix.net/51c6da17bc1233e374daceda7c1f4134a154b961.jpg?auto=compress,format&fit=clip&h=200&w=200&s=015094549883ac4f94c4ceb3198ad733",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/90f9c48c7aa71c092ae8fb5e058bc3aa2dbc68ff.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=2f84261cdb91d9446216cecc6132610d",
+            "front_page_art_imgix": "https://hb.imgix.net/90f9c48c7aa71c092ae8fb5e058bc3aa2dbc68ff.png?auto=compress,format&w=180&s=6ac6dd894a4300e3cf5cf80ab67ec973",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/90f9c48c7aa71c092ae8fb5e058bc3aa2dbc68ff.png?auto=compress,format&fit=clip&h=80&w=170&s=038de3fca4d7871063035a9df993c103",
+            "preview_image": "https://hb.imgix.net/51c6da17bc1233e374daceda7c1f4134a154b961.jpg?auto=compress,format&fit=clip&h=350&w=600&s=a341eeded908da8fd55dc3be485fa785"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Effective Threat Investigation for SOC Analysts",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "enhancingyourcloudsecuritywithacnappsolution": {
+        "machine_name": "enhancingyourcloudsecuritywithacnappsolution",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "132.6 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/enhancingyourcloudsecuritywithacnappsolution_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/enhancingyourcloudsecuritywithacnappsolution_preview.pdf?t=st=1741450610~exp=1741537010~hmac=89482cba84062d5f71ddd98c16c1dccfe2e32ca090d68a860e40c840f950c9b9"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Packt",
+                "publisher-url": "https://www.packtpub.com/product/Enhancing-Your-Cloud-Security-with-a-CNAPP-Solution/9781836204879"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 17.51
+        },
+        "subtitle_html": null,
+        "description_text": "<h4>Key Features</h4><ul><li>Master the CNAPP lifecycle from planning to operationalization using real-world practical scenarios. </li><li>Dive deep into the features of Microsoft's Defender for Cloud to elevate your organization\u2019s security posture. </li><li>Explore hands-on examples and implementation techniques from a leading expert in the cybersecurity industry</li></ul><h4>Who this book is for</h4>This book is aimed at Cloud Security Professionals that work with Cloud Security, Posture Management, or Workload Protection. DevOps Engineers that need to have a better understanding of Cloud Security Tools and SOC Analysts that need to understand how CNAPP can enhance their threat hunting capabilities can also benefit from this book. Basic knowledge of Cloud Computing, including Cloud Providers such as Azure, AWS, and GCP is assumed.",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/enhancingyourcloudsecuritywithacnappsolution.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Enhancing Your Cloud Security with a CNAPP Solution",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/enhancingyourcloudsecuritywithacnappsolution_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Yuri Diogenes"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/a13e3a8eb60825240ec3a7ec386507c5c67669a1.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=a49ee1d72d97981adc1e5add57de1455",
+            "featured_image": null,
+            "front_page_art_imgix_retina": "https://hb.imgix.net/c70ece8f8b104bbf99242679f23b3a76b7724656.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=b241b0bee349ea6a3c37a12cdbe34f3a",
+            "preview_image_bonus": "https://hb.imgix.net/a13e3a8eb60825240ec3a7ec386507c5c67669a1.jpg?auto=compress,format&fit=clip&h=200&w=200&s=d4f74ed98e22fc6edba20be2c66746c5",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/c70ece8f8b104bbf99242679f23b3a76b7724656.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=7d0d951e05d37da9d3b34d78596705a7",
+            "front_page_art_imgix": "https://hb.imgix.net/c70ece8f8b104bbf99242679f23b3a76b7724656.png?auto=compress,format&w=180&s=12cbb451dccf7708b0eb0a5c562551b2",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/c70ece8f8b104bbf99242679f23b3a76b7724656.png?auto=compress,format&fit=clip&h=80&w=170&s=c1a48d299e0dc2d69d82844cef630762",
+            "preview_image": "https://hb.imgix.net/a13e3a8eb60825240ec3a7ec386507c5c67669a1.jpg?auto=compress,format&fit=clip&h=350&w=600&s=85b4ce8d4f1765e5ab8c056ba3de994f"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Enhancing Your Cloud Security with a CNAPP Solution",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "osinthandbook": {
+        "machine_name": "osinthandbook",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "716.2 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/osinthandbook_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/osinthandbook_preview.pdf?t=st=1741450610~exp=1741537010~hmac=e6918194cb0d8652bbb4d64b51527cb858003995ca3f8d35e9cf34316f7fc025"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Packt",
+                "publisher-url": "https://www.packtpub.com/product/The-OSINT-Handbook/9781837638277"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 17.51
+        },
+        "subtitle_html": null,
+        "description_text": "<h4>Key Features</h4><ul><li>Familiarize yourself with the best open-source intelligence tools such as Maltego, Shodan, and Aircrack-ng </li><li>Develop an OSINT-driven threat intelligence program to mitigate cyber risks</li><li>Leverage the power of information through OSINT with real-world case studies</li><li>Purchase of the print or Kindle book includes a free PDF eBook </li></ul><h4>Who this book is for</h4>This book is for ethical hackers and security professionals who want to expand their cybersecurity toolbox and stay one step ahead of online threats by gaining comprehensive insights into OSINT tools and techniques. Basic knowledge of cybersecurity concepts is required.",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/osinthandbook.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "The OSINT Handbook",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/osinthandbook_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Dale Meredith, Greg Shields"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/cb11497fbe0f0c57e0a0d102053aed45e2bebd4d.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=5265eee4c578b45be67ffe56e0dcd7da",
+            "featured_image": null,
+            "front_page_art_imgix_retina": "https://hb.imgix.net/2be4f03fb412b8a212ff5f47801b38639e26883b.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=a708dce050beb10a10d600abaa800e58",
+            "preview_image_bonus": "https://hb.imgix.net/cb11497fbe0f0c57e0a0d102053aed45e2bebd4d.jpg?auto=compress,format&fit=clip&h=200&w=200&s=41b2b0c0446ea736b7fc69569bf69297",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/2be4f03fb412b8a212ff5f47801b38639e26883b.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=d1f6efdbd19c8ec8f0e102478e68f038",
+            "front_page_art_imgix": "https://hb.imgix.net/2be4f03fb412b8a212ff5f47801b38639e26883b.png?auto=compress,format&w=180&s=7a30850c7f1f26a5f63653fbca05cb7f",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/2be4f03fb412b8a212ff5f47801b38639e26883b.png?auto=compress,format&fit=clip&h=80&w=170&s=e6971a78f614a66b0320eb7e15bd71ec",
+            "preview_image": "https://hb.imgix.net/cb11497fbe0f0c57e0a0d102053aed45e2bebd4d.jpg?auto=compress,format&fit=clip&h=350&w=600&s=9e676095a20841fc7ebc9f821c72032e"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "The OSINT Handbook",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "zerotrustoverviewandplaybookintroduction": {
+        "machine_name": "zerotrustoverviewandplaybookintroduction",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "728.6 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/zerotrustoverviewandplaybookintroduction_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/zerotrustoverviewandplaybookintroduction_preview.pdf?t=st=1741450610~exp=1741537010~hmac=a97f8a867ed263836dc5e7c79400a584d1001ea7737d986d3c0b1512c2e39f2a"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Packt",
+                "publisher-url": "https://www.packtpub.com/product/Zero-Trust-Overview-and-Playbook-Introduction/9781800568662"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 17.51
+        },
+        "subtitle_html": null,
+        "description_text": "<h4>Key Features</h4><ul><li>Get simple, clear, and practical advice for everyone from CEOs to security operations</li><li>Organize your Zero Trust journey into role-by-role execution stages</li><li>Integrate real-world implementation experience with global Zero Trust standards</li><li>Purchase of the print or Kindle book includes a free eBook in the PDF format</li></ul><h4>Who this book is for</h4>Whether you\u2019re a business leader, security practitioner, or technology executive, this comprehensive guide to Zero Trust has something for you. This book provides practical guidance for implementing and managing a Zero Trust strategy and its impact on every role (including yours!). This is the go-to guide for everyone including board members, CEOs, CIOs, CISOs, architects, engineers, IT admins, security analysts, program managers, product owners, developers, and managers. Don't miss out on this essential resource for securing your organization against cyber threats.",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/zerotrustoverviewandplaybookintroduction.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Zero Trust Overview and Playbook Introduction",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/zerotrustoverviewandplaybookintroduction_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Mark Simos, Nikhil Kumar, Ann Johnson"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/069317e9c4199e69eca09e1832d73853d217f4b2.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=2e165b21f1323954d23803be9d6e0cd7",
+            "featured_image": null,
+            "front_page_art_imgix_retina": "https://hb.imgix.net/b2f524eced4ea0cd16a6189a3e7c1bb974e07a14.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=b27eb50eb59d5e16f97502c1d94feda9",
+            "preview_image_bonus": "https://hb.imgix.net/069317e9c4199e69eca09e1832d73853d217f4b2.jpg?auto=compress,format&fit=clip&h=200&w=200&s=cef4b00e092147714eed2082f8fd7fc3",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/b2f524eced4ea0cd16a6189a3e7c1bb974e07a14.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=da79af010cf664a3729491950a306bd1",
+            "front_page_art_imgix": "https://hb.imgix.net/b2f524eced4ea0cd16a6189a3e7c1bb974e07a14.png?auto=compress,format&w=180&s=a53f9c818846caa9def95296a3b8267d",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/b2f524eced4ea0cd16a6189a3e7c1bb974e07a14.png?auto=compress,format&fit=clip&h=80&w=170&s=8f94b3323e6a27b230125f1b94ed5bc5",
+            "preview_image": "https://hb.imgix.net/069317e9c4199e69eca09e1832d73853d217f4b2.jpg?auto=compress,format&fit=clip&h=350&w=600&s=4b20da765790557705fecc022b6117b3"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Zero Trust Overview and Playbook Introduction",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "adversarialaiattacksmitigationsanddefensestrategies": {
+        "machine_name": "adversarialaiattacksmitigationsanddefensestrategies",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "854 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/adversarialaiattacksmitigationsanddefensestrategies_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/adversarialaiattacksmitigationsanddefensestrategies_preview.pdf?t=st=1741450610~exp=1741537010~hmac=f87b4f6eb55c641042235dd182d0ed09a3ebddfd2504dfd0b8479ecbe2fa7990"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Packt",
+                "publisher-url": "https://www.packtpub.com/product/Adversarial-AI-Attacks,-Mitigations,-and-Defense-Strategies/9781835087985"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 1.0
+        },
+        "subtitle_html": null,
+        "description_text": "<h4>Key Features</h4><ul><li>Understand the connection between AI and security by learning about adversarial AI attacks</li><li>Discover the latest security challenges in adversarial AI by examining GenAI, deepfakes, and LLMs</li><li>Implement secure-by-design methods and threat modeling, using standards and MLSecOps to safeguard AI systems</li><li>Purchase of the print or Kindle book includes a free PDF eBook</li></ul><h4>Who this book is for</h4>This book tackles AI security from both angles - offense and defense. AI builders (developers and engineers) will learn how to create secure systems, while cybersecurity professionals, such as security architects, analysts, engineers, ethical hackers, penetration testers, and incident responders will discover methods to combat threats and mitigate risks posed by attackers. The book also provides a secure-by-design approach for leaders to build AI with security in mind. To get the most out of this book, you\u2019ll need a basic understanding of security, ML concepts, and Python.",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/adversarialaiattacksmitigationsanddefensestrategies.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Adversarial AI Attacks, Mitigations, and Defense Strategies",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/adversarialaiattacksmitigationsanddefensestrategies_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "John Sotiropoulos"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/8a7390cd00e5cd856d47da0c5a78d9eb58b158c8.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=47116bb4007b4ac0066450c22bf643da",
+            "featured_image": null,
+            "front_page_art_imgix_retina": "https://hb.imgix.net/a7e52d559608225eb6d17ddee24fbf6f19682e1e.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=d1bd3eb9cb4e3e4507df6a4c77efb3b6",
+            "preview_image_bonus": "https://hb.imgix.net/8a7390cd00e5cd856d47da0c5a78d9eb58b158c8.jpg?auto=compress,format&fit=clip&h=200&w=200&s=4ff1f424b79fdc4f923345102347fd4d",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/a7e52d559608225eb6d17ddee24fbf6f19682e1e.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=af1445dfa8850b5e0b47fbbd067464cc",
+            "front_page_art_imgix": "https://hb.imgix.net/a7e52d559608225eb6d17ddee24fbf6f19682e1e.png?auto=compress,format&w=180&s=36925cb2f7cd3f9aac2acfd12acb8a77",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/a7e52d559608225eb6d17ddee24fbf6f19682e1e.png?auto=compress,format&fit=clip&h=80&w=170&s=a362588a127023ff885cb5e32becd3d0",
+            "preview_image": "https://hb.imgix.net/8a7390cd00e5cd856d47da0c5a78d9eb58b158c8.jpg?auto=compress,format&fit=clip&h=350&w=600&s=3aa3849c4f920ceb1eb64fc58009cf9a"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Adversarial AI Attacks, Mitigations, and Defense Strategies",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "incidentresponseforwindows": {
+        "machine_name": "incidentresponseforwindows",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "77.9 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/incidentresponseforwindows_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/incidentresponseforwindows_preview.pdf?t=st=1741450610~exp=1741537010~hmac=6077ae0070eb2f99b16b184ca763350b98cf9740800bc36b062bb48b1819fefc"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Packt",
+                "publisher-url": "https://www.packtpub.com/product/Incident-Response-for-Windows/9781804619322"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 17.51
+        },
+        "subtitle_html": null,
+        "description_text": "<h4>Key Features</h4><ul><li>Explore contemporary sophisticated cyber threats, focusing on their tactics, techniques, and procedures</li><li>Craft the most robust enterprise-wide cybersecurity incident response methodology, scalable to any magnitude</li><li>Master the development of efficient incident remediation and prevention strategies</li><li>Purchase of the print or Kindle book includes a free PDF eBook</li></ul><h4>Who this book is for</h4>This book is for IT professionals, Windows IT administrators, cybersecurity practitioners, and incident response teams, including SOC teams, responsible for managing cybersecurity incidents in Windows-based environments. Specifically, system administrators, security analysts, and network engineers tasked with maintaining the security of Windows systems and networks will find this book indispensable. Basic understanding of Windows systems and cybersecurity concepts is needed to grasp the concepts in this book.",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/incidentresponseforwindows.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Incident Response for Windows",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/incidentresponseforwindows_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Anatoly Tykushin, Svetlana Ostrovskaya, Dmitry Volkov"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/e4ac8d47b78c719ed9ef0dc69c11d617b1018448.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=9c974623aa2d45f98672b9b117f66166",
+            "featured_image": null,
+            "front_page_art_imgix_retina": "https://hb.imgix.net/100796ef48518d46c8f9547de87c8859264fc61d.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=5f546ddd1404fffd1f97cd308a8b77b3",
+            "preview_image_bonus": "https://hb.imgix.net/e4ac8d47b78c719ed9ef0dc69c11d617b1018448.jpg?auto=compress,format&fit=clip&h=200&w=200&s=82910b6523e3e39f34839f02742b3505",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/100796ef48518d46c8f9547de87c8859264fc61d.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=41ec9f89320ad11d99392008477988b3",
+            "front_page_art_imgix": "https://hb.imgix.net/100796ef48518d46c8f9547de87c8859264fc61d.png?auto=compress,format&w=180&s=2fa7126b780f18159406ba692acb6a9d",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/100796ef48518d46c8f9547de87c8859264fc61d.png?auto=compress,format&fit=clip&h=80&w=170&s=4f6a220023de40c4d4807cd1199f276e",
+            "preview_image": "https://hb.imgix.net/e4ac8d47b78c719ed9ef0dc69c11d617b1018448.jpg?auto=compress,format&fit=clip&h=350&w=600&s=5de1c6986c3fb2c2c4db1b2228dcbbad"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Incident Response for Windows",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "hackthecybersecurityinterview": {
+        "machine_name": "hackthecybersecurityinterview",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": "<div class=\"accolades\">2nd Edition</div>",
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "63.1 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/hackthecybersecurityinterview_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/hackthecybersecurityinterview_preview.pdf?t=st=1741450610~exp=1741537010~hmac=67f2895b725f3117e7010d1d508969fad964738a2b2a5ccbf699ec929377619e"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Packt",
+                "publisher-url": "https://www.packtpub.com/product/Hack-the-Cybersecurity-Interview/9781835461297"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 9.73
+        },
+        "subtitle_html": null,
+        "description_text": "<h4>Key Features</h4><ul><li>Confidently handle technical  and soft skill questions across various cybersecurity roles</li><li>Prepare for Cybersecurity Engineer, penetration tester, malware analyst, digital forensics analyst, CISO, and more roles</li><li>Unlock secrets to acing interviews across various cybersecurity roles</li></ul><h4>Who this book is for</h4>This book is a must-have for college students, aspiring cybersecurity professionals, computer and software engineers, and anyone preparing for a cybersecurity job interview. It's equally valuable for those new to the field and experienced professionals aiming for career advancement.",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/hackthecybersecurityinterview.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Hack the Cybersecurity Interview",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/hackthecybersecurityinterview_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Christophe Foulon, Ken Underhill, Tia Hopkins"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/f122d62c976e94157e17c01842f2763828c29d9c.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=636bf88133e5658fe9895f8c3663b0eb",
+            "featured_image": null,
+            "front_page_art_imgix_retina": "https://hb.imgix.net/2172892fe59a6b48719c127c0b39058dabf3519d.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=05256f54296df12a74799cbcc5b47dff",
+            "preview_image_bonus": "https://hb.imgix.net/f122d62c976e94157e17c01842f2763828c29d9c.jpg?auto=compress,format&fit=clip&h=200&w=200&s=c4afd433047602907b3772f79425aacb",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/2172892fe59a6b48719c127c0b39058dabf3519d.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=4b954d75ec751fd2ae10c10eb689109d",
+            "front_page_art_imgix": "https://hb.imgix.net/2172892fe59a6b48719c127c0b39058dabf3519d.png?auto=compress,format&w=180&s=05bb0dddfcd647153ebb872314468252",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/2172892fe59a6b48719c127c0b39058dabf3519d.png?auto=compress,format&fit=clip&h=80&w=170&s=2905f4a9800e8f85f844e253d6acdede",
+            "preview_image": "https://hb.imgix.net/f122d62c976e94157e17c01842f2763828c29d9c.jpg?auto=compress,format&fit=clip&h=350&w=600&s=f606130b73da6b7288c0b71498fa6045"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Hack the Cybersecurity Interview",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "pentestingactivedirectoryandwindows-basedinfrastructure": {
+        "machine_name": "pentestingactivedirectoryandwindows-basedinfrastructure",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "989.4 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/pentestingactivedirectoryandwindows-basedinfrastructure_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/pentestingactivedirectoryandwindows-basedinfrastructure_preview.pdf?t=st=1741450610~exp=1741537010~hmac=0227d61c8c2b3a9ec4b8f4c20a263831bb72abb68c59dc053f82cb9631c373cb"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Packt",
+                "publisher-url": "https://www.packtpub.com/product/Pentesting-Active-Directory-and-Windows-based-Infrastructure/9781804611364"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 17.51
+        },
+        "subtitle_html": null,
+        "description_text": "<h4>Key Features</h4><ul><li>Find out how to attack real-life Microsoft infrastructure</li><li>Discover how to detect adversary activities and remediate your environment</li><li>Apply the knowledge you\u2019ve gained by working on hands-on exercises</li><li>Purchase of the print or Kindle book includes a free PDF eBook</li></ul><h4>Who this book is for</h4>This book is for pentesters and red teamers, security and IT engineers, as well as blue teamers and incident responders interested in Windows infrastructure security. The book is packed with practical examples, tooling, and attack-defense guidelines to help you assess and improve the security of your real-life environments. To get the most out of this book, you should have basic knowledge of Windows services and Active Directory.",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/pentestingactivedirectoryandwindows-basedinfrastructure.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Pentesting Active Directory and Windows-based Infrastructure",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/pentestingactivedirectoryandwindows-basedinfrastructure_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Denis Isakov"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/1ebe0f05d709ae0a3f073ff7f6ca034387a24ec0.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=5eb9cf3ce0bf6aa858aa8b2f9ce5e0ae",
+            "featured_image": null,
+            "front_page_art_imgix_retina": "https://hb.imgix.net/94a67ee93f2c51d305c9405ea1753e7767ad83b5.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=b4030a747cea28a61654771c0f7e2aa8",
+            "preview_image_bonus": "https://hb.imgix.net/1ebe0f05d709ae0a3f073ff7f6ca034387a24ec0.jpg?auto=compress,format&fit=clip&h=200&w=200&s=25de1dd15c90f7a48358ddd019ab7f7b",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/94a67ee93f2c51d305c9405ea1753e7767ad83b5.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=3061ca4b265a84481ae33ca2206789d1",
+            "front_page_art_imgix": "https://hb.imgix.net/94a67ee93f2c51d305c9405ea1753e7767ad83b5.png?auto=compress,format&w=180&s=be21ea2ed0ba15f4b4ba19d816218e6c",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/94a67ee93f2c51d305c9405ea1753e7767ad83b5.png?auto=compress,format&fit=clip&h=80&w=170&s=f7c644027bf82e916f12be8bc01f0364",
+            "preview_image": "https://hb.imgix.net/1ebe0f05d709ae0a3f073ff7f6ca034387a24ec0.jpg?auto=compress,format&fit=clip&h=350&w=600&s=df8d6b912fb7ebc502f5a39d46e99a7c"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Pentesting Active Directory and Windows-based Infrastructure",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "pythonforsecurityandnetworking": {
+        "machine_name": "pythonforsecurityandnetworking",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-windows",
+                "hb-osx",
+                "hb-linux",
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-windows": "Windows",
+                "hb-drmfree": "DRM-free download",
+                "hb-file-pdf-o": "PDF",
+                "hb-linux": "Linux",
+                "hb-file-epub": "EPUB",
+                "hb-osx": "Mac"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-windows",
+                        "hb-osx",
+                        "hb-linux",
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-windows": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-linux": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-osx": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": "<div class=\"accolades\">3rd Edition</div>",
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "64.2 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/pythonforsecurityandnetworking_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/pythonforsecurityandnetworking_preview.pdf?t=st=1741450610~exp=1741537010~hmac=5272c45c0cb9bde030d12b343e57b8a93889e587cfa2752a6fb043ccce333087"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Packt",
+                "publisher-url": "https://www.packtpub.com/product/Python-for-Security-and-Networking/9781837637553"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 9.73
+        },
+        "subtitle_html": null,
+        "description_text": "<h4>Key Features</h4><ul><li>Discover security techniques to protect your network and systems using Python</li><li>Create scripts in Python to automate security and pentesting tasks</li><li>Analyze traffic in a network and extract information using Python</li></ul><h4>Who this book is for</h4>This Python book is for network engineers, system administrators, and other security professionals looking to overcome common networking and security issues using Python. You will also find this book useful if you're an experienced programmer looking to explore Python\u2019s full range of capabilities. A basic understanding of general programming structures as well as familiarity with the Python programming language is a prerequisite.",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/pythonforsecurityandnetworking.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Python for Security and Networking",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/pythonforsecurityandnetworking_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Jos\u00e9 Manuel Ortega"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "game": {
+                "download": [
+                    "windows",
+                    "mac",
+                    "linux"
+                ]
+            },
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/21ecdcba22ff2f80925cf4b17b46ddae1a842d9a.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=932fa611eed31969bd0140fe41b32e4a",
+            "featured_image": null,
+            "front_page_art_imgix_retina": "https://hb.imgix.net/77cd837758c4663b790c2b80261ec8d4073616d9.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=ce88f7394a7a664e2f8d3dbd89257048",
+            "preview_image_bonus": "https://hb.imgix.net/21ecdcba22ff2f80925cf4b17b46ddae1a842d9a.jpg?auto=compress,format&fit=clip&h=200&w=200&s=1dd331e5b0cc7e6935069bfd0ca9da82",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/77cd837758c4663b790c2b80261ec8d4073616d9.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=8aec88c185a01e63538131966ab2c224",
+            "front_page_art_imgix": "https://hb.imgix.net/77cd837758c4663b790c2b80261ec8d4073616d9.png?auto=compress,format&w=180&s=029ec488a11680a8b63026aeb9d53f78",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/77cd837758c4663b790c2b80261ec8d4073616d9.png?auto=compress,format&fit=clip&h=80&w=170&s=1fb56fe1fef013527856edc4c731f6bd",
+            "preview_image": "https://hb.imgix.net/21ecdcba22ff2f80925cf4b17b46ddae1a842d9a.jpg?auto=compress,format&fit=clip&h=350&w=600&s=07b638d34d8fd324f26cac80efce6ba4"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Python for Security and Networking",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "cisa_certifiedinformationsystemsauditorstudyguide": {
+        "machine_name": "cisa_certifiedinformationsystemsauditorstudyguide",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-text-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download",
+                "hb-file-text-o": "MOBI"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-text-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-text-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": "<div class=\"accolades\">3rd Edition</div>",
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "763 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/cisa_certifiedinformationsystemsauditorstudyguide_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/cisa_certifiedinformationsystemsauditorstudyguide_preview.pdf?t=st=1741450610~exp=1741537010~hmac=ece2e2a273ac8c52ce7439a9d1b668256ab71cf1f27207ba4fa2e13db6d75386"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Packt",
+                "publisher-url": "https://www.packtpub.com/product/CISA-\u2013-Certified-Information-Systems-Auditor-Study-Guide/9781835882863"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 1.0
+        },
+        "subtitle_html": null,
+        "description_text": "<h4>Key Features</h4><ul><li>Learn from a qualified CISA and bestselling instructor, Hemang Doshi</li><li>Aligned with the latest CISA exam objectives from the 28th edition of the Official Review Manual</li><li>Assess your exam readiness with over 1000 targeted practice test questions</li></ul><h4>Who this book is for</h4>This CISA study guide is for anyone with a non-technical background aspiring to achieve the CISA certification. It caters to those currently working in or seeking employment in IT audit and security management roles.",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/cisa_certifiedinformationsystemsauditorstudyguide.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "CISA - Certified Information Systems Auditor Study Guide",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/cisa_certifiedinformationsystemsauditorstudyguide_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Hemang Doshi, Javen Khoo Ai Wee"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub",
+                    "mobi"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/a79912964250b8a5ac23fe3970deb552b477fb1b.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=f66138c8444a4ca969ed9effa6e5dbc9",
+            "featured_image": null,
+            "front_page_art_imgix_retina": "https://hb.imgix.net/96c1b9bcbcfbe3e4ab624cade586b708faa22234.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=08c6fe947c4e9b6024b2e975a6eea834",
+            "preview_image_bonus": "https://hb.imgix.net/a79912964250b8a5ac23fe3970deb552b477fb1b.jpg?auto=compress,format&fit=clip&h=200&w=200&s=88fa470fde9678ce3d41e87c3edfb4f5",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/96c1b9bcbcfbe3e4ab624cade586b708faa22234.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=618130659c8bf3ff46c4f6de0e40b316",
+            "front_page_art_imgix": "https://hb.imgix.net/96c1b9bcbcfbe3e4ab624cade586b708faa22234.png?auto=compress,format&w=180&s=b54b605f6e82faf44428640e3185d418",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/96c1b9bcbcfbe3e4ab624cade586b708faa22234.png?auto=compress,format&fit=clip&h=80&w=170&s=bd49fd72324b06ea84cb1db6070e31d4",
+            "preview_image": "https://hb.imgix.net/a79912964250b8a5ac23fe3970deb552b477fb1b.jpg?auto=compress,format&fit=clip&h=350&w=600&s=21ee3748cc303ea55266ca022d89e552"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "CISA - Certified Information Systems Auditor Study Guide",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "masteringmicrosoft365defender": {
+        "machine_name": "masteringmicrosoft365defender",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "97.9 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/masteringmicrosoft365defender_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/masteringmicrosoft365defender_preview.pdf?t=st=1741450610~exp=1741537010~hmac=d6685405d5469b47022520dcc5cb5658090478224b5d327c384ddbed2412641c"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Packt",
+                "publisher-url": "https://www.packtpub.com/product/Mastering-Microsoft-365-Defender/9781803241708"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 9.73
+        },
+        "subtitle_html": null,
+        "description_text": "<h4>Key Features</h4><ul><li>Help in understanding Microsoft 365 Defender and how it is crucial for security operations</li><li>Implementation of the proactive security defense capabilities of Microsoft Defender for Endpoint, Identity, Office 365, and Cloud Apps so that attacks can be stopped before they start</li><li>A guide to hunting and responding to threats using M365D\u2019s extended detection and response capabilities</li></ul><h4>Who this book is for</h4>You\u2019re a security engineer, incident responder, blue teamer, or an IT security professional who wants to deploy and manage Microsoft 365 Defender services and successfully investigate and respond tocyber threats<p>You have a basic understanding of networking, vulnerabilities, operating systems, email, Active Directory, and cloud apps</p>",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/masteringmicrosoft365defender.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Mastering Microsoft 365 Defender",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/masteringmicrosoft365defender_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Ru Campbell, Viktor Hedberg, Heike Ritter"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/66c5348383ba6d8a3448bbb574289572c4020780.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=a965047ab5992d2fd07a0d78ee8619fc",
+            "featured_image": null,
+            "front_page_art_imgix_retina": "https://hb.imgix.net/24fb1690ebc99695c0bf71074616c2ef5b56362e.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=e2ed10da67748c6493292f9cd20ad0b2",
+            "preview_image_bonus": "https://hb.imgix.net/66c5348383ba6d8a3448bbb574289572c4020780.jpg?auto=compress,format&fit=clip&h=200&w=200&s=260b4bbb9e530ff121cd9b9877619d0a",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/24fb1690ebc99695c0bf71074616c2ef5b56362e.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=a01bea7206a28db2d5528c62a0abfcc4",
+            "front_page_art_imgix": "https://hb.imgix.net/24fb1690ebc99695c0bf71074616c2ef5b56362e.png?auto=compress,format&w=180&s=a56cd616588932ee91860c43b9454990",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/24fb1690ebc99695c0bf71074616c2ef5b56362e.png?auto=compress,format&fit=clip&h=80&w=170&s=fc78b208d26578a9586e32a03aa51bb6",
+            "preview_image": "https://hb.imgix.net/66c5348383ba6d8a3448bbb574289572c4020780.jpg?auto=compress,format&fit=clip&h=350&w=600&s=4fa358f3eadde0f6d391718dbd312cfc"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Mastering Microsoft 365 Defender",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "cryptographyalgorithms": {
+        "machine_name": "cryptographyalgorithms",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": "<div class=\"accolades\">2nd Edition</div>",
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "145.5 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/cryptographyalgorithms_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/cryptographyalgorithms_preview.pdf?t=st=1741450610~exp=1741537010~hmac=6267d31af9ff994e24365e337975c07943c9f6dcd1e4b12f4f401f33d5b000bb"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Packt",
+                "publisher-url": "https://www.packtpub.com/product/Cryptography-Algorithms/9781835080030"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 9.73
+        },
+        "subtitle_html": null,
+        "description_text": "<h4>Key Features</h4><ul><li>Explore the basic principles and history of cryptography</li><li>Identify key vulnerabilities and evaluate how cryptographic algorithms defend against attacks</li><li>Become a forward-thinking cryptographer by learning the new protocols in zero knowledge, homomorphic encryption and quantum cryptography</li></ul><h4>Who this book is for</h4>This book is for beginners who are IT professionals, students, cybersecurity enthusiasts, and anyone who wants to develop skills in modern cryptography and build a successful cybersecurity career. The book systematically addresses mathematical issues related to the algorithms that may arise. However, a prior knowledge of university-level mathematics, algebra, its main operators, modular mathematics, and finite fields theory is required. Some knowledge of elliptic curves and quantum computing, especially matrices and plotting curves would also be beneficial to get the most out of this book.",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/cryptographyalgorithms.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Cryptography Algorithms",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/cryptographyalgorithms_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Massimo Bertaccini"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/5be54ea85bb34695afafe205ba2668390e5908b9.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=6366d88058329b2c4e4ce1aff880b5cb",
+            "featured_image": null,
+            "front_page_art_imgix_retina": "https://hb.imgix.net/5573944bbe3100610f37b174f1bbcb0f20c2f9d7.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=15bcfde34687dab6a3bd31c4b62903fd",
+            "preview_image_bonus": "https://hb.imgix.net/5be54ea85bb34695afafe205ba2668390e5908b9.jpg?auto=compress,format&fit=clip&h=200&w=200&s=162f781ae8a5876c22656595eda45853",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/5573944bbe3100610f37b174f1bbcb0f20c2f9d7.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=20d70d0f2e59418ff5bc84303a19c121",
+            "front_page_art_imgix": "https://hb.imgix.net/5573944bbe3100610f37b174f1bbcb0f20c2f9d7.png?auto=compress,format&w=180&s=b7701f7018d7505fd8c1623ff0a2c32a",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/5573944bbe3100610f37b174f1bbcb0f20c2f9d7.png?auto=compress,format&fit=clip&h=80&w=170&s=8fb5f246ce212032f2f045c7b667fb26",
+            "preview_image": "https://hb.imgix.net/5be54ea85bb34695afafe205ba2668390e5908b9.jpg?auto=compress,format&fit=clip&h=350&w=600&s=275658e6914ffe6b5afdb13d9c2d25ec"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Cryptography Algorithms",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "automatingsecuritydetectionengineering": {
+        "machine_name": "automatingsecuritydetectionengineering",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "764.7 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/automatingsecuritydetectionengineering_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/automatingsecuritydetectionengineering_preview.pdf?t=st=1741450610~exp=1741537010~hmac=eba7d11ee7ab3df3bcb608b8f71795bdd298d02d6d7cf81298277e65b00d4c82"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Packt",
+                "publisher-url": "https://www.packtpub.com/product/Automating-Security-Detection-Engineering/9781837636419"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 17.51
+        },
+        "subtitle_html": null,
+        "description_text": "<h4>Key Features</h4><ul><li>Create automated CI/CD pipelines for testing and implementing threat detection use cases</li><li>Apply implementation strategies to optimize the adoption of automated work streams</li><li>Use a variety of enterprise-grade tools and APIs to bolster your detection program</li><li>Purchase of the print or Kindle book includes a free PDF eBook</li></ul><h4>Who this book is for</h4>This book is for security engineers and analysts responsible for the day-to-day tasks of developing and implementing new detections at scale. If you\u2019re working with existing programs focused on threat detection, you\u2019ll also find this book helpful. Prior knowledge of DevSecOps, hands-on experience with any programming or scripting languages, and familiarity with common security practices and tools are recommended for an optimal learning experience.",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/automatingsecuritydetectionengineering.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Automating Security Detection Engineering",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/automatingsecuritydetectionengineering_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Dennis Chow, David Bruskin"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/07006ca66e4b642ed3aea18154cbac769b18e84e.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=dd259c8aa8924d124094694d26b63135",
+            "featured_image": null,
+            "front_page_art_imgix_retina": "https://hb.imgix.net/93bd0b9d67cacd1fcfd3cb0988a68b9fa76676d9.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=de6aae2259c4acd124669d0e3179df13",
+            "preview_image_bonus": "https://hb.imgix.net/07006ca66e4b642ed3aea18154cbac769b18e84e.jpg?auto=compress,format&fit=clip&h=200&w=200&s=843e4947736eaf08ddae35c2875f0f1a",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/93bd0b9d67cacd1fcfd3cb0988a68b9fa76676d9.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=77d8baa8a94d387e2c6f77ab9264d3f7",
+            "front_page_art_imgix": "https://hb.imgix.net/93bd0b9d67cacd1fcfd3cb0988a68b9fa76676d9.png?auto=compress,format&w=180&s=a996bc73c6df89ead04b8a43042cf9d0",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/93bd0b9d67cacd1fcfd3cb0988a68b9fa76676d9.png?auto=compress,format&fit=clip&h=80&w=170&s=2cf60850ab2ae26bcc3b47e9f8e942b4",
+            "preview_image": "https://hb.imgix.net/07006ca66e4b642ed3aea18154cbac769b18e84e.jpg?auto=compress,format&fit=clip&h=350&w=600&s=0b1805d1e69748f23b1a9063e019d9e6"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Automating Security Detection Engineering",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "worldcentralkitchen": {
+        "machine_name": "worldcentralkitchen",
+        "youtube_link": "eO18SQJYxcg",
+        "item_content_type": null,
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": null,
+        "featured_image": null,
+        "ppgf_info": {
+            "category": "Human Services,Disaster Relief,International",
+            "city": "Washington",
+            "description": "World Central Kitchen (WCK) uses the power of food to nourish communities and strengthen economies in times of crisis and beyond. When disaster strikes, WCK's Chef Relief Team mobilizes to the front lines with the urgency of now to start cooking and provide meals to people in need. WCK's resilience work advances human and environmental health, offers access to professional culinary training, creates jobs, and improves food security for the people we serve.  ",
+            "url": "",
+            "country": "US",
+            "charity_id": "1389363",
+            "state": "DC",
+            "keywords": "Ukraine, chef, hunger, poverty, WCK, Jose, Andres,  cooking, America, Poland",
+            "human_name": "World Central Kitchen, Inc",
+            "logo_url": "https://hbproxy.imgix.net/https%3A%2F%2Fpics.paypal.com%2F00%2Fs%2FZDE1MDM1OTgtZDBlNC00NzFjLTg5MzQtYjllODJhMzc5OTg3%2Ffile.PNG?auto=compress&auto=format&bg=fff&fit=fill&h=350&w=510&s=a0dc5d8da48fe1958dd3c1a3785a0e05"
+        },
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": null,
+        "publishers": [],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "subtitle_html": null,
+        "description_text": "<p><em>Donations to support World Central Kitchen are made to the&nbsp;<a rel=\"nofollow noopener\" target=\"_blank\" href=\"https://support.humblebundle.com/hc/en-us/articles/205183597\">PayPal Giving Fund</a>, subject to its policies.</em></p>\n<p><span>World Central Kitchen (WCK) is a non-profit organization addressing food insecurity during and after natural disasters and humanitarian crises, while also operating long-term programs aimed at improving livelihoods by strengthening local food ecosystems. Founded in 2010 by Chef Jose Andres following the devastating earthquake in Haiti, WCK has since served more than 8 million meals to those affected by disasters.</span></p>",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/charities/worldcentralkitchen.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": " ",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/charities/worldcentralkitchen.png",
+        "developers": [
+            {
+                "developer-name": "wck.org",
+                "developer-url": "https://wck.org/"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {},
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/7583459af38416a98b470c56b8cd93833b621946.png?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=126bdf5ff36dbd480126bd4bf5625803",
+            "featured_image": null,
+            "front_page_art_imgix_retina": "https://hb.imgix.net/7583459af38416a98b470c56b8cd93833b621946.png?auto=compress,format&dpr=2&fit=clip&h=240&w=180&s=409601a05dd55cef5825feabc19051a9",
+            "preview_image_bonus": "https://hb.imgix.net/7583459af38416a98b470c56b8cd93833b621946.png?auto=compress,format&fit=clip&h=200&w=200&s=33e246fad5e8e26301b17e16b5ed634e",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/7583459af38416a98b470c56b8cd93833b621946.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=1f137af70990467585f011d4fb074b22",
+            "front_page_art_imgix": "https://hb.imgix.net/7583459af38416a98b470c56b8cd93833b621946.png?auto=compress,format&fit=clip&h=240&w=180&s=9f618d98f14a50c3197e04e68dfb7670",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/7583459af38416a98b470c56b8cd93833b621946.png?auto=compress,format&fit=clip&h=80&w=170&s=370efc5b702caf92a064d83e99213acf",
+            "preview_image": "https://hb.imgix.net/7583459af38416a98b470c56b8cd93833b621946.png?auto=compress,format&fit=clip&h=350&w=600&s=cd48972ec1b7086a9e2b05325f626e63"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "World Central Kitchen",
+        "is_mystery_box": null,
+        "payee_secondary_id": "1389363",
+        "wallet_credit": {}
+    },
+    "powershellautomationandscriptingforcybersecurity": {
+        "machine_name": "powershellautomationandscriptingforcybersecurity",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "80.2 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/powershellautomationandscriptingforcybersecurity_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/powershellautomationandscriptingforcybersecurity_preview.pdf?t=st=1741450610~exp=1741537010~hmac=3343f48decbd2b85860469cd703a37bf040141a9af5c06e607c06f344d7b3b36"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Packt",
+                "publisher-url": "https://www.packtpub.com/product/PowerShell-Automation-and-Scripting-for-Cybersecurity/9781800566378"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 9.73
+        },
+        "subtitle_html": null,
+        "description_text": "<h4>Key Features</h4><ul><li>Master PowerShell for security by configuring, auditing, monitoring, exploiting, and bypassing defenses</li><li>Research and develop methods to bypass security features and use stealthy tradecraft</li><li>Explore essential security features in PowerShell and protect your environment against exploits and bypasses</li></ul><h4>Who this book is for</h4>This book is for security professionals, penetration testers, system administrators, and red and blue teams looking to learn how to leverage PowerShell for security operations. A basic understanding of PowerShell, cybersecurity fundamentals, and scripting is a must. For some parts a basic understanding of active directory, C++/C#, and assembly can be beneficial.",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/powershellautomationandscriptingforcybersecurity.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "PowerShell Automation and Scripting for Cybersecurity",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/powershellautomationandscriptingforcybersecurity_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Miriam C. Wiesner, Tanya Janca"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/3cb425c84a69cbe01bddc67291c45b7696e8c772.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=208bfdc1f2f953f35a5439d766124e6a",
+            "featured_image": null,
+            "front_page_art_imgix_retina": "https://hb.imgix.net/6f175326a6a95df2d72d8308c6d1084e59920c30.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=9231e60b3cd42ed725b99083542cc000",
+            "preview_image_bonus": "https://hb.imgix.net/3cb425c84a69cbe01bddc67291c45b7696e8c772.jpg?auto=compress,format&fit=clip&h=200&w=200&s=6781006cae62e2a88276caaf7c292bad",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/6f175326a6a95df2d72d8308c6d1084e59920c30.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=35889da9a61478b39bc5aec9af6c1165",
+            "front_page_art_imgix": "https://hb.imgix.net/6f175326a6a95df2d72d8308c6d1084e59920c30.png?auto=compress,format&w=180&s=d73172fb9bc5a3a67e3a152a86767e9e",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/6f175326a6a95df2d72d8308c6d1084e59920c30.png?auto=compress,format&fit=clip&h=80&w=170&s=fe1f687d9e2789b0c67e41374530d2bc",
+            "preview_image": "https://hb.imgix.net/3cb425c84a69cbe01bddc67291c45b7696e8c772.jpg?auto=compress,format&fit=clip&h=350&w=600&s=a0df567f59a992d3e7f2afa9d19de97f"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "PowerShell Automation and Scripting for Cybersecurity",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "ultimatekalilinuxbook": {
+        "machine_name": "ultimatekalilinuxbook",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": "<div class=\"accolades\">3rd Edition</div>",
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "58.5 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/ultimatekalilinuxbook_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/ultimatekalilinuxbook_preview.pdf?t=st=1741450610~exp=1741537010~hmac=8f9e02b0865a474c483da5a7c3640b7b8a7eac701dddd5f44750affe04ad17a5"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Packt",
+                "publisher-url": "https://www.packtpub.com/product/The-Ultimate-Kali-Linux-Book/9781835085806"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 1.0
+        },
+        "subtitle_html": null,
+        "description_text": "<h4>Key Features</h4><ul><li>Learn to think like an adversary to strengthen your cyber defences</li><li>Execute sophisticated real-life penetration tests, uncovering vulnerabilities in enterprise networks that go beyond the surface level</li><li>Securely manipulate environments using Kali Linux, ensuring you're fully equipped to safeguard your systems against real-world threats</li></ul><h4>Who this book is for</h4>This pentesting book is for students, trainers, cybersecurity professionals, cyber enthusiasts, network security professionals, ethical hackers, penetration testers, and security engineers. If you do not have any prior knowledge and are looking to become an expert in penetration testing using the Kali Linux, then this book is for you.",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/ultimatekalilinuxbook.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "The Ultimate Kali Linux Book",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/ultimatekalilinuxbook_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Glen D. Singh"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/d2ad4143f504c1ea1fb96de1a7edaa2feb33a958.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=0de3941d267410cea73364e26da5c584",
+            "featured_image": null,
+            "front_page_art_imgix_retina": "https://hb.imgix.net/cc4352a98728842a4874000cd10b7dfb09c7c7fc.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=02a5234b08c88450825078007812356f",
+            "preview_image_bonus": "https://hb.imgix.net/d2ad4143f504c1ea1fb96de1a7edaa2feb33a958.jpg?auto=compress,format&fit=clip&h=200&w=200&s=8f607ad637ea67505fa7b5b372720d24",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/cc4352a98728842a4874000cd10b7dfb09c7c7fc.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=6510b5163365ab7106deebd47d3b4528",
+            "front_page_art_imgix": "https://hb.imgix.net/cc4352a98728842a4874000cd10b7dfb09c7c7fc.png?auto=compress,format&w=180&s=ccc67dc8371d33f79663903098afb26a",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/cc4352a98728842a4874000cd10b7dfb09c7c7fc.png?auto=compress,format&fit=clip&h=80&w=170&s=76eba4c4bd4d942a440740391313afda",
+            "preview_image": "https://hb.imgix.net/d2ad4143f504c1ea1fb96de1a7edaa2feb33a958.jpg?auto=compress,format&fit=clip&h=350&w=600&s=d129a52187f803eacd437b41fd884e6c"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "The Ultimate Kali Linux Book",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "securitymonitoringwithwazuh": {
+        "machine_name": "securitymonitoringwithwazuh",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "897.2 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/securitymonitoringwithwazuh_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/securitymonitoringwithwazuh_preview.pdf?t=st=1741450610~exp=1741537010~hmac=ab428aba844ee207b7301645ebc2d6d4bc02a882b637c116568888e2664c01dd"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Packt",
+                "publisher-url": "https://www.packtpub.com/product/Security-Monitoring-with-Wazuh/9781837632152"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 9.73
+        },
+        "subtitle_html": null,
+        "description_text": "<h4>Key Features</h4><ul><li>Get a thorough overview of Wazuh\u2019s features and learn how to make the most of them</li><li>Detect network and host-based intrusion, monitor for known vulnerabilities and exploits, and detect anomalous behavior</li><li>Build a monitoring system for security compliance that adheres to frameworks such as MITRE ATT&amp;CK, PCI DSS, and GDPR</li><li>Purchase of the print or Kindle book includes a free PDF eBook</li></ul><h4>Who this book is for</h4>This book is for SOC analysts, security architects, and security engineers who want to set up open-source SOC with critical capabilities such as file integrity monitoring, security monitoring, threat intelligence automation, and cloud security monitoring. Managed service providers aiming to build a scalable security monitoring system for their clients will also find valuable insights in this book. Familiarity with basic IT, cybersecurity, cloud, and Linux concepts is necessary to get started.",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/securitymonitoringwithwazuh.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Security Monitoring with Wazuh",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/securitymonitoringwithwazuh_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Rajneesh Gupta, Santiago Bassett"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/1510e43fe6d78438b24ccb70677215fec0085f2f.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=b1111fa13c5b1e6121aedc3b30273b8a",
+            "featured_image": null,
+            "front_page_art_imgix_retina": "https://hb.imgix.net/96c272f7e1210f170486faa70a7303ce717d837c.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=7e72e9d7d1ee647789d5d648de27486f",
+            "preview_image_bonus": "https://hb.imgix.net/1510e43fe6d78438b24ccb70677215fec0085f2f.jpg?auto=compress,format&fit=clip&h=200&w=200&s=2ffdab9725e53186a13987c6b1e6f970",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/96c272f7e1210f170486faa70a7303ce717d837c.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=3963f34cf291a135ff37fb62786459f4",
+            "front_page_art_imgix": "https://hb.imgix.net/96c272f7e1210f170486faa70a7303ce717d837c.png?auto=compress,format&w=180&s=771f1ce31044e4559f1547393f9bb021",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/96c272f7e1210f170486faa70a7303ce717d837c.png?auto=compress,format&fit=clip&h=80&w=170&s=0d506b092df24446b06b5fa39d433bc9",
+            "preview_image": "https://hb.imgix.net/1510e43fe6d78438b24ccb70677215fec0085f2f.jpg?auto=compress,format&fit=clip&h=350&w=600&s=be290e5d9ed04b46aefc6bc1edf90df8"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Security Monitoring with Wazuh",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "resilientcybersecurity": {
+        "machine_name": "resilientcybersecurity",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "239.1 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/resilientcybersecurity_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/resilientcybersecurity_preview.pdf?t=st=1741450610~exp=1741537010~hmac=6bb740faa274536354a8dfa4e720696733aa1c5710791d6376333b8384e6b196"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Packt",
+                "publisher-url": "https://www.packtpub.com/product/Resilient-Cybersecurity/9781835462515"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 17.51
+        },
+        "subtitle_html": null,
+        "description_text": "<h4>Key Features</h4><ul><li>Gain a deep understanding of the current state of cybersecurity, including insights into the latest threats such as Ransomware and AI</li><li>Lay the foundation of your cybersecurity program with a comprehensive approach allowing for continuous maturity</li><li>Equip yourself with the strategies needed to build and manage an effective cybersecurity program</li></ul><h4>Who this book is for</h4>This book is geared towards the top leaders within an organization, C-level, CISO/CSO, directors, and program managers who build the strategy and execute the program. Cybersecurity managers, architects, engineers, administrators, analysts, and project managers who work in Cybersecurity would also benefit from this book. In addition, those who are still determining what they would like to do within cybersecurity can also benefit from this book by gaining an understanding of everything involved within a cybersecurity program. Basic knowledge of cybersecurity and its concepts will be helpful.",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/resilientcybersecurity.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Resilient Cybersecurity",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/resilientcybersecurity_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Mark Dunkerley"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/a5c46b34a9a7dfdbe8353ceaa60935b9d6d1ae8c.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=b152e3456e909e11f0a2f734d9fcadb8",
+            "featured_image": null,
+            "front_page_art_imgix_retina": "https://hb.imgix.net/161bb90e7c8d3ea21f348721aa343d61d253094a.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=f82ebbd6f0654cc78c5b56b7f30b4d38",
+            "preview_image_bonus": "https://hb.imgix.net/a5c46b34a9a7dfdbe8353ceaa60935b9d6d1ae8c.jpg?auto=compress,format&fit=clip&h=200&w=200&s=20f19c91701ce174da4d4481befc416b",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/161bb90e7c8d3ea21f348721aa343d61d253094a.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=42498591ca1bebf7e492e7aae2b03be7",
+            "front_page_art_imgix": "https://hb.imgix.net/161bb90e7c8d3ea21f348721aa343d61d253094a.png?auto=compress,format&w=180&s=ef92ad4db515d7b32bf69d7d08a511cc",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/161bb90e7c8d3ea21f348721aa343d61d253094a.png?auto=compress,format&fit=clip&h=80&w=170&s=6a72fddad4abbd0b953a963cce35f30e",
+            "preview_image": "https://hb.imgix.net/a5c46b34a9a7dfdbe8353ceaa60935b9d6d1ae8c.jpg?auto=compress,format&fit=clip&h=350&w=600&s=61b378d181bf6425ffb9594fe2aefe4b"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Resilient Cybersecurity",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    }
+}

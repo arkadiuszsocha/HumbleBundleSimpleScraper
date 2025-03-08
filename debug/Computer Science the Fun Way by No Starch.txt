@@ -1,0 +1,2830 @@
+{
+    "computergraphicsfromscratch": {
+        "machine_name": "computergraphicsfromscratch",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-text-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download",
+                "hb-file-text-o": "MOBI"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-text-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-text-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "121.7 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/computergraphicsfromscratch_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/computergraphicsfromscratch_preview.pdf?t=st=1741450609~exp=1741537009~hmac=d54952992bbf8e9a4374a3c84f819c25548d45dcb892e8ac8ac8bbc85fe58d5a"
+        },
+        "publishers": [
+            {
+                "publisher-name": "No Starch Press",
+                "publisher-url": "https://nostarch.com/computer-graphics-scratch"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 17.14
+        },
+        "subtitle_html": null,
+        "description_text": "<p>Computer graphics programming books are often math-heavy and intimidating for newcomers. Not this one.\u00a0<em>Computer Graphics from Scratch</em>\u00a0takes a simpler approach by keeping the math to a minimum and focusing on only one aspect of computer graphics, 3D rendering.</p><p>You\u2019ll build two complete, fully functional renderers: a raytracer, which simulates rays of light as they bounce off objects, and a rasterizer, which converts 3D models into 2D pixels. As you progress you\u2019ll learn how to create realistic reflections and shadows, and how to render a scene from any point of view.</p><p>Pseudocode examples throughout make it easy to write your renderers in any language, and links to live JavaScript demos of each algorithm invite you to explore further on your own.</p><p>Learn how to:</p><ul><li>Use perspective projection to draw 3D objects on a 2D plane</li><li>Simulate the way rays of light interact with surfaces</li><li>Add mirror-like reflections and cast shadows to objects</li><li>Render a scene from any camera position using clipping planes</li><li>Use flat, Gouraud, and Phong shading to mimic real surface lighting</li><li>Paint texture details onto basic shapes to create realistic-looking objects</li></ul><p>Whether you\u2019re an aspiring graphics engineer or a novice programmer curious about how graphics algorithms work, Gabriel Gambetta\u2019s simple, clear explanations will quickly put computer graphics concepts and rendering techniques within your reach. All you need is basic coding knowledge and high school math.\u00a0<em>Computer Graphics from Scratch</em>\u00a0will cover the rest.</p>",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/computergraphicsfromscratch.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Computer Graphics from Scratch",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/computergraphicsfromscratch_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Gabriel Gambetta"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub",
+                    "mobi"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/93aa8974a1cf9ce426d6cd13eb44308c3a81def1.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=cd34a55dee99e4243145729530dce330",
+            "featured_image": null,
+            "front_page_art_imgix_retina": "https://hb.imgix.net/010808d08b8fa1d2a7d81c4ddd4572613e63303e.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=2d840c67a3fcd14fc6703d2d0e7cf672",
+            "preview_image_bonus": "https://hb.imgix.net/93aa8974a1cf9ce426d6cd13eb44308c3a81def1.jpg?auto=compress,format&fit=clip&h=200&w=200&s=db85cf0fe65e2e5fbe7fbd5dabe73e83",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/010808d08b8fa1d2a7d81c4ddd4572613e63303e.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=2ec047ea64c7418ef865f37dcbc8123a",
+            "front_page_art_imgix": "https://hb.imgix.net/010808d08b8fa1d2a7d81c4ddd4572613e63303e.png?auto=compress,format&w=180&s=98d234ac1156519a42d6db23e5961f39",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/010808d08b8fa1d2a7d81c4ddd4572613e63303e.png?auto=compress,format&fit=clip&h=80&w=170&s=4225b394b5a92ee79fdf20f5b3e433c8",
+            "preview_image": "https://hb.imgix.net/93aa8974a1cf9ce426d6cd13eb44308c3a81def1.jpg?auto=compress,format&fit=clip&h=350&w=600&s=e8c4fae29a3fd84039b69275d42b9ee5"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Computer Graphics from Scratch",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "codecraft": {
+        "machine_name": "codecraft",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-text-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download",
+                "hb-file-text-o": "MOBI"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-text-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-text-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "78.9 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/codecraft_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/codecraft_preview.pdf?t=st=1741450609~exp=1741537009~hmac=ce715aa76f9ddd6d57f268aca70bbb22c6393434ee262cabde9d1311278aadef"
+        },
+        "publishers": [
+            {
+                "publisher-name": "No Starch Press",
+                "publisher-url": "https://nostarch.com/codecraft"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 1.0
+        },
+        "subtitle_html": null,
+        "description_text": "<p>You know how to write code that works, but what about code that\u2019s well written and easy to understand? And robust and bug-free? If other programmers looked at your handiwork, would they be able to figure out the code\u2019s logic and purpose? Exceptional programmers have more than just technical know-how; they adopt the right approach and attitude to development.</p><p><em>Code Craft</em>\u00a0will help take your programming beyond writing correct code to writing great code, thus turning you into a true programming professional or enhancing your existing professional skills.</p><p>With language-agnostic advice that\u2019s relevant to all developers,\u00a0<em>Code Craft</em>\u00a0covers code-writing concerns such as presentation style, variable naming, error handling, and security. And it tackles broader, real-world programming issues like effective teamwork, development processes, and documentation. Each chapter ends with a Q&amp;A section that reviews key concepts to get you thinking like an expert, making it an especially great reference for newer programmers who want to work professionally and efficiently as part of a team.</p><p>This survival guide for the software factory will show you how to:</p><ul><li>Write good code when the world\u2019s not helping you</li><li>Avoid disasters and distractions in the workplace</li><li>Assess your abilities accurately and determine ways to improve</li><li>Adopt productive attitudes and follow best practices\u00a0</li></ul><p>There\u2019s little more valuable than the advice of a true, programming professional. You\u2019ll find\u00a0<em>Code Craft</em>\u00a0to be clear, practical, and entertaining throughout, and a great way to take your code (and your career) to the next level.</p>",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/codecraft.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Code Craft: The Practice of Writing Excellent Code",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/codecraft_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Pete Goodliffe"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub",
+                    "mobi"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/f1525b752d37c7a062b9e7a5a7891c9037b999b4.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=7c4cda8784ef39975e9b0b6b96323d0d",
+            "featured_image": null,
+            "front_page_art_imgix_retina": "https://hb.imgix.net/fa5dc6a2f9fdad7ac00087fb7ca54afc67e8222c.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=39e48bc3c7b7d76abba8d3366672c307",
+            "preview_image_bonus": "https://hb.imgix.net/f1525b752d37c7a062b9e7a5a7891c9037b999b4.jpg?auto=compress,format&fit=clip&h=200&w=200&s=d6fd3e77d29d65b252e6caf811e268a7",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/fa5dc6a2f9fdad7ac00087fb7ca54afc67e8222c.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=4222a2e9bb51bc42ee2e9a1233c060ad",
+            "front_page_art_imgix": "https://hb.imgix.net/fa5dc6a2f9fdad7ac00087fb7ca54afc67e8222c.png?auto=compress,format&w=180&s=1059808454990b1d753f41705af8b3db",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/fa5dc6a2f9fdad7ac00087fb7ca54afc67e8222c.png?auto=compress,format&fit=clip&h=80&w=170&s=579720a409a72c047854eae679c492d3",
+            "preview_image": "https://hb.imgix.net/f1525b752d37c7a062b9e7a5a7891c9037b999b4.jpg?auto=compress,format&fit=clip&h=350&w=600&s=f7738c3507e30400e2bd127042b8d177"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Code Craft",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "effectivec_2ndedition": {
+        "machine_name": "effectivec_2ndedition",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-text-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download",
+                "hb-file-text-o": "MOBI"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-text-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-text-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "273.6 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/effectivec_2ndedition_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/effectivec_2ndedition_preview.pdf?t=st=1741450609~exp=1741537009~hmac=5a1ced67f338ad57bc8a41a0f3775f06b1dc8d5171c208ae3d3bb379ad67bd66"
+        },
+        "publishers": [
+            {
+                "publisher-name": "No Starch Press",
+                "publisher-url": "https://nostarch.com/effective-c-2nd-edition"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 34.29
+        },
+        "subtitle_html": null,
+        "description_text": "<p>The latest release of the C programming language, C23, enhances the safety, security, and usability of the language. This second edition of\u00a0<em>Effective C</em>\u00a0has been thoroughly updated to cover C23, offering a modern introduction to C that will teach you best practices for writing professional, effective, and secure programs that solve real-world problems.</p><p><em>Effective C</em>\u00a0is a true product of the C community. Robert C. Seacord, a long-standing member of the C standards committee with over 40 years of programming experience, developed the book in collaboration with other C experts, such as Clang\u2019s lead maintainer Aaron Ballman and C project editor JeanHeyd Meneide. Thanks to the efforts of this expert group, you\u2019ll learn how to:</p><ul><li>Develop professional C code that is fast, robust,\u00a0and secure</li><li>Use objects, functions, and types effectively</li><li>Safely and correctly use integers and floating-point types</li><li>Manage dynamic memory allocation\u00a0</li><li>Use strings and character types efficiently</li><li>Perform I/O operations using C standard streams and POSIX file descriptors\u00a0</li><li>Make effective use of C\u2019s preprocessor</li><li>Debug, test, and analyze C programs\u00a0</li></ul><p>The world runs on code written in C.\u00a0<em>Effective C</em>\u00a0will show you how to get the most out of the language and build robust programs that stand the test of time.</p><p><strong>New to this edition:</strong>\u00a0This edition has been extensively rewritten to align with modern C23 programming practices and leverage the latest C23 features.</p><p>Updated to cover C23</p>",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/effectivec_2ndedition.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Effective C, 2nd Edition",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/effectivec_2ndedition_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Robert C. Seacord"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub",
+                    "mobi"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/af9a630021ff1115f5ce3431c26e22f742d3fa81.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=ffc00a68db239f397f7d5c966e9a2f44",
+            "featured_image": null,
+            "front_page_art_imgix_retina": "https://hb.imgix.net/a5ba732c450c675b48b96e573fe8cd258fd94cbe.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=606bafea853ab6bc06bf4c4a13112907",
+            "preview_image_bonus": "https://hb.imgix.net/af9a630021ff1115f5ce3431c26e22f742d3fa81.jpg?auto=compress,format&fit=clip&h=200&w=200&s=f8995c3f86de35c895930c8debeac74d",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/a5ba732c450c675b48b96e573fe8cd258fd94cbe.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=8a3c835b3df317ba85b8336517606e9e",
+            "front_page_art_imgix": "https://hb.imgix.net/a5ba732c450c675b48b96e573fe8cd258fd94cbe.png?auto=compress,format&w=180&s=981085768364b3af90a609c2e4bf1d91",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/a5ba732c450c675b48b96e573fe8cd258fd94cbe.png?auto=compress,format&fit=clip&h=80&w=170&s=878276e29fe0a511d22797e083dc5f54",
+            "preview_image": "https://hb.imgix.net/af9a630021ff1115f5ce3431c26e22f742d3fa81.jpg?auto=compress,format&fit=clip&h=350&w=600&s=ccaf0ee63bf688264582c90209098cd6"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Effective C, 2nd Edition",
+        "is_mystery_box": null,
+        "payee_secondary_id": "",
+        "wallet_credit": {}
+    },
+    "computerarchitecture": {
+        "machine_name": "computerarchitecture",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-text-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download",
+                "hb-file-text-o": "MOBI"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-text-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-text-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "934.9 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/computerarchitecture_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/computerarchitecture_preview.pdf?t=st=1741450609~exp=1741537009~hmac=5196d8c59fecd4a7c422295c05c4c9745e00e70e12fb987482763f52833423cc"
+        },
+        "publishers": [
+            {
+                "publisher-name": "No Starch Press",
+                "publisher-url": "https://nostarch.com/computerarchitecture"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 34.29
+        },
+        "subtitle_html": null,
+        "description_text": "<p><em>Computer Architecture</em>\u00a0is an in-depth exploration of the principles and designs that have shaped computer hardware through the ages, from counting devices like the abacus, to Babbage\u2019s Difference Engine, to modern GPUs and the frontiers of quantum computing.</p><p>This engaging blend of history, theory, hands-on exercises, and real-world examples is sure to make for an insightful romp through a fast-changing world. You won\u2019t just read about computer architecture, you\u2019ll also gain the understanding to touch, build, and program it. You\u2019ll explore the basic structures of a CPU by learning to program a Victorian Analytical Engine. You\u2019ll extend electronic machines to 8-bit and 16-bit retro gaming computers, learning to program a Commodore 64 and an Amiga. You\u2019ll delve into x86 and RISC-V architectures, cloud and supercomputers, and ideas for future technologies.\u00a0</p><p>You\u2019ll also learn:</p><ul><li>How to represent data with different coding schemes and build digital logic gates</li><li>The basics of machine and assembly language programming</li><li>How pipelining, out-of-order execution, and parallelism work, in context</li><li>The power and promise of neural networks, DNA, photonics, and quantum computing\u00a0</li></ul><p>Whether you\u2019re a student, a professional, or simply a tech enthusiast, after reading this book, you\u2019ll grasp the milestones of computer architecture and be able to engage directly with the technology that defines today\u2019s world. Prepare to be inspired, challenged, and above all, see and experience the digital world, hands-on.</p>",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/computerarchitecture.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Computer Architecture",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/computerarchitecture_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Charles Fox"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub",
+                    "mobi"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/a739d3b4a1acf32485a813dd4cd83859fef16f04.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=68e5728f09f0bbcbadd6232ce7551dce",
+            "featured_image": null,
+            "front_page_art_imgix_retina": "https://hb.imgix.net/8f1993ef6921a508a51e4a5eebcbce4a8feb154c.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=f9cb7dbf866a4d7f3646a2b35143c113",
+            "preview_image_bonus": "https://hb.imgix.net/a739d3b4a1acf32485a813dd4cd83859fef16f04.jpg?auto=compress,format&fit=clip&h=200&w=200&s=ea773bac5474d1b6e374852a7bcdc0fa",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/8f1993ef6921a508a51e4a5eebcbce4a8feb154c.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=5c6dabfdfdcde41fed28b3f8cbfb863c",
+            "front_page_art_imgix": "https://hb.imgix.net/8f1993ef6921a508a51e4a5eebcbce4a8feb154c.png?auto=compress,format&w=180&s=2cf3e95e8ff25e09c7bcc59bcc8a43c7",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/8f1993ef6921a508a51e4a5eebcbce4a8feb154c.png?auto=compress,format&fit=clip&h=80&w=170&s=8ecb73c65b36824429030f552758162e",
+            "preview_image": "https://hb.imgix.net/a739d3b4a1acf32485a813dd4cd83859fef16f04.jpg?auto=compress,format&fit=clip&h=350&w=600&s=325a7a2202b41e64c88c6517e0b113bc"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Computer Architecture",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "diveintosystems": {
+        "machine_name": "diveintosystems",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-text-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download",
+                "hb-file-text-o": "MOBI"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-text-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-text-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "418.6 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/diveintosystems_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/diveintosystems_preview.pdf?t=st=1741450609~exp=1741537009~hmac=48f544fca3219059f087a36c418235d5c2f648a85c8f7b528f5d57cb62466f9f"
+        },
+        "publishers": [
+            {
+                "publisher-name": "No Starch Press",
+                "publisher-url": "https://nostarch.com/dive-systems"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 34.29
+        },
+        "subtitle_html": null,
+        "description_text": "<p><em>Dive Into Systems</em>\u00a0is a vivid introduction to computer organization, architecture, and operating systems that is already being used as a classroom textbook at more than 25 universities.</p><p>This textbook is a crash course in the major hardware and software components of a modern computer system. Designed for use in a wide range of introductory-level computer science classes, it guides readers through the vertical slice of a computer so they can develop an understanding of the machine at various layers of abstraction.</p><p>Early chapters begin with the basics of the C programming language often used in systems programming. Other topics explore the architecture of modern computers, the inner workings of operating systems, and the assembly languages that translate human-readable instructions into a binary representation that the computer understands. Later chapters explain how to optimize code for various architectures, how to implement parallel computing with shared memory, and how memory management works in multi-core CPUs. Accessible and easy to follow, the book uses images and hands-on exercise to break down complicated topics, including code examples that can be modified and executed.</p>",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/diveintosystems.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Dive Into Systems",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/diveintosystems_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Suzanne J. Matthews"
+            },
+            {
+                "developer-name": "Tia Newhall"
+            },
+            {
+                "developer-name": "Kevin C. Webb"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub",
+                    "mobi"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/ecf2f8bf00cfbbed6829c0389f130c0b836e5a15.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=4661dc5d85ffa56a52d528853245f822",
+            "featured_image": null,
+            "front_page_art_imgix_retina": "https://hb.imgix.net/13903ed3ccdf0f907cca92931a380aee77d9ba26.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=bf63c10df0f1d8d65a0add7ae69c1a98",
+            "preview_image_bonus": "https://hb.imgix.net/ecf2f8bf00cfbbed6829c0389f130c0b836e5a15.jpg?auto=compress,format&fit=clip&h=200&w=200&s=1f8714a9a34dd259c6ca33c0ee8c56e5",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/13903ed3ccdf0f907cca92931a380aee77d9ba26.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=377dd0d980008b026111103539aecc2c",
+            "front_page_art_imgix": "https://hb.imgix.net/13903ed3ccdf0f907cca92931a380aee77d9ba26.png?auto=compress,format&w=180&s=63dc1e9ac67762403191cebd89fa63d4",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/13903ed3ccdf0f907cca92931a380aee77d9ba26.png?auto=compress,format&fit=clip&h=80&w=170&s=4b039625b784ab036127dacdd8e8fad9",
+            "preview_image": "https://hb.imgix.net/ecf2f8bf00cfbbed6829c0389f130c0b836e5a15.jpg?auto=compress,format&fit=clip&h=350&w=600&s=bff0ba402ebef207fb479342c762540c"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Dive Into Systems",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "insidethemachine": {
+        "machine_name": "insidethemachine",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-text-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download",
+                "hb-file-text-o": "MOBI"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-text-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-text-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "131.7 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/insidethemachine_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/insidethemachine_preview.pdf?t=st=1741450609~exp=1741537009~hmac=a7d60e24a8db169a1ac4f540374af77c26b06440999fff78d2f030174d80cdc5"
+        },
+        "publishers": [
+            {
+                "publisher-name": "No Starch Press",
+                "publisher-url": "https://nostarch.com/insidemachine.htm"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 1.0
+        },
+        "subtitle_html": null,
+        "description_text": "<p>Computers perform countless tasks ranging from the business critical to the recreational, but regardless of how differently they may look and behave, they\u2019re all amazingly similar in basic function. Once you understand how the microprocessor\u2014or central processing unit (CPU)\u2014works, you\u2019ll have a firm grasp of the fundamental concepts at the heart of all modern computing.</p><p><em>Inside the Machine</em>, from the co-founder of the highly respected Ars Technica website, explains how microprocessors operate\u2014what they do and how they do it. The book uses analogies, full-color diagrams, and clear language to convey the ideas that form the basis of modern computing. After discussing computers in the abstract, the book examines specific microprocessors from Intel, IBM, and Motorola, from the original models up through today\u2019s leading processors. It contains the most comprehensive and up-to-date information available (online or in print) on Intel\u2019s latest processors: the Pentium M, Core, and Core 2 Duo.\u00a0<em>Inside the Machine</em>\u00a0also explains technology terms and concepts that you often hear but may not fully understand, such as \u201cpipelining,\u201d \u201cL1 cache,\u201d \u201cmain memory,\u201d \u201csuperscalar processing,\u201d and \u201cout-of-order execution.\u201d</p><p>Includes discussion of:</p><ul><li>Parts of the computer and microprocessor</li><li>Programming fundamentals (arithmetic instructions, memory accesses, control flow instructions, and data types)</li><li>Intermediate and advanced microprocessor concepts (branch prediction and speculative execution)</li><li>Intermediate and advanced computing concepts (instruction set architectures, RISC and CISC, the memory hierarchy, and encoding and decoding machine language instructions)</li><li>64-bit computing vs. 32-bit computing</li><li>Caching and performance</li></ul><p><em>Inside the Machine</em>\u00a0is perfect for students of science and engineering, IT and business professionals, and the growing community of hardware tinkerers who like to dig into the guts of their machines.</p>",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/insidethemachine.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Inside the Machine",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/insidethemachine_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Jon Stokes"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub",
+                    "mobi"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/993ff9a048c11a1a4961f29b7129cb0e016b0217.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=d8566e90b6590081becab93f29447e2c",
+            "featured_image": null,
+            "front_page_art_imgix_retina": "https://hb.imgix.net/f47cf9cec854bf2f3a73cf29df0cd9b0e54e1c78.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=78c2dd7e33cb1e01243141556d60a149",
+            "preview_image_bonus": "https://hb.imgix.net/993ff9a048c11a1a4961f29b7129cb0e016b0217.jpg?auto=compress,format&fit=clip&h=200&w=200&s=d444ffd96af61742856306ff553dec31",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/f47cf9cec854bf2f3a73cf29df0cd9b0e54e1c78.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=fa6c9cd3efbd5c2bcafaa3fa71f77191",
+            "front_page_art_imgix": "https://hb.imgix.net/f47cf9cec854bf2f3a73cf29df0cd9b0e54e1c78.png?auto=compress,format&w=180&s=74b33ceab74243dea6a0d5a1f435adf6",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/f47cf9cec854bf2f3a73cf29df0cd9b0e54e1c78.png?auto=compress,format&fit=clip&h=80&w=170&s=286e0dd6d58b4b0418351a8efc895ae4",
+            "preview_image": "https://hb.imgix.net/993ff9a048c11a1a4961f29b7129cb0e016b0217.jpg?auto=compress,format&fit=clip&h=350&w=600&s=f6c51c4a54aae33c5490460a8de10f4c"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Inside the Machine",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "hardcoreprogrammingformechanicalengineers": {
+        "machine_name": "hardcoreprogrammingformechanicalengineers",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-text-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download",
+                "hb-file-text-o": "MOBI"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-text-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-text-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "143.6 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/hardcoreprogrammingformechanicalengineers_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/hardcoreprogrammingformechanicalengineers_preview.pdf?t=st=1741450609~exp=1741537009~hmac=afc988bfc73f60465f81ce2929e24d8a79310afd71b977387f74e8ab3d286b96"
+        },
+        "publishers": [
+            {
+                "publisher-name": "No Starch Press",
+                "publisher-url": "https://nostarch.com/hardcore-programming-mechanical-engineers"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 17.14
+        },
+        "subtitle_html": null,
+        "description_text": "<p>What if you could solve challenging engineering problems with Python programming? With this book\u2019s hardcore approach, you\u2019ll learn how to code solutions from scratch using linear algebra, geometry, and physics to write custom libraries, draw primitives, and build applications.</p><p>\u00c1ngel Sola Orbaiceta covers core programming techniques for mechanical engineers, with a focus on crafting high-quality code and leveraging automated unit testing for error-free implementations. You\u2019ll develop a geometry toolbox, filling it with lines and shapes to diagram engineering problems; create vector graphics and animations for mechanical simulations; and code algorithms to perform complex calculations. As a capstone you\u2019ll combine these lessons to build a complete structural analysis application to solve a 2D truss problem that you might encounter in the field.</p><p>Learn how to:</p><ul><li>Use regular expressions to elegantly parse file input</li><li>Refine your code with unit testing, encapsulation, and descriptive names</li><li>Draw images onscreen and create animations with Tkinter\u2019s Canvas widget</li><li>Solve systems of linear equations using the Cholesky decomposition algorithm</li><li>Build an application that visualizes a truss structure\u2019s stresses and strains</li></ul><p>Stop relying on third-party software\u2014there are no shortcuts on the path to proficiency. With\u00a0<em>Hardcore Programming for Mechanical Engineers</em>, you\u2019ll hone your programming skills to get correct results every time.</p>",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/hardcoreprogrammingformechanicalengineers.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Hardcore Programming for Mechanical Engineers",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/hardcoreprogrammingformechanicalengineers_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Angel Sola Orbaiceta"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub",
+                    "mobi"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/ed44f98733be5123be4b59e17374cfc7b1346feb.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=c2f44ef406473047e792914398bbf103",
+            "featured_image": null,
+            "front_page_art_imgix_retina": "https://hb.imgix.net/31349d3e6453caca0778bd5eeba1fe66d451eeeb.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=d5c3ebb31d1eed0ee096feb6f7c2dab2",
+            "preview_image_bonus": "https://hb.imgix.net/ed44f98733be5123be4b59e17374cfc7b1346feb.jpg?auto=compress,format&fit=clip&h=200&w=200&s=2204a45cb23b95301f02803eac964be8",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/31349d3e6453caca0778bd5eeba1fe66d451eeeb.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=815c781383261743cf943d8032c6de0c",
+            "front_page_art_imgix": "https://hb.imgix.net/31349d3e6453caca0778bd5eeba1fe66d451eeeb.png?auto=compress,format&w=180&s=4958d19b983a2c2e29150e522868dec4",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/31349d3e6453caca0778bd5eeba1fe66d451eeeb.png?auto=compress,format&fit=clip&h=80&w=170&s=ea72b799053bf6957c099c7059559013",
+            "preview_image": "https://hb.imgix.net/ed44f98733be5123be4b59e17374cfc7b1346feb.jpg?auto=compress,format&fit=clip&h=350&w=600&s=1824907c1f8a5284b681bf336beb6747"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Hardcore Programming for Mechanical Engineers",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "graphalgorithmsthefunway": {
+        "machine_name": "graphalgorithmsthefunway",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-text-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download",
+                "hb-file-text-o": "MOBI"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-text-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-text-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "422.2 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/graphalgorithmsthefunway_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/graphalgorithmsthefunway_preview.pdf?t=st=1741450609~exp=1741537009~hmac=e5ff35b0955449abb0b596c6b195a89d1c47c133ddef4e414cb1bb0a8a48ecdb"
+        },
+        "publishers": [
+            {
+                "publisher-name": "No Starch Press",
+                "publisher-url": "https://nostarch.com/graph-algorithms-fun-way"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 34.29
+        },
+        "subtitle_html": null,
+        "description_text": "<p>This accessible and entertaining book provides an in-depth introduction to computational thinking through the lens of data structures \u2014 a critical component in any programming endeavor. Through diagrams, pseudocode, and humorous analogies, you\u2019ll learn how the structure of data drives algorithmic operations, gaining insight into not just how to build data structures, but precisely how and when to use them.\u00a0</p><p>This book will give you a strong background in implementing and working with more than 15 key data structures, from stacks, queues, and caches to bloom filters, skip lists, and graphs. Master linked lists by standing in line at a cafe, hash tables by cataloging the history of the summer Olympics, and Quadtrees by neatly organizing your kitchen cabinets. Along with basic computer science concepts like recursion and iteration, you\u2019ll learn:\u00a0</p><ul><li>The complexity and power of pointers</li><li>The branching logic of tree-based data structures</li><li>How different data structures insert and delete data in memory</li><li>Why mathematical mappings and randomization are useful</li><li>How to make tradeoffs between speed, flexibility, and memory usage</li></ul><p><em>Data Structures the Fun Way\u00a0</em>shows how to efficiently apply these ideas to real-world problems\u2014a surprising number of which focus on procuring a decent cup of coffee. At any level, fully understanding data structures will teach you core skills that apply across multiple programming languages, taking your career to the next level.</p>",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/graphalgorithmsthefunway.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Graph Algorithms the Fun Way",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/graphalgorithmsthefunway_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Jeremy Kubica"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub",
+                    "mobi"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/3766180b1bf67e82ab765bb6de9b4545fe08f64f.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=554031bbaef348b70a45deeaf1e39773",
+            "featured_image": null,
+            "front_page_art_imgix_retina": "https://hb.imgix.net/84991201615a8747cfb6b9acd4344b9c3ded4c94.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=99f40ef070935b47052657e5cd4902d2",
+            "preview_image_bonus": "https://hb.imgix.net/3766180b1bf67e82ab765bb6de9b4545fe08f64f.jpg?auto=compress,format&fit=clip&h=200&w=200&s=f87305fc42c883d38a08270e6992ef8c",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/84991201615a8747cfb6b9acd4344b9c3ded4c94.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=20d9c63251d0b1b6087bb20028182d72",
+            "front_page_art_imgix": "https://hb.imgix.net/84991201615a8747cfb6b9acd4344b9c3ded4c94.png?auto=compress,format&w=180&s=631690fc8cb5fa43a49790e81a502398",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/84991201615a8747cfb6b9acd4344b9c3ded4c94.png?auto=compress,format&fit=clip&h=80&w=170&s=a2efd427d2e65e5e81dbb94e9c6b17d4",
+            "preview_image": "https://hb.imgix.net/3766180b1bf67e82ab765bb6de9b4545fe08f64f.jpg?auto=compress,format&fit=clip&h=350&w=600&s=a48906af843682e6656f3faf1224631e"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Graph Algorithms the Fun Way",
+        "is_mystery_box": null,
+        "payee_secondary_id": "",
+        "wallet_credit": {}
+    },
+    "completedeveloper": {
+        "machine_name": "completedeveloper",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-text-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download",
+                "hb-file-text-o": "MOBI"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-text-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-text-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "118.4 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/completedeveloper_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/completedeveloper_preview.pdf?t=st=1741450609~exp=1741537009~hmac=d2d82f5bf78c569ef150f3af4fab43a557363f745cc1bcad7c4c05a827168618"
+        },
+        "publishers": [
+            {
+                "publisher-name": "No Starch Press",
+                "publisher-url": "https://nostarch.com/complete-developer"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 34.29
+        },
+        "subtitle_html": null,
+        "description_text": "<p>Whether you\u2019ve been in the developer kitchen for decades or are just taking the plunge to do it yourself,\u00a0<em>The Complete Developer</em>\u00a0will show you how to build and implement every component of a modern stack\u2014from scratch.</p><p>You\u2019ll go from a React-driven frontend to a fully fleshed-out backend with Mongoose, MongoDB, and a complete set of REST and GraphQL APIs, and back again through the whole Next.js stack.</p><p>The book\u2019s easy-to-follow, step-by-step recipes will teach you how to build a web server with Express.js, create custom API routes, deploy applications via self-contained microservices, and add a reactive, component-based UI. You\u2019ll leverage command line tools and full-stack frameworks to build an application whose no-effort user management rides on GitHub logins.</p><p>You\u2019ll also learn how to:\u00a0</p><ul><li>Work with modern JavaScript syntax, TypeScript, and the Next.js framework</li><li>Simplify UI development with the React library\u00a0</li><li>Extend your application with REST and GraphQL APIs</li><li>Manage your data with the MongoDB NoSQL database</li><li>Use OAuth to simplify user management, authentication, and authorization</li><li>Automate testing with Jest, test-driven development, stubs, mocks, and fakes</li></ul><p>Whether you\u2019re an experienced software engineer or new to DIY web development,\u00a0<em>The Complete Developer</em>\u00a0will teach you to succeed with the modern full stack. After all, control matters. \u00a0</p><p>Covers: Docker, Express.js, JavaScript, Jest, MongoDB, Mongoose, Next.js, Node.js, OAuth, React, REST and GraphQL APIs, and TypeScript</p>",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/completedeveloper.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "The Complete Developer",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/completedeveloper_slideout.jpg",
+        "developers": [],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub",
+                    "mobi"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/f17f00750de5ea42cef53be8b24ef33813ed3cb9.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=7dfd13f8e8b234360fff2b16d68cd42b",
+            "featured_image": null,
+            "front_page_art_imgix_retina": "https://hb.imgix.net/fbf3e41a5b064526fc325c9c7d9e2881709e9101.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=83ec62ba2be857fa84ea07e5af4022d1",
+            "preview_image_bonus": "https://hb.imgix.net/f17f00750de5ea42cef53be8b24ef33813ed3cb9.jpg?auto=compress,format&fit=clip&h=200&w=200&s=3310e7c6238c6cd806237e40051f7e6f",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/fbf3e41a5b064526fc325c9c7d9e2881709e9101.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=1ae8983be32467fe3b19d7c48402d73c",
+            "front_page_art_imgix": "https://hb.imgix.net/fbf3e41a5b064526fc325c9c7d9e2881709e9101.png?auto=compress,format&w=180&s=7fe63efea58ec74e3c26655e46ded3dc",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/fbf3e41a5b064526fc325c9c7d9e2881709e9101.png?auto=compress,format&fit=clip&h=80&w=170&s=f34c16d109ddff896f20e66aa5b54fee",
+            "preview_image": "https://hb.imgix.net/f17f00750de5ea42cef53be8b24ef33813ed3cb9.jpg?auto=compress,format&fit=clip&h=350&w=600&s=f182abe6cc36989125a64789182e64e3"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "The Complete Developer",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "secretlifeofprograms": {
+        "machine_name": "secretlifeofprograms",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-text-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download",
+                "hb-file-text-o": "MOBI"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-text-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-text-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "124.6 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/secretlifeofprograms_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/secretlifeofprograms_preview.pdf?t=st=1741450609~exp=1741537009~hmac=8b9f8d8c8988bc0a6e4784d6197aa4327aeb4ce1f879cdbe581f2d60ad74b0ce"
+        },
+        "publishers": [
+            {
+                "publisher-name": "No Starch Press",
+                "publisher-url": "https://nostarch.com/foundationsofcomp"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 17.14
+        },
+        "subtitle_html": null,
+        "description_text": "<p>Many coders are unfamiliar with the underlying technologies that make their programs run. But why should you care when your code appears to work? Because you want it to run well and not be riddled with hard-to-find bugs. You don't want to be in the news because your code had a security problem.</p>\n<p>Lots of technical detail is available online but it's not organized or collected into a convenient place. In <i>The Secret Life of Programs</i>, veteran engineer Jonathan E. Steinhart explores\u2014in depth\u2014the foundational concepts that underlie the machine. Subjects like computer hardware, how software behaves on hardware, as well as how people have solved problems using technology over time.</p>\n<p>You'll learn:</p>\n<ul>\n<li>How the real world is converted into a form that computers understand, like bits, logic, numbers, text, and colors</li>\n<li>The fundamental building blocks that make up a computer including logic gates, adders, decoders, registers, and memory</li>\n<li>Why designing programs to match computer hardware, especially memory, improves performance</li>\n<li>How programs are converted into machine language that computers understand</li>\n<li>How software building blocks are combined to create programs like web browsers</li>\n<li>Clever tricks for making programs more efficient, like loop invariance, strength reduction, and recursive subdivision</li>\n<li>The fundamentals of computer security and machine intelligence</li>\n<li>Project design, documentation, scheduling, portability, maintenance, and other practical programming realities.</li>\n</ul>\n<p>Learn what really happens when your code runs on the machine and you'll learn to craft better, more efficient code.</p>",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/secretlifeofprograms.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "The Secret Life of Programs",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/secretlifeofprograms_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Jonathan E. Steinhart"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub",
+                    "mobi"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/100b6317503c0dc0dd18638e14c0eff69d2129aa.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=064e722b97ea22b3757bb6717fa40bbf",
+            "featured_image": null,
+            "front_page_art_imgix_retina": "https://hb.imgix.net/c1a88261c3f67d330c90e3de7da10ca630936b00.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=6362ce8747a4cb2863f4c1a25831d120",
+            "preview_image_bonus": "https://hb.imgix.net/100b6317503c0dc0dd18638e14c0eff69d2129aa.jpg?auto=compress,format&fit=clip&h=200&w=200&s=4e8b6bd83e1793ca6154e81f5897dd70",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/c1a88261c3f67d330c90e3de7da10ca630936b00.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=02ea314ae79b5c910c178ff2000c1f23",
+            "front_page_art_imgix": "https://hb.imgix.net/c1a88261c3f67d330c90e3de7da10ca630936b00.png?auto=compress,format&w=180&s=3bca8c66c6198600961e0d856abe7d5c",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/c1a88261c3f67d330c90e3de7da10ca630936b00.png?auto=compress,format&fit=clip&h=80&w=170&s=68bae876efe6df3aaa5ea642ec3a0379",
+            "preview_image": "https://hb.imgix.net/100b6317503c0dc0dd18638e14c0eff69d2129aa.jpg?auto=compress,format&fit=clip&h=350&w=600&s=7c8d0433c622f5aaef7bf8b935e0a517"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "The Secret Life of Programs",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "linuxcommandline_2ndedition": {
+        "machine_name": "linuxcommandline_2ndedition",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-text-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download",
+                "hb-file-text-o": "MOBI"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-text-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-text-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "263.5 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/linuxcommandline_2ndedition_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/linuxcommandline_2ndedition_preview.pdf?t=st=1741450609~exp=1741537009~hmac=7780e4996bd335d32dab530d982e3960605d019e4f6341f362074859c84a1462"
+        },
+        "publishers": [
+            {
+                "publisher-name": "No Starch Press",
+                "publisher-url": "https://nostarch.com/tlcl2"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 17.14
+        },
+        "subtitle_html": null,
+        "description_text": "<p><em>The Linux Command Line</em>\u00a0takes you from your very first terminal keystrokes to writing full programs in Bash, the most popular Linux shell (or command line). Along the way you\u2019ll learn the timeless skills handed down by generations of experienced, mouse-shunning gurus: file navigation, environment configuration, command chaining, pattern matching with regular expressions, and more.</p><p>In addition to that practical knowledge, author William Shotts reveals the philosophy behind these tools and the rich heritage that your desktop Linux machine has inherited from Unix supercomputers of yore.</p><p>As you make your way through the book\u2019s short, easily-digestible chapters, you\u2019ll learn how to:</p><ul><li>Create and delete files, directories, and symlinks</li><li>Administer your system, including networking, package installation, and process management</li><li>Use standard input and output, redirection, and pipelines</li><li>Edit files with Vi, the world\u2019s most popular text editor</li><li>Write shell scripts to automate common or boring tasks</li><li>Slice and dice text files with cut, paste, grep, patch, and sed</li></ul><p>Once you overcome your initial \u201cshell shock,\u201d you\u2019ll find that the command line is a natural and expressive way to communicate with your computer. Just don\u2019t be surprised if your mouse starts to gather dust.</p>",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/linuxcommandline_2ndedition.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "The Linux Command Line, 2nd Edition",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/linuxcommandline_2ndedition_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "William Shotts"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub",
+                    "mobi"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/8af5be369171bebce8f186d55ea858bdf0043ec6.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=7a97f79cf7bd220d481bbb55116d4faa",
+            "featured_image": null,
+            "front_page_art_imgix_retina": "https://hb.imgix.net/286492a80a70ec1742ab9dad148d462479d365b2.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=7c32fa81118b8a1a2f40ba5a6653da21",
+            "preview_image_bonus": "https://hb.imgix.net/8af5be369171bebce8f186d55ea858bdf0043ec6.jpg?auto=compress,format&fit=clip&h=200&w=200&s=4e1f32bab8dc79447f1b85d828285fbd",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/286492a80a70ec1742ab9dad148d462479d365b2.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=a587f2bb50e66915ef67d030dcd95372",
+            "front_page_art_imgix": "https://hb.imgix.net/286492a80a70ec1742ab9dad148d462479d365b2.png?auto=compress,format&w=180&s=6f4b4c1ec060a62f7536a5b554415abd",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/286492a80a70ec1742ab9dad148d462479d365b2.png?auto=compress,format&fit=clip&h=80&w=170&s=7ecce0c26ca3b57f852e90821d39c0f1",
+            "preview_image": "https://hb.imgix.net/8af5be369171bebce8f186d55ea858bdf0043ec6.jpg?auto=compress,format&fit=clip&h=350&w=600&s=b11bafc9cd4d1277d5c373ddb2c673fd"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "The Linux Command Line, 2nd Edition",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "howsoftwareworks": {
+        "machine_name": "howsoftwareworks",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-text-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download",
+                "hb-file-text-o": "MOBI"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-text-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-text-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "154.6 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/howsoftwareworks_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/howsoftwareworks_preview.pdf?t=st=1741450609~exp=1741537009~hmac=bf2ecf1029a4955dfd7ab799429a2dfe97cb914d11552cb40870e9315674cb2c"
+        },
+        "publishers": [
+            {
+                "publisher-name": "No Starch Press",
+                "publisher-url": "https://nostarch.com/howsoftwareworks"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 9.52
+        },
+        "subtitle_html": null,
+        "description_text": "<p>We use software every day to perform all kinds of magical, powerful tasks. It\u2019s the force behind stunning CGI graphics, safe online shopping, and speedy Google searches. Software drives the modern world, but its inner workings remain a mystery to many.</p><p><em>How Software Works</em>\u00a0explains how computers perform common-yet-amazing tasks that we take for granted every day.</p><p>Inside you\u2019ll learn:</p><ul><li>How data is encrypted</li><li>How passwords are used and protected</li><li>How computer graphics are created</li><li>How video is compressed for streaming and storage</li><li>How data is searched (and found) in huge databases</li><li>How programs can work together on the same problem without conflict</li><li>How data travels over the Internet</li></ul><p><em>How Software Works</em>\u00a0breaks down these processes with patient explanations and intuitive diagrams so that anyone can understand\u2014no technical background is required, and you won\u2019t be reading through any code. In plain English, you\u2019ll examine the intricate logic behind the technologies you constantly use but never understood.</p><p>If you\u2019ve ever wondered what really goes on behind your computer screen,\u00a0<em>How Software Works</em>\u00a0will give you fascinating look into the software all around you.</p>",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/howsoftwareworks.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "How Software Works",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/howsoftwareworks_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "V. Anton Spraul"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub",
+                    "mobi"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/ee87c99335e8e08d9012cc1766b9be217542a199.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=814ae712e54b03e57c968dca0b377619",
+            "featured_image": null,
+            "front_page_art_imgix_retina": "https://hb.imgix.net/88e4d028b85d35d0c6b627614076aa532abbb572.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=f88c47df0a39f086f10fff05cfcb3016",
+            "preview_image_bonus": "https://hb.imgix.net/ee87c99335e8e08d9012cc1766b9be217542a199.jpg?auto=compress,format&fit=clip&h=200&w=200&s=cb47e88dafc68b6efe30d38b6ddb5275",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/88e4d028b85d35d0c6b627614076aa532abbb572.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=08896a8c3fddd7aa73cfd77facd18173",
+            "front_page_art_imgix": "https://hb.imgix.net/88e4d028b85d35d0c6b627614076aa532abbb572.png?auto=compress,format&w=180&s=227d966d530639dd208ec524fa27096f",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/88e4d028b85d35d0c6b627614076aa532abbb572.png?auto=compress,format&fit=clip&h=80&w=170&s=6c713a3d60662d14fda2bdd8b0dd2e92",
+            "preview_image": "https://hb.imgix.net/ee87c99335e8e08d9012cc1766b9be217542a199.jpg?auto=compress,format&fit=clip&h=350&w=600&s=788514f28680a9709635e51b0a1d256c"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "How Software Works",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "datastructuresthefunway": {
+        "machine_name": "datastructuresthefunway",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-text-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download",
+                "hb-file-text-o": "MOBI"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-text-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-text-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "148 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/datastructuresthefunway_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/datastructuresthefunway_preview.pdf?t=st=1741450609~exp=1741537009~hmac=8f2ef6fccc771df960dcd92589c75bbe7baf229ea11cd2ae6ba41a02353a3a44"
+        },
+        "publishers": [
+            {
+                "publisher-name": "No Starch Press",
+                "publisher-url": "https://nostarch.com/data-structures-fun-way"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 34.29
+        },
+        "subtitle_html": null,
+        "description_text": "<p>This accessible and entertaining book provides an in-depth introduction to computational thinking through the lens of data structures\u2014a critical component in any programming endeavor. Through diagrams, pseudocode, and humorous analogies, you\u2019ll learn how the structure of data drives algorithmic operations, gaining insight into not just how to build data structures, but precisely how and when to use them.\u00a0</p><p>This book will give you a strong background in implementing and working with more than 15 key data structures, from stacks, queues, and caches to bloom filters, skip lists, and graphs. Master linked lists by standing in line at a cafe, hash tables by cataloging the history of the summer Olympics, and Quadtrees by neatly organizing your kitchen cabinets. Along with basic computer science concepts like recursion and iteration, you\u2019ll learn:\u00a0</p><ul><li>The complexity and power of pointers</li><li>The branching logic of tree-based data structures</li><li>How different data structures insert and delete data in memory</li><li>Why mathematical mappings and randomization are useful</li><li>How to make tradeoffs between speed, flexibility, and memory usage</li></ul><p><em>Data Structures the Fun Way\u00a0</em>shows how to efficiently apply these ideas to real-world problems\u2014a surprising number of which focus on procuring a decent cup of coffee. At any level, fully understanding data structures will teach you core skills that apply across multiple programming languages, taking your career to the next level.</p>",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/datastructuresthefunway.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Data Structures the Fun Way",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/datastructuresthefunway_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Jeremy Kubica"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub",
+                    "mobi"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/7a9da9ccf4b150be8c9f2ebad5a6548ec4fa9fa1.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=7513c3c6b65b95e1852476131df8ffe2",
+            "featured_image": null,
+            "front_page_art_imgix_retina": "https://hb.imgix.net/5c7b4d282999244ff2eb2d3fcd47b56ae2bb1550.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=d3a60591afdea14671cc34b8e540d2f2",
+            "preview_image_bonus": "https://hb.imgix.net/7a9da9ccf4b150be8c9f2ebad5a6548ec4fa9fa1.jpg?auto=compress,format&fit=clip&h=200&w=200&s=eb84b1870dea3eb3b55d4206edd9a4e8",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/5c7b4d282999244ff2eb2d3fcd47b56ae2bb1550.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=610b065b9a600eacd6a1dcb255a3d5b5",
+            "front_page_art_imgix": "https://hb.imgix.net/5c7b4d282999244ff2eb2d3fcd47b56ae2bb1550.png?auto=compress,format&w=180&s=6778d8fa56e777c14087028bd11c489b",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/5c7b4d282999244ff2eb2d3fcd47b56ae2bb1550.png?auto=compress,format&fit=clip&h=80&w=170&s=a6e1c1ff556d97adb90cb44e77f8a88e",
+            "preview_image": "https://hb.imgix.net/7a9da9ccf4b150be8c9f2ebad5a6548ec4fa9fa1.jpg?auto=compress,format&fit=clip&h=350&w=600&s=47ef2cc065223a22485ab52d93ac184a"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Data Structures the Fun Way",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "understandingthemachine": {
+        "machine_name": "understandingthemachine",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-text-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download",
+                "hb-file-text-o": "MOBI"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-text-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-text-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "254.1 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/understandingthemachine_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/understandingthemachine_preview.pdf?t=st=1741450609~exp=1741537009~hmac=cc090b47e7f181e8f8d87f23473d082e6478f8ffcf5e3c15f8d0e22fc8ef1cbf"
+        },
+        "publishers": [
+            {
+                "publisher-name": "No Starch Press",
+                "publisher-url": "https://nostarch.com/writegreatcode1_2e"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 17.14
+        },
+        "subtitle_html": null,
+        "description_text": "<p><strong>MACHINE ARCHITECTURE FOR MERE MORTALS</strong></p><p>This, the first volume in Randall Hyde\u2019s\u00a0<em>Write Great Code</em>\u00a0series, dives into machine organization without the extra overhead of learning assembly language programming. Written for high-level language programmers,\u00a0<em>Understanding the Machine</em>\u00a0fills in the low-level details of machine organization that are often left out of computer science and engineering courses.</p><p>Learn:</p><ul><li>How the machine represents numbers, strings, and high-level data structures, so you\u2019ll know the inherent cost of using them.</li><li>How to organize your data, so the machine can access it efficiently.</li><li>How the CPU operates, so you can write code that works the way the machine does.</li><li>How I/O devices operate, so you can maximize your application\u2019s performance when accessing those devices.</li><li>How to best use the memory hierarchy to produce the fastest possible programs.</li></ul><p>Great code is efficient code. But before you can write truly efficient code, you must understand how computer systems execute programs and how abstractions in programming languages map to the machine\u2019s low-level hardware. After all, compilers don\u2019t write the best machine code; programmers do. This book gives you the foundation upon which all great software is built.</p><p>NEW IN THIS EDITION, COVERAGE OF:</p><ul><li>Programming languages like Swift and Java</li><li>Code generation on modern 64-bit CPUs</li><li>ARM processors on mobile phones and tablets</li><li>Newer peripheral devices</li><li>Larger memory systems and large-scale SSDs</li></ul>",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/understandingthemachine.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Understanding the Machine",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/understandingthemachine_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Randall Hyde"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub",
+                    "mobi"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/3474bc30751942229de70c6bc70bd8ee3343d8e8.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=74fc02d0e3756b6d5a0559ae42b1c431",
+            "featured_image": null,
+            "front_page_art_imgix_retina": "https://hb.imgix.net/e64b679d640197c787fce2d261367c4a83264fbb.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=fdb1b9cdf5af17ef1e429882098d5b6a",
+            "preview_image_bonus": "https://hb.imgix.net/3474bc30751942229de70c6bc70bd8ee3343d8e8.jpg?auto=compress,format&fit=clip&h=200&w=200&s=7cbc3b3cf31045ba67b47644e125b853",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/e64b679d640197c787fce2d261367c4a83264fbb.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=4de516850d5ef2e5946cf080c7160be8",
+            "front_page_art_imgix": "https://hb.imgix.net/e64b679d640197c787fce2d261367c4a83264fbb.png?auto=compress,format&w=180&s=c1a603adebd84ac444dca7197f552e70",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/e64b679d640197c787fce2d261367c4a83264fbb.png?auto=compress,format&fit=clip&h=80&w=170&s=aef15b04895de08c0276269493ae5fb7",
+            "preview_image": "https://hb.imgix.net/3474bc30751942229de70c6bc70bd8ee3343d8e8.jpg?auto=compress,format&fit=clip&h=350&w=600&s=5cd2f844f8ffd22e53bccfd2564b5c5a"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Understanding the Machine",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "writingaccompiler": {
+        "machine_name": "writingaccompiler",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-text-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download",
+                "hb-file-text-o": "MOBI"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-text-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-text-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "195.9 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/writingaccompiler_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/writingaccompiler_preview.pdf?t=st=1741450609~exp=1741537009~hmac=451ceac7fc7dd3d5eda4db1c05be34c5548953674245fb162cc34e172a84d939"
+        },
+        "publishers": [
+            {
+                "publisher-name": "No Starch Press",
+                "publisher-url": "https://nostarch.com/writing-c-compiler"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 34.29
+        },
+        "subtitle_html": null,
+        "description_text": "<p>Compilers are at the heart of everything programmers do, yet even experienced developers find them intimidating. For those eager to truly grasp how compilers work,\u00a0<em>Writing a C Compiler</em>\u00a0dispels the mystery. This book guides you through a fun and engaging project where you\u2019ll learn what it takes to compile a real-world programming language to actual assembly code.</p><p><em>Writing a C Compiler</em>\u00a0will take you step by step through the process of building your own compiler for a significant subset of C\u2014no prior experience with compiler construction or assembly code needed. Once you\u2019ve built a working compiler for the simplest C program, you\u2019ll add new features chapter by chapter. The algorithms in the book are all in pseudocode, so you can implement your compiler in whatever language you like. Along the way, you\u2019ll explore key concepts like:</p><ul><li><strong>Lexing and parsing:</strong>\u00a0Learn how to write a lexer and recursive descent parser that transform C code into an abstract syntax tree.</li><li><strong>Program analysis:</strong>\u00a0Discover how to analyze a program to understand its behavior and detect errors.</li><li><strong>Code generation:</strong>\u00a0Learn how to translate C language constructs like arithmetic operations, function calls, and control-flow statements into x64 assembly code.</li><li><strong>Optimization techniques:</strong>\u00a0Improve performance with methods like constant folding, dead store elimination, and register allocation. \u00a0</li></ul><p>Compilers aren\u2019t terrifying beasts\u2014and with help from this hands-on, accessible guide, you might even turn them into your friends for life.</p>",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/writingaccompiler.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Writing a C Compiler",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/writingaccompiler_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Nora Sandler"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub",
+                    "mobi"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/0c606945013750c1bc3b00ef54e4292eef6c759c.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=95cf013751ab8b5f7f892bebf2e63b35",
+            "featured_image": null,
+            "front_page_art_imgix_retina": "https://hb.imgix.net/c929eca50f1fa030cca21d3351d7da608524e03d.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=796d59327b57e82b466919120c6962bb",
+            "preview_image_bonus": "https://hb.imgix.net/0c606945013750c1bc3b00ef54e4292eef6c759c.jpg?auto=compress,format&fit=clip&h=200&w=200&s=e6d7b22c1cd7d9837b33007b334c2201",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/c929eca50f1fa030cca21d3351d7da608524e03d.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=a4d2a1b229cda029c7d292e89a5d52e0",
+            "front_page_art_imgix": "https://hb.imgix.net/c929eca50f1fa030cca21d3351d7da608524e03d.png?auto=compress,format&w=180&s=cc18f7c73107356eefdd0a7bc2e53f64",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/c929eca50f1fa030cca21d3351d7da608524e03d.png?auto=compress,format&fit=clip&h=80&w=170&s=48896bfe7089e08bef32efef0b6197e8",
+            "preview_image": "https://hb.imgix.net/0c606945013750c1bc3b00ef54e4292eef6c759c.jpg?auto=compress,format&fit=clip&h=350&w=600&s=e76e00b0ed68ae50ff0d1a3601fdca1e"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Writing a C Compiler",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "howcomputersreallywork_ahandsonguidetotheinnerworkingsofthemachine": {
+        "machine_name": "howcomputersreallywork_ahandsonguidetotheinnerworkingsofthemachine",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-text-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download",
+                "hb-file-text-o": "MOBI"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-text-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-text-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "184.3 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/howcomputersreallywork_ahandsonguidetotheinnerworkingsofthemachine_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/howcomputersreallywork_ahandsonguidetotheinnerworkingsofthemachine_preview.pdf?t=st=1741450609~exp=1741537009~hmac=1e5baac4c71fe76064e702994c5a482c999c68e65c31849f99914500f7e08739"
+        },
+        "publishers": [
+            {
+                "publisher-name": "No Starch Press",
+                "publisher-url": "https://nostarch.com/how-computers-really-work"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 9.52
+        },
+        "subtitle_html": null,
+        "description_text": "<i>How Computers Really Work</i> is a hands-on guide to the computing ecosystem: everything from circuits to memory and clock signals, machine code, programming languages, operating systems, and the internet.\n<p>But you won\u2019t just read about these concepts, you\u2019ll test your knowledge with exercises, and practice what you learn with 41 optional hands-on projects. Build digital circuits, craft a guessing game, convert decimal numbers to binary, examine virtual memory usage, run your own web server, and more.</p>\n<p>Explore concepts like how to:</p>\n<p>\u2022 Think like a software engineer as you use data to describe a real world concept<br>\u2022 Use Ohm\u2019s and Kirchhoff\u2019s laws to analyze an electrical circuit<br>\u2022 Think like a computer as you practice binary addition and execute a program in your mind, step-by-step</p>\n<p>The book\u2019s projects will have you translate your learning into action, as you:</p>\n<p>\u2022 Learn how to use a multimeter to measure resistance, current, and voltage<br>\u2022 Build a half adder to see how logical operations in hardware can be combined to perform useful functions<br>\u2022 Write a program in assembly language, then examine the resulting machine code<br>\u2022 Learn to use a debugger, disassemble code, and hack a program to change its behavior without changing the source code<br>\u2022 Use a port scanner to see which internet ports your computer has open<br>\u2022 Run your own server and get a solid crash course on how the web works</p>\n<p>And since a picture is worth a thousand bytes, chapters are filled with detailed diagrams and illustrations to help clarify technical complexities.</p>\n<p>REQUIREMENTS: The projects require a variety of hardware\u2014electronics projects need a breadboard, power supply, and various circuit components; software projects are performed on a Raspberry Pi. See Appendix B or this page for a complete list. Even if you skip the projects, the book\u2019s major concepts are clearly presented in the main text.<br><br><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;The missing link between theories learned in your curriculum and work. \u2014Jhenu, Goodreads reviewer&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:14721,&quot;3&quot;:{&quot;1&quot;:0,&quot;3&quot;:1},&quot;10&quot;:0,&quot;11&quot;:4,&quot;14&quot;:{&quot;1&quot;:3,&quot;3&quot;:1},&quot;15&quot;:&quot;Calibri&quot;,&quot;16&quot;:11}\">\"The missing link between theories learned in your curriculum and work.\" \u2014Jhenu, Goodreads reviewer<br><br><strong>Note:</strong><br>Reflowable<br></span></p>",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/howcomputersreallywork_ahandsonguidetotheinnerworkingsofthemachine.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "How Computers Really Work",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/howcomputersreallywork_ahandsonguidetotheinnerworkingsofthemachine_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Matthew Justice"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub",
+                    "mobi"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/92983af8d440300fa2f0127341efd35f142e0bfd.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=6570c4134d636953464e3ed03bde1c84",
+            "featured_image": null,
+            "front_page_art_imgix_retina": "https://hb.imgix.net/3d7be631396f79ab4174cde8dd042ae9632b692a.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=5b8b0b3dd1640d90d318ad262192d57d",
+            "preview_image_bonus": "https://hb.imgix.net/92983af8d440300fa2f0127341efd35f142e0bfd.jpg?auto=compress,format&fit=clip&h=200&w=200&s=39c4abbb1cb68f6e557aa9fa70e6aaa1",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/3d7be631396f79ab4174cde8dd042ae9632b692a.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=5418db3bde6100cd0181dd301d627e27",
+            "front_page_art_imgix": "https://hb.imgix.net/3d7be631396f79ab4174cde8dd042ae9632b692a.png?auto=compress,format&w=180&s=8a3f14215e2a85b148dcccb75229ff39",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/3d7be631396f79ab4174cde8dd042ae9632b692a.png?auto=compress,format&fit=clip&h=80&w=170&s=99f1aa01b7234fb84012e11a689b7b17",
+            "preview_image": "https://hb.imgix.net/92983af8d440300fa2f0127341efd35f142e0bfd.jpg?auto=compress,format&fit=clip&h=350&w=600&s=d065d334c4ca4c2b6a4cd4396ffe3f17"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "How Computers Really Work",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "bookofi2c": {
+        "machine_name": "bookofi2c",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-text-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download",
+                "hb-file-text-o": "MOBI"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-text-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-text-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "172.7 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/bookofi2c_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/bookofi2c_preview.pdf?t=st=1741450609~exp=1741537009~hmac=97e4e389bf2abc10ad5d9620520da3a21871fa68c0f585076ee1a2050743c37d"
+        },
+        "publishers": [
+            {
+                "publisher-name": "No Starch Press",
+                "publisher-url": "https://nostarch.com/book-i%C2%B2c"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 17.14
+        },
+        "subtitle_html": null,
+        "description_text": "<p>If you work with embedded systems, you\u2019re bound to encounter the ubiquitous Inter-Integrated Circuit bus (IIC, I2C, or I\u00b2C)\u2014a serial protocol for connecting integrated circuits in a computer system. In\u00a0<em>The Book of\u00a0</em><em>I\u00b2C</em>, the first comprehensive guide to this bus, bestselling author Randall Hyde draws on 40 years of industry experience to get you started designing and programming I\u00b2C systems.</p><p>For hardware hackers, electronics hobbyists, and software engineers of every skill level, the extensive coverage in this book will make it a go-to reference\u2014whether you need an overview of I\u00b2C signal protocols, an introduction to variants of the I\u00b2C, like the SMBus and VESA E-DCC, or programming examples for common I\u00b2C peripheral ICs. You\u2019ll also learn the I\u00b2C implementations of the Arduino, Teensy, and Raspberry Pi systems among others, as well as how to:</p><ul><li>Analyze and debug I\u00b2C bus transactions</li><li>Program devices on the I\u00b2C</li><li>Implement an I\u00b2C with bare-metal programming\u00a0</li><li>Work with I\u00b2C bus expanders</li></ul><p><em>The Book of\u00a0</em><em>I\u00b2C</em>\u00a0includes over 100 figures and many annotated source code listings, along with online chapters that will be updated to include new controllers and peripherals.</p><p><em>*NOTE: Readers should have basic C/C++ and hardware interfacing knowledge, including the ability to read schematics and wire up a COTS SBC, plus some familiarity with Arduino.</em></p>",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/bookofi2c.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "The Book of I2C",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/bookofi2c_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Randall Hyde"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub",
+                    "mobi"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/73c800b486c0177a2b34490a1793f755f95d10d8.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=b5904ec743f8afc3b8ef04bf76e8f7b9",
+            "featured_image": null,
+            "front_page_art_imgix_retina": "https://hb.imgix.net/1e1229db5ec2e71c54a335e6087bf1dec1d5dfdc.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=2b5f2bbd01b43c87c38538176d16ea7b",
+            "preview_image_bonus": "https://hb.imgix.net/73c800b486c0177a2b34490a1793f755f95d10d8.jpg?auto=compress,format&fit=clip&h=200&w=200&s=c2847203e8596903b8dac9292ab1196b",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/1e1229db5ec2e71c54a335e6087bf1dec1d5dfdc.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=53aa158bc0d4a61afc2a8f620702e1c1",
+            "front_page_art_imgix": "https://hb.imgix.net/1e1229db5ec2e71c54a335e6087bf1dec1d5dfdc.png?auto=compress,format&w=180&s=a5c6cf76c7d5178ce0c7e88dc8a86115",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/1e1229db5ec2e71c54a335e6087bf1dec1d5dfdc.png?auto=compress,format&fit=clip&h=80&w=170&s=6b918542ab08bf0583706c829c146ca7",
+            "preview_image": "https://hb.imgix.net/73c800b486c0177a2b34490a1793f755f95d10d8.jpg?auto=compress,format&fit=clip&h=350&w=600&s=e49e2b3cb2b051de2cda01f420bbacd8"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "The Book of I2C",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "introductiontocomputerorganization": {
+        "machine_name": "introductiontocomputerorganization",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-text-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download",
+                "hb-file-text-o": "MOBI"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-text-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-text-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "152.5 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/introductiontocomputerorganization_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/introductiontocomputerorganization_preview.pdf?t=st=1741450609~exp=1741537009~hmac=ca06b74822629f6a36e54ee7ad34b370ea1a726d2e24ba54b608b923ff836b77"
+        },
+        "publishers": [
+            {
+                "publisher-name": "No Starch Press",
+                "publisher-url": "https://nostarch.com/introcomporg"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 34.29
+        },
+        "subtitle_html": null,
+        "description_text": "<p><em>Introduction to Computer Organization</em>\u00a0gives programmers a practical understanding of what happens in a computer when you execute your code. Working from the ground up, the book starts with fundamental concepts like memory organization, digital circuit design, and computer arithmetic. It then uses C/C++ to explore how familiar high-level coding concepts\u2014like control flow, input/output, and functions\u2014are implemented in assembly language. The goal isn\u2019t to make you an assembly language programmer, but to help you understand what happens behind the scenes when you run your programs.\u00a0</p><p>Classroom-tested for over a decade, this book will also demystify topics like:</p><ul><li>How data is encoded in memory</li><li>How the operating system manages hardware resources with exceptions and interrupts</li><li>How Boolean algebra is used to implement the circuits that process digital information</li><li>How a CPU is structured, and how it uses buses to execute a program stored in main memory</li><li>How recursion is implemented in assembly, and how it can be used to solve repetitive problems</li><li>How program code gets transformed into machine code the computer understands</li></ul><p>You may never have to write x86-64 assembly language or design hardware yourself, but knowing how the hardware and software works will make you a better, more confident programmer.</p>",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/introductiontocomputerorganization.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Introduction to Computer Organization",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/introductiontocomputerorganization_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Robert G. Plantz"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub",
+                    "mobi"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/a46dd7461ca1631408bda94efa370a1d19a675b7.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=fbc01523bdc9d0e38b21dde5c206a6a9",
+            "featured_image": null,
+            "front_page_art_imgix_retina": "https://hb.imgix.net/64be8ca29f183d728d11f414a979735bca405254.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=f8bb6af215c17f37fa8027838138f904",
+            "preview_image_bonus": "https://hb.imgix.net/a46dd7461ca1631408bda94efa370a1d19a675b7.jpg?auto=compress,format&fit=clip&h=200&w=200&s=ceae3b33914bcde66d010ccbff0ce33d",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/64be8ca29f183d728d11f414a979735bca405254.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=fd40262d700e9ce3e33b2d8a8fda0f1e",
+            "front_page_art_imgix": "https://hb.imgix.net/64be8ca29f183d728d11f414a979735bca405254.png?auto=compress,format&w=180&s=f9c01dbf52140eeef79b720319c77122",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/64be8ca29f183d728d11f414a979735bca405254.png?auto=compress,format&fit=clip&h=80&w=170&s=9c200a26ca8e2a4159741977469004d8",
+            "preview_image": "https://hb.imgix.net/a46dd7461ca1631408bda94efa370a1d19a675b7.jpg?auto=compress,format&fit=clip&h=350&w=600&s=10a64c48e5fe0da6b48d153af5fcf875"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Introduction to Computer Organization",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "eff": {
+        "machine_name": "eff",
+        "youtube_link": null,
+        "item_content_type": null,
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": null,
+        "featured_image": null,
+        "ppgf_info": {
+            "category": "Society and Communities",
+            "city": "San Francisco",
+            "description": "The Electronic Frontier Foundation (EFF) is the leading nonprofit organization defending civil liberties in the digital world. Founded in 1990, EFF champions user privacy and free expression online through a strategic combination of impact litigation, policy analysis, activism, and technology development. We empower tinkerers, creators, coders, and consumers to reclaim freedom as our use of technology grows.",
+            "url": "http://www.eff.org",
+            "country": "US",
+            "charity_id": "8443",
+            "state": "CA",
+            "keywords": "privacy,innovation,free speech,fair use,EFF,surveillance,Internet",
+            "human_name": "Electronic Frontier Foundation",
+            "logo_url": "https://hbproxy.imgix.net/https%3A%2F%2Fpics.paypal.com%2F00%2Fs%2FNzBlYTJlNGEtZTNmOC00ZDIzLWE1NDItMDRlMjFmY2I1YmMx%2Ffile.PNG?auto=compress&auto=format&bg=fff&fit=fill&h=350&w=510&s=65f455bde92da2915333825656033398"
+        },
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": null,
+        "publishers": [],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "subtitle_html": null,
+        "description_text": "<p><em>Donations to support&nbsp;Electronic Frontier Foundation are made to &nbsp;<a href=\"https://support.humblebundle.com/hc/en-us/articles/205183597\" target=\"_blank\">PayPal Giving Fund</a>, subject to its policies.</em><br /><br />The Electronic Frontier Foundation is a non-profit that defends your rights in the digital world. This world-class team of tech-savvy attorneys, activists, and technologists fight in courtrooms and Congress to protect privacy and free expression online and throughout the world.</p>",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/charities/CharityLogos/eff-logo-lockup-red.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Electronic Frontier Foundation",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/eff_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "www.eff.org",
+                "developer-url": "https://www.eff.org/"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {},
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/9c85e396af5f02edbbe154fbe36bc61c00f24ca1.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=2b73841ec3685d286d91c9f8005fa438",
+            "featured_image": null,
+            "front_page_art_imgix_retina": "https://hb.imgix.net/639f5c3c44c6df3629129d3219f2e4b38628d036.png?auto=compress,format&dpr=2&fit=clip&h=240&w=180&s=71838dfc86f3d1b657fca0f1f4f16fbd",
+            "preview_image_bonus": "https://hb.imgix.net/9c85e396af5f02edbbe154fbe36bc61c00f24ca1.jpg?auto=compress,format&fit=clip&h=200&w=200&s=5d49b15b9eb47e5e8d429068cfde9a11",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/639f5c3c44c6df3629129d3219f2e4b38628d036.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=e2219e179ef50d09bb655ae2ba473cd8",
+            "front_page_art_imgix": "https://hb.imgix.net/639f5c3c44c6df3629129d3219f2e4b38628d036.png?auto=compress,format&fit=clip&h=240&w=180&s=f2ef8096b8732ac2391e04652f027a15",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/639f5c3c44c6df3629129d3219f2e4b38628d036.png?auto=compress,format&fit=clip&h=80&w=170&s=5a33868687e91d90cdf51e129feb8977",
+            "preview_image": "https://hb.imgix.net/9c85e396af5f02edbbe154fbe36bc61c00f24ca1.jpg?auto=compress,format&fit=clip&h=350&w=600&s=1e033c2207232140e2857e42b1992dc5"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Electronic Frontier Foundation",
+        "is_mystery_box": null,
+        "payee_secondary_id": "8443",
+        "wallet_credit": {}
+    }
+}
