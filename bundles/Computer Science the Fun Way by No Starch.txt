@@ -6,7 +6,7 @@ Suzanne J. Matthews, Tia Newhall, Kevin C. Webb - Dive Into Systems
 Jon Stokes - Inside the Machine
 Angel Sola Orbaiceta - Hardcore Programming for Mechanical Engineers
 Jeremy Kubica - Graph Algorithms the Fun Way
- - The Complete Developer
+Martin Krause - The Complete Developer
 Jonathan E. Steinhart - The Secret Life of Programs
 William Shotts - The Linux Command Line, 2nd Edition
 V. Anton Spraul - How Software Works
