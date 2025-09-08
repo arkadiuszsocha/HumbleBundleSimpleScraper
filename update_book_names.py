@@ -7,7 +7,7 @@ def get_epub_metadata(epub_path):
         title_metadata = book.get_metadata('DC', 'title')
         title = title_metadata[0][0] if title_metadata and title_metadata[0] else 'Unknown Title'
         authors_metadata = book.get_metadata('DC', 'creator')
-        print(f"Extracted authors metadata: {authors_metadata}")
+        # print(f"Extracted authors metadata: {authors_metadata}")
         # Process authors
         authors = []
         for author in authors_metadata:
@@ -20,11 +20,11 @@ def get_epub_metadata(epub_path):
                 parts = [p.strip() for p in author_text.split(",")]
             else:
                 parts = [author.strip() for author in author_text.split('|')]
-            print(f"Extracted author parts: {parts}")
+            # print(f"Extracted author parts: {parts}")
             # Add each author to the list
             authors.extend(parts)
-        print(f"Extracted title: {title}")
-        print(f"Extracted authors: {authors}")
+        # print(f"Extracted title: {title}")
+        # print(f"Extracted authors: {authors}")
         return title, authors or ['Unknown Author']
     except Exception as e:
         print(f"Error processing {epub_path}: {str(e)}")
@@ -54,7 +54,7 @@ def rename_epub_files(folder_path):
                         formatted_name = f"{last_name} {first_name}"
                     else:
                         formatted_name = author
-                    print(f"Extracted author: {formatted_name}")
+                    # print(f"Extracted author: {formatted_name}")
                     # Clean the formatted name
                     safe_author = "".join(c for c in formatted_name 
                                         if c.isalnum() or c in "- _." or c.isspace()).strip()
