@@ -87,6 +87,6 @@ def scrape_humble_bundle(bundle_name, output_file="humble_books.txt"):
 
 
 # Example usage
-scrape_humble_bundle("computer-science-fun-way-no-starch-books")
-scrape_humble_bundle("full-stack-development-with-apress-books")
-scrape_humble_bundle("ultimate-cybersecurity-career-packt-books")
+scrape_humble_bundle("serious-web-development-with-react-javascript-and-modern-apis-manning-books")
+# scrape_humble_bundle("full-stack-development-with-apress-books")
+# scrape_humble_bundle("ultimate-cybersecurity-career-packt-books")

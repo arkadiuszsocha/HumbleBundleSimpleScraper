@@ -1,0 +1,18 @@
+V. Anton Spraul - Think Like a Programmer
+Anthony Lewis - Rails Crash Course
+Nick Morgan - JavaScript Crash Course
+Justin Gohde and Marius Kintel - Programming with OpenSCAD
+Marijn Haverbeke - Eloquent JavaScript
+Dave Fancher - The Book of F#
+Scott N. Walck - Learn Physics with Functional Programming
+Peter Gasston - The Book of CSS3
+Faisal Islam - Kotlin From Scratch
+Josh Lospinoso - C++ Crash Course
+Jack McLarney - The Book of Batch Scripting
+Al Sweigart - The Recursive Book of Recursion
+David Keyes - R for the Rest of Us
+Kevin C. Baird - Ruby by Example
+Daniel Zingaro - Learn to Code by Solving Problems
+Matt Smith - PHP Crash Course
+Randall Hyde - Write Great Code, Volume 3: Engineering Software
+Daniel Shiffman - The Nature of Code

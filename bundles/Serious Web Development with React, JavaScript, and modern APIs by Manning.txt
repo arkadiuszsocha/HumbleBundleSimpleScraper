@@ -1,0 +1,21 @@
+Raymond Camden and Brian Rinaldi - The Jamstack Book
+Elijah Meeks - D3.js in Action
+Josh Ponelat and Lukas Rosenstock - Designing APIs with Swagger and OpenAPI
+John Larsen - React Hooks in Action
+Roy Osherove - Art of Unit Testing 3E
+Meinte Boersma - Building User Friendly DSLs
+Paul McFedries - Web Design Playground
+Morten Barklund, Azat Mardan - React Quickly, 2E
+Bastian Gruber - Rust Web Development
+Arnaud Lauret - The Design of Web APIs
+Morten Barklund - React in Depth
+William Lyon - Full Stack GraphQL Applications: With React, Node.js, and Neo4j
+Michael S. Mikowski and Josh C. Powell - Single Page Web Applications
+Paul McFedries - Build a Website with ChatGPT
+John Larsen - Get Programming with JavaScript
+Adam Freeman - Essential TypeScript 5
+Ángel Sola Orbaiceta - Build a Frontend Framework from Scratch
+Luis Atencio - Functional Programming with JavaScript
+Malcolm McDonald - Grokking Web Application Security
+Josip Maras - Secrets of the JavaScript Ninja
+Lyza Gardner - JavaScript on Things

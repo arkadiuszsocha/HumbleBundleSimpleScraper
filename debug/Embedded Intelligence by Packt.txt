@@ -1,0 +1,3101 @@
+{
+    "practicalarduinorobotics": {
+        "machine_name": "practicalarduinorobotics",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "252.5 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/practicalarduinorobotics_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/practicalarduinorobotics_preview.pdf?t=st=1743612711~exp=1743699111~hmac=83ec1d016269f1852c1035f3c672f909257fcdec822f7dc86b08a89fb4e91dd9"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Packt",
+                "publisher-url": "https://www.packtpub.com/product/Practical-Arduino-Robotics/9781804613177"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 9.26
+        },
+        "subtitle_html": null,
+        "description_text": "<h4>Key Features</h4><ul><li>Become an expert in selecting sensors, motors, and Arduino boards for any robotics project</li><li>Discover how to write effective and reusable code for your Arduino robotics projects</li><li>Learn to build a camera-based line follower and a self-balancing telepresence robot on your own</li></ul><h4>Who this book is for</h4>If you\u2019re excited about robotics and want to start creating your own robotics projects from the hardware up, this book is for you. Whether you are an experienced software developer who wants to learn how to build physical robots, a hobbyist looking to elevate your Arduino skills to the next level, or a student with the desire to kick-start your DIY robotics journey, you\u2019ll find this book very useful. In order to successfully work with this book, you\u2019ll need basic familiarity with electronics, Arduino boards and the core concepts of computer programming.",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/practicalarduinorobotics.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Practical Arduino Robotics",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/practicalarduinorobotics_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Lukas Kaul"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/c2a80a10c82f647a566e352c788a0e36c87620c4.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=d51d8359d8675bd121572b62b9679c5f",
+            "featured_image": null,
+            "front_page_art_imgix_retina": "https://hb.imgix.net/8563274dd345a55657484af8d88b625b363ed3db.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=0e5fba1e875ed303dcd2d8f39d18b86c",
+            "preview_image_bonus": "https://hb.imgix.net/c2a80a10c82f647a566e352c788a0e36c87620c4.jpg?auto=compress,format&fit=clip&h=200&w=200&s=6d02dd059c22f4d3a6875761f9218f87",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/8563274dd345a55657484af8d88b625b363ed3db.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=c2c1f5d58dc3d8043ad2e9332021ee57",
+            "front_page_art_imgix": "https://hb.imgix.net/8563274dd345a55657484af8d88b625b363ed3db.png?auto=compress,format&w=180&s=0288f71a08e6138ab12b63d518d0d9ab",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/8563274dd345a55657484af8d88b625b363ed3db.png?auto=compress,format&fit=clip&h=80&w=170&s=a621c40f2cd6e7546bb62cc022b54898",
+            "preview_image": "https://hb.imgix.net/c2a80a10c82f647a566e352c788a0e36c87620c4.jpg?auto=compress,format&fit=clip&h=350&w=600&s=48cec9bc39b13d8206b0e0f8ed04c091"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Practical Arduino Robotics",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "roomtoread": {
+        "machine_name": "roomtoread",
+        "youtube_link": null,
+        "item_content_type": null,
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": null,
+        "featured_image": null,
+        "ppgf_info": {
+            "category": "Schools and Education",
+            "city": "San Francisco",
+            "description": "We envision a world in which all children can pursue a quality education that enables them to reach their full potential and contribute to their communities and the world.",
+            "url": "http://www.roomtoread.org",
+            "country": "US",
+            "charity_id": "2102318",
+            "state": "CA",
+            "keywords": "Education, gender equality, literacy, international, local language books, schools, publishing, girls, children, learning, reading",
+            "human_name": "Room to Read",
+            "logo_url": "https://hbproxy.imgix.net/https%3A%2F%2Fpics.paypal.com%2F00%2Fs%2FNzkxYTIwYzItMDUwNC00MjIyLWFjMWQtZWM4NDM1N2NhNGIx%2Ffile.JPG?auto=compress&auto=format&bg=fff&fit=fill&h=350&w=510&s=86a431bd247b512ea65093a6942dea46"
+        },
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": null,
+        "publishers": [],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "subtitle_html": null,
+        "description_text": "<p><em>Donations to support Room to Read are made to&nbsp;<a href=\"https://support.humblebundle.com/hc/en-us/articles/205183597\" target=\"_blank\" rel=\"noopener\">PayPal Giving Fund</a>, subject to its policies.<br></em><br>We envision a world in which all children can pursue a quality education that enables them to reach their full potential and contribute to their communities and the world.</p>\n<p>Room to Read seeks to transform the lives of millions of children in low-income communities by focusing on literacy and gender equality in education. Working in collaboration with local communities, partner organizations and governments, we develop literacy skills and a habit of reading among primary school children, and support girls to complete secondary school with the relevant life skills to succeed in school and beyond.</p>",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/charities/roomtoread.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "<span>Room to Read</span>",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/roomtoread_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Room to Read",
+                "developer-url": "https://www.roomtoread.org/about/media/"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {},
+        "resolved_paths": {
+            "preview_image_bonus_retina": null,
+            "featured_image": null,
+            "front_page_art_imgix_retina": "https://hb.imgix.net/8c8e2d93e8b5e4e0214dfc3185fe37c5c3a76d16.png?auto=compress,format&dpr=2&fit=clip&h=240&w=180&s=49842026a00d3863a31487c11ba41205",
+            "preview_image_bonus": null,
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/8c8e2d93e8b5e4e0214dfc3185fe37c5c3a76d16.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=d2f7db2366da97b87a328caa448b872b",
+            "front_page_art_imgix": "https://hb.imgix.net/8c8e2d93e8b5e4e0214dfc3185fe37c5c3a76d16.png?auto=compress,format&fit=clip&h=240&w=180&s=540d468a0a8a07462159a2261a9cc7bc",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/8c8e2d93e8b5e4e0214dfc3185fe37c5c3a76d16.png?auto=compress,format&fit=clip&h=80&w=170&s=5097f76a5bda7958af15b1f6f20f6959",
+            "preview_image": null
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Room to Read",
+        "is_mystery_box": null,
+        "payee_secondary_id": "2102318",
+        "wallet_credit": {}
+    },
+    "masteringplcprogramming": {
+        "machine_name": "masteringplcprogramming",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "71.5 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/masteringplcprogramming_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/masteringplcprogramming_preview.pdf?t=st=1743612711~exp=1743699111~hmac=3a2f3b732a267265d9525f663a02edaedbf5c5fc8f829883be1d0343058b2876"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Packt",
+                "publisher-url": "https://www.packtpub.com/product/Mastering-PLC-Programming/9781804612880"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 16.68
+        },
+        "subtitle_html": null,
+        "description_text": "<h4>Key Features</h4><ul><li>Take a deep dive into object-oriented PLC programming to gain hands-on knowledge</li><li>Explore software engineering concepts such as SDLC, debugging, and SOLID programming</li><li>Get a thorough grasp on HMI development to build various HMI projects</li></ul><h4>Who this book is for</h4>This book is for automaton programmers with a background in software engineering topics such as object-oriented programming and general software engineering knowledge. Automation engineers, software engineers, electrical engineers, PLC technicians, hobbyists, and upper-level university students with an interest in automation or robotics will also find this book useful and interesting. Anyone with a basic knowledge of PLCs can benefit from reading this book.",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/masteringplcprogramming.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Mastering PLC Programming",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/masteringplcprogramming_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "M. T. White"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/2d693d24536ec24e3130332c493b4c613912a60e.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=2a11dc87dbe78872950a0d5ec26c1881",
+            "featured_image": null,
+            "front_page_art_imgix_retina": "https://hb.imgix.net/e989a0b651e66b55c27114b6b495ac373d218b76.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=2e561d45aae2817ec83f2dfdaf2f100b",
+            "preview_image_bonus": "https://hb.imgix.net/2d693d24536ec24e3130332c493b4c613912a60e.jpg?auto=compress,format&fit=clip&h=200&w=200&s=8d77f8ee6dd2ee4b87ee2ec463fcca48",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/e989a0b651e66b55c27114b6b495ac373d218b76.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=185ad587d8713bcda28ffc6d6fd39694",
+            "front_page_art_imgix": "https://hb.imgix.net/e989a0b651e66b55c27114b6b495ac373d218b76.png?auto=compress,format&w=180&s=8cd1337781f985675841888e1e0736bd",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/e989a0b651e66b55c27114b6b495ac373d218b76.png?auto=compress,format&fit=clip&h=80&w=170&s=6aecf9bf6af96ff77c12fd362a38ca56",
+            "preview_image": "https://hb.imgix.net/2d693d24536ec24e3130332c493b4c613912a60e.jpg?auto=compress,format&fit=clip&h=350&w=600&s=9924b1c76d3b61c38eb4cdb474578127"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Mastering PLC Programming",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "moderncomputerarchitectureandorganization": {
+        "machine_name": "moderncomputerarchitectureandorganization",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": "<div class=\"accolades\">2nd Edition</div>",
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "69.6 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/moderncomputerarchitectureandorganization_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/moderncomputerarchitectureandorganization_preview.pdf?t=st=1743612711~exp=1743699111~hmac=4cfb783965e374e717faf29449a3878fb34e334f42212ff417515aa8978f8843"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Packt",
+                "publisher-url": "https://www.packtpub.com/en-us/product/modern-computer-architecture-and-organization-second-edition-9781803238234"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 16.68
+        },
+        "subtitle_html": null,
+        "description_text": "<h4>Key Features</h4><ul><li>Understand digital circuitry through the study of transistors, logic gates, and sequential logic </li><li>Learn the architecture of x86, x64, ARM, and RISC-V processors, iPhones, and high-performance gaming PCs</li><li>Study the design principles underlying the domains of cybersecurity, bitcoin, and self-driving cars</li></ul><h4>Who this book is for</h4> This book is for software developers, computer engineering students, system designers, reverse engineers, and anyone looking to understand the architecture and design principles underlying modern computer systems: ranging from tiny, embedded devices to warehouse-size cloud server farms. A general understanding of computer processors is helpful but not required.",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/moderncomputerarchitectureandorganization.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Modern Computer Architecture and Organization - Second Edition",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/moderncomputerarchitectureandorganization_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Jim Ledin"
+            },
+            {
+                "developer-name": "Dave Farley"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/b4ff1528064dcb1b1f73907678f1bf405d1fe111.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=6946773a309669ef094bc0ad3176d628",
+            "featured_image": null,
+            "front_page_art_imgix_retina": "https://hb.imgix.net/02b88379374751a3fcefb92fd93a29ff2afaefe5.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=cf9bb20d213ebc4bc8f10a78df0caaf5",
+            "preview_image_bonus": "https://hb.imgix.net/b4ff1528064dcb1b1f73907678f1bf405d1fe111.jpg?auto=compress,format&fit=clip&h=200&w=200&s=dcac66b03c80f0fdf790ffdeeffcd211",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/02b88379374751a3fcefb92fd93a29ff2afaefe5.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=20325abba1496a498123ee01e747104b",
+            "front_page_art_imgix": "https://hb.imgix.net/02b88379374751a3fcefb92fd93a29ff2afaefe5.png?auto=compress,format&w=180&s=d7cdbb2de21e951c3b24c6df09f829fe",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/02b88379374751a3fcefb92fd93a29ff2afaefe5.png?auto=compress,format&fit=clip&h=80&w=170&s=09a9ccec9439c916e3ee1a2f7f4fda8b",
+            "preview_image": "https://hb.imgix.net/b4ff1528064dcb1b1f73907678f1bf405d1fe111.jpg?auto=compress,format&fit=clip&h=350&w=600&s=e6b3fcb0223a574884fd6bd20a561859"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Modern Computer Architecture and Organization - Second Edition",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "internetofthingsprogrammingprojects": {
+        "machine_name": "internetofthingsprogrammingprojects",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": "<div class=\"accolades\">2nd Edition</div>",
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "85.5 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/internetofthingsprogrammingprojects_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/internetofthingsprogrammingprojects_preview.pdf?t=st=1743612711~exp=1743699111~hmac=34fc4f02741a8ec233c25701f28db106ae20777762b5586173e4892cb14b545e"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Packt",
+                "publisher-url": "https://www.packtpub.com/product/Internet-of-Things-Programming-Projects/9781835082959"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 16.68
+        },
+        "subtitle_html": null,
+        "description_text": "<h4>Key Features</h4><ul><li>Get to grips with the Raspberry Pi ecosystem and its role in IoT development</li><li>Integrate cutting-edge technologies such as MQTT, LoRa, and ROS for advanced IoT applications</li><li>Achieve superior control in your robot car with vision recognition and the power of ROS</li><li>Purchase of the print or Kindle book includes a free PDF eBook</li></ul><h4>Who this book is for</h4>This book is for beginners as well as experienced programmers, IoT developers, and Raspberry Pi enthusiasts. With just basic knowledge of IoT, you can dive right in and explore the projects with ease.",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/internetofthingsprogrammingprojects.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Internet of Things Programming Projects",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/internetofthingsprogrammingprojects_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Colin Dow"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "epub",
+                    "pdf"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/ec640c8322ba9900dc842a614b9a4cec0fb6f65f.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=91dabbb4597a885e5a974ce7df5ec1b0",
+            "featured_image": null,
+            "front_page_art_imgix_retina": "https://hb.imgix.net/0c06f793dd03bf7734db99d61a950e0bd4e6cbb5.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=b95c4f1c53eee68c0e7ccc9272547312",
+            "preview_image_bonus": "https://hb.imgix.net/ec640c8322ba9900dc842a614b9a4cec0fb6f65f.jpg?auto=compress,format&fit=clip&h=200&w=200&s=9fd1e37e129139f022b4239e0de91074",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/0c06f793dd03bf7734db99d61a950e0bd4e6cbb5.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=2bf7dc10359c9632bf7d2c10ed08d66b",
+            "front_page_art_imgix": "https://hb.imgix.net/0c06f793dd03bf7734db99d61a950e0bd4e6cbb5.png?auto=compress,format&w=180&s=f0d8515f69c40346a2693a303de000c9",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/0c06f793dd03bf7734db99d61a950e0bd4e6cbb5.png?auto=compress,format&fit=clip&h=80&w=170&s=642894e8cd404673def56a46b30059ce",
+            "preview_image": "https://hb.imgix.net/ec640c8322ba9900dc842a614b9a4cec0fb6f65f.jpg?auto=compress,format&fit=clip&h=350&w=600&s=094bf2c6f6b606a4b2476f45f6720f5d"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Internet of Things Programming Projects",
+        "is_mystery_box": null,
+        "payee_secondary_id": "",
+        "wallet_credit": {}
+    },
+    "buildingsecureautomotiveiotapplications": {
+        "machine_name": "buildingsecureautomotiveiotapplications",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "64.7 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/buildingsecureautomotiveiotapplications_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/buildingsecureautomotiveiotapplications_preview.pdf?t=st=1743612711~exp=1743699111~hmac=7857c3a77dd143a43788f8ada4fc013981471084f20da34331063813e6b25d33"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Packt",
+                "publisher-url": "https://www.packtpub.com/product/Building-Secure-Automotive-IoT-Applications/9781835465509"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 16.68
+        },
+        "subtitle_html": null,
+        "description_text": "<h4>Key Features</h4><ul><li>Explore modern vehicle architectures designed to support automotive IoT use cases</li><li>Discover cybersecurity practices and processes to develop secure automotive IoT applications</li><li>Gain insights into how cloud technologies and services power automotive IoT applications</li><li>Purchase of the print or Kindle book includes a free PDF eBook</li></ul><h4>Who this book is for</h4>This book is for embedded developers and software engineers working in the automotive industry looking to learn IoT development, as well as IoT developers who want to learn automotive development. A fundamental grasp of software development will assist with understanding the concepts covered in the book.",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/buildingsecureautomotiveiotapplications.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Building Secure Automotive IoT Applications",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/buildingsecureautomotiveiotapplications_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Dr. Dennis Kengo Oka"
+            },
+            {
+                "developer-name": "Sharanukumar Nadahalli"
+            },
+            {
+                "developer-name": "Jeff Yost"
+            },
+            {
+                "developer-name": "Ram Prasad Bojanki"
+            },
+            {
+                "developer-name": "Andr\u00e9 Weimerskirch"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/be6842d187cafd22acc15fa7d1378310611f5b99.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=7c5826c31dbad065b0daa403a0096847",
+            "featured_image": null,
+            "front_page_art_imgix_retina": "https://hb.imgix.net/812af1830e097edfc1878acbed93a37efeb30603.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=fb6fd72f11b6f06cec5dcde1152b7fce",
+            "preview_image_bonus": "https://hb.imgix.net/be6842d187cafd22acc15fa7d1378310611f5b99.jpg?auto=compress,format&fit=clip&h=200&w=200&s=c288951b7113c1caf975bc266ec7cd7e",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/812af1830e097edfc1878acbed93a37efeb30603.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=aa214f2c66a920bcd683ccbfd22a3ffe",
+            "front_page_art_imgix": "https://hb.imgix.net/812af1830e097edfc1878acbed93a37efeb30603.png?auto=compress,format&w=180&s=6e3d9f4b352274d9d6b162101d182983",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/812af1830e097edfc1878acbed93a37efeb30603.png?auto=compress,format&fit=clip&h=80&w=170&s=f5550eae5fa3749783e17ca29797b113",
+            "preview_image": "https://hb.imgix.net/be6842d187cafd22acc15fa7d1378310611f5b99.jpg?auto=compress,format&fit=clip&h=350&w=600&s=e3f1cc9aa59185ef9ca712dba479a306"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Building Secure Automotive IoT Applications",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "ros2fromscratch": {
+        "machine_name": "ros2fromscratch",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "713.4 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/ros2fromscratch_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/ros2fromscratch_preview.pdf?t=st=1743612711~exp=1743699111~hmac=d8bd9e38733b8cbd0dd606859808b6bb33c34ee8909d1e09466edbc3bd937b35"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Packt",
+                "publisher-url": "https://www.packtpub.com/product/ROS-2-from-Scratch/9781835881408"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 16.68
+        },
+        "subtitle_html": null,
+        "description_text": "<h4>Key Features</h4><ul><li>Build a strong foundation in ROS 2 and instill confidence for future robotics projects</li><li>Leverage best practices to create scalable ROS 2 applications with Python and C++</li><li>Follow a step-by-step process to create and simulate a custom robot using ROS 2</li><li>Purchase of the print or Kindle book includes a free PDF eBook</li></ul><h4>Who this book is for</h4>This book is for engineers, researchers, teachers, students, and hobbyists eager to learn ROS 2 from scratch and build real-world robotics applications efficiently. If you\u2019re struggling to get started with ROS 2 or find existing tutorials overwhelming, then this book is for you. This book teaches you all the basics you need to create your own ROS 2 apps, without prior ROS knowledge. Basic Linux command line and Python programming skills (C++ optional for following the C++ code examples) are necessary.",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/ros2fromscratch.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "ROS 2 from Scratch",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/ros2fromscratch_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Edouard Renard"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/6b353367abaed633a73a5423bcc2d881ff38b00c.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=4af5e3423c8941149de89031b5f980a6",
+            "featured_image": null,
+            "front_page_art_imgix_retina": "https://hb.imgix.net/32e53021339f7d25d5171598420b79f979e7fb3f.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=3cc8bfe9c63ba8a942d059e6d78c7ce8",
+            "preview_image_bonus": "https://hb.imgix.net/6b353367abaed633a73a5423bcc2d881ff38b00c.jpg?auto=compress,format&fit=clip&h=200&w=200&s=69bce386432cb63fa2ad9e30b2ecadc3",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/32e53021339f7d25d5171598420b79f979e7fb3f.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=ce211c9c1a5edb44e6113b732aaf9171",
+            "front_page_art_imgix": "https://hb.imgix.net/32e53021339f7d25d5171598420b79f979e7fb3f.png?auto=compress,format&w=180&s=fe07cfb29e6fcdf47f55dff595bb6d53",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/32e53021339f7d25d5171598420b79f979e7fb3f.png?auto=compress,format&fit=clip&h=80&w=170&s=774e3793644c630b21cde9baab2b6399",
+            "preview_image": "https://hb.imgix.net/6b353367abaed633a73a5423bcc2d881ff38b00c.jpg?auto=compress,format&fit=clip&h=350&w=600&s=fdf22640e391c6116e880a1df4186f3e"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "ROS 2 from Scratch",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "plcsforbeginners": {
+        "machine_name": "plcsforbeginners",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "60.2 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/plcsforbeginners_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/plcsforbeginners_preview.pdf?t=st=1743612711~exp=1743699111~hmac=d5a5cefb0f744c258b8a86fe3501a4d3c567674af8e6e28df42601e437150f88"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Packt",
+                "publisher-url": "https://www.packtpub.com/product/PLCs-for-Beginners/9781803230931"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 1.0
+        },
+        "subtitle_html": null,
+        "description_text": "<h4>Key Features</h4><ul><li>Build a solid foundation of Structured Text by understanding its syntax, features, and applications</li><li>Learn how to apply programming logic and design by taking a design-first approach to PLC programming</li><li>Integrate advanced concepts and technologies such as cybersecurity and generative AI with PLCs</li><li>Purchase of the print or Kindle book includes a free PDF eBook</li></ul><h4>Who this book is for</h4>This book is for automation engineering students and individuals who are aspiring to be software, electrical, mechanical, or automation engineers with an interest in reshaping the automation industry.",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/plcsforbeginners.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "PLCs for Beginners",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/plcsforbeginners_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "M. T. White"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/895ea6cd68dfa7d3395821a6b6df36ef18d052c1.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=38e2efdfdc315af7f0a49400b41a444f",
+            "featured_image": null,
+            "front_page_art_imgix_retina": "https://hb.imgix.net/282080cd8dcba9f94fe5ccb4cb3fff793b12055f.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=fd3e7a1ea936400afe8cf8a23711cc16",
+            "preview_image_bonus": "https://hb.imgix.net/895ea6cd68dfa7d3395821a6b6df36ef18d052c1.jpg?auto=compress,format&fit=clip&h=200&w=200&s=5c1b41b9c76ecf902f4cbaed1892d4ac",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/282080cd8dcba9f94fe5ccb4cb3fff793b12055f.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=8e56ad24a1b83b3d99820772be208993",
+            "front_page_art_imgix": "https://hb.imgix.net/282080cd8dcba9f94fe5ccb4cb3fff793b12055f.png?auto=compress,format&w=180&s=ebd9f77b8af4ede17a80aad0fc69a0a1",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/282080cd8dcba9f94fe5ccb4cb3fff793b12055f.png?auto=compress,format&fit=clip&h=80&w=170&s=780c7788d7bfb15e1c3096656ced2356",
+            "preview_image": "https://hb.imgix.net/895ea6cd68dfa7d3395821a6b6df36ef18d052c1.jpg?auto=compress,format&fit=clip&h=350&w=600&s=bd53d6ced5e639b0e8aae0bfa65c44b8"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "PLCs for Beginners",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "buildingsmarthomeautomationsolutionswithhomeassistant": {
+        "machine_name": "buildingsmarthomeautomationsolutionswithhomeassistant",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "106.9 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/buildingsmarthomeautomationsolutionswithhomeassistant_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/buildingsmarthomeautomationsolutionswithhomeassistant_preview.pdf?t=st=1743612711~exp=1743699111~hmac=02c9e6c432786c28cb0f4af5e1f94e940e806100f2700bdebdef6c8fb0682e0f"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Packt",
+                "publisher-url": "https://www.packtpub.com/product/Building-Smart-Home-Automation-Solutions-with-Home-Assistant-/9781801815291"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 16.68
+        },
+        "subtitle_html": null,
+        "description_text": "<h4>Key Features</h4><ul><li>Learn by doing using real-life practical examples to build your own home automation system</li><li>Create, hack, and configure IoT devices through hands-on projects to be used with or without Home Assistant</li><li>Customize your home automation system using Home Assistant, Node-RED, InfluxDB, and Grafana</li><li>Purchase of the print or Kindle book includes a free PDF eBook</li></ul><h4>Who this book is for</h4>The book is for engineers, developers, students, makers, and enthusiasts who\u2019re working on or interested in working with electronics and IoT devices, embedded systems, systems integration, computer software, and coding to develop their own smart home automation systems. Technicians, teachers, and other professionals who want to learn home automation\u2013related technologies will also find this book useful. Prior experience of working with Raspberry Pi, creating hardware prototypes, and software programming will be beneficial.",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/buildingsmarthomeautomationsolutionswithhomeassistant.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Building Smart Home Automation Solutions with Home Assistant",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/buildingsmarthomeautomationsolutionswithhomeassistant_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Marco Carvalho"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/ede570fd94431a57da7eaf292df84ff5dcde96f5.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=36f4d6ac997365f2409cc788dfc0ee55",
+            "featured_image": null,
+            "front_page_art_imgix_retina": "https://hb.imgix.net/64068111ef6c669a0af922a666581f161a36f683.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=9826c184cb00d6466d2858faca5c7aa5",
+            "preview_image_bonus": "https://hb.imgix.net/ede570fd94431a57da7eaf292df84ff5dcde96f5.jpg?auto=compress,format&fit=clip&h=200&w=200&s=d502a560648f3694a5553dfe2285aec6",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/64068111ef6c669a0af922a666581f161a36f683.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=d05678b0d807dadea3d301abca2b3c6f",
+            "front_page_art_imgix": "https://hb.imgix.net/64068111ef6c669a0af922a666581f161a36f683.png?auto=compress,format&w=180&s=8eed24ea75ef594a34277a73ec2ecea2",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/64068111ef6c669a0af922a666581f161a36f683.png?auto=compress,format&fit=clip&h=80&w=170&s=bea5e6fa14c060e843cb2ceec6b83fef",
+            "preview_image": "https://hb.imgix.net/ede570fd94431a57da7eaf292df84ff5dcde96f5.jpg?auto=compress,format&fit=clip&h=350&w=600&s=e321037bc2b1b36b5c6fb81e54892b70"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Building Smart Home Automation Solutions with Home Assistant",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "fpgaprogramminghandbook": {
+        "machine_name": "fpgaprogramminghandbook",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": "<div class=\"accolades\">2nd Edition</div>",
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "177.1 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/fpgaprogramminghandbook_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/fpgaprogramminghandbook_preview.pdf?t=st=1743612711~exp=1743699111~hmac=267b65c05503824dfbae6f67e23f95e482ff24d1cfd6fb5fe7fcbcca834200bc"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Packt",
+                "publisher-url": "https://www.packtpub.com/product/The-FPGA-Programming-Handbook/9781805125594"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 16.68
+        },
+        "subtitle_html": null,
+        "description_text": "<h4>Key Features</h4><ul><li>Explore a wide range of FPGA applications, grasp their versatility, and master Xilinx FPGA tool flow</li><li>Master the intricacies of SystemVerilog and VHDL to develop robust and efficient hardware circuits</li><li>Refine skills with CPU, VGA, and calculator projects for practical expertise in real-world applications</li></ul><h4>Who this book is for</h4>This FPGA design book is for embedded system developers, engineers, and programmers who want to learn FPGA design using SystemVerilog or VHDL programming from scratch. FPGA designers looking to gain hands-on experience with real-world projects will also find this book useful. Whether you are new to FPGA development or seeking to enhance your skills, this book provides a solid foundation and practical experience in FPGA design.",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/fpgaprogramminghandbook.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "The FPGA Programming Handbook",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/fpgaprogramminghandbook_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Frank Bruno"
+            },
+            {
+                "developer-name": "Guy Eschemann"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/c30e314a20a2f08eef74061030da2eede24241e9.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=01631bc430e95453ba1b66b930167b72",
+            "featured_image": null,
+            "front_page_art_imgix_retina": "https://hb.imgix.net/e6a4561ce7471ce7b3fff5bfab40eb8569f1099f.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=1855bccb8e094493d85faa70b7c335ee",
+            "preview_image_bonus": "https://hb.imgix.net/c30e314a20a2f08eef74061030da2eede24241e9.jpg?auto=compress,format&fit=clip&h=200&w=200&s=23aca3d852c927ea1e162412091900a6",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/e6a4561ce7471ce7b3fff5bfab40eb8569f1099f.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=a7e28da76e7b471a3535231d51117505",
+            "front_page_art_imgix": "https://hb.imgix.net/e6a4561ce7471ce7b3fff5bfab40eb8569f1099f.png?auto=compress,format&w=180&s=7349f88b2af1cdfccce0ebc4f7a97243",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/e6a4561ce7471ce7b3fff5bfab40eb8569f1099f.png?auto=compress,format&fit=clip&h=80&w=170&s=1679ee603c0460f0f583413c2951f9d4",
+            "preview_image": "https://hb.imgix.net/c30e314a20a2f08eef74061030da2eede24241e9.jpg?auto=compress,format&fit=clip&h=350&w=600&s=79e6b6573d8570d5c2e77f8ff3d53229"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "The FPGA Programming Handbook",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "hands-onindustrialinternetofthings": {
+        "machine_name": "hands-onindustrialinternetofthings",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": "<div class=\"accolades\">2nd Edition</div>",
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "90 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/hands-onindustrialinternetofthings_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/hands-onindustrialinternetofthings_preview.pdf?t=st=1743612711~exp=1743699111~hmac=34777ddc7ea40db872fc55f2ef58dbc7d82418bd0722f51d2b2f6f2bec11a0bf"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Packt",
+                "publisher-url": "https://www.packtpub.com/product/Hands-On-Industrial-Internet-of-Things/9781835887462"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 16.68
+        },
+        "subtitle_html": null,
+        "description_text": "<h4>Key Features</h4><ul><li>Leverage IoT, AI/ML, and cloud technologies to unlock industrial potential and drive business innovation</li><li>Work with labs on real-world edge computing scenarios, integrating AWS, Azure, and open source tools</li><li>Use diagnostic and predictive analytics to develop digital twins, improve industrial processes, and manage assets</li><li>Purchase of the print or Kindle book includes a free PDF eBook</li></ul><h4>Who this book is for</h4>If you are an IoT architect, developer, AI engineer, or stakeholder involved in designing the architecture systems of the Industrial Internet of Things, this book is for you. The only prerequisite needed is a solid understanding of the Python programming language and networking concepts.",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/hands-onindustrialinternetofthings.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Hands-On Industrial Internet of Things",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/hands-onindustrialinternetofthings_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Giacomo Veneri"
+            },
+            {
+                "developer-name": "Antonio Capasso"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/18e897596de35925c2082f1edb65838bcc4c9df4.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=7381659875b12bab6570fd59d1c277df",
+            "featured_image": null,
+            "front_page_art_imgix_retina": "https://hb.imgix.net/ea5e796639e8eb78e2f58f51efa111c9e6bd874f.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=66cc3fce7e615925707ae3129effd970",
+            "preview_image_bonus": "https://hb.imgix.net/18e897596de35925c2082f1edb65838bcc4c9df4.jpg?auto=compress,format&fit=clip&h=200&w=200&s=1f78a222881833ea6990f14514792b5a",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/ea5e796639e8eb78e2f58f51efa111c9e6bd874f.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=6213d070f6dfbcdef4b8e6fd2b4e24fb",
+            "front_page_art_imgix": "https://hb.imgix.net/ea5e796639e8eb78e2f58f51efa111c9e6bd874f.png?auto=compress,format&w=180&s=32fb543aa90481f9411ec60077d7a936",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/ea5e796639e8eb78e2f58f51efa111c9e6bd874f.png?auto=compress,format&fit=clip&h=80&w=170&s=0ad51af60b44304a15ee7b294ba30076",
+            "preview_image": "https://hb.imgix.net/18e897596de35925c2082f1edb65838bcc4c9df4.jpg?auto=compress,format&fit=clip&h=350&w=600&s=6d535193c18bbda1fed52b6fd3e989cd"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Hands-On Industrial Internet of Things",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "roboticsathomewithraspberrypipico": {
+        "machine_name": "roboticsathomewithraspberrypipico",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "330.7 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/roboticsathomewithraspberrypipico_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/roboticsathomewithraspberrypipico_preview.pdf?t=st=1743612711~exp=1743699111~hmac=76f35e6a1f2e791643f106475efcd4cb2fe2dc9997b749fe2a33729c99e9693c"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Packt",
+                "publisher-url": "https://www.packtpub.com/product/Robotics-at-Home-with-Raspberry-Pi-Pico/9781803246079"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 1.0
+        },
+        "subtitle_html": null,
+        "description_text": "<h4>Key Features</h4><ul><li>Gain in depth knowledge of robotics with easy-to-follow instructions</li><li>Build a rover platform designed for experimentation and extension</li><li>Enhance your robot building skills through planning, building, and coding</li><li>Purchase of the print or Kindle book includes a free PDF eBook</li></ul><h4>Who this book is for</h4>This book is for beginner robot makers, keen hobbyists, technical enthusiasts, developers and STEM teachers who want to build robots at home. Prior knowledge of coding - beginner to intermediate programming, will be helpful.",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/roboticsathomewithraspberrypipico.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Robotics at Home with Raspberry Pi Pico",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/roboticsathomewithraspberrypipico_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Danny Staple"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/8f4d4a399959c0673b74178f11bbf9c94d8502f1.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=352b9523bbe1a202fab1c5daa24b7c36",
+            "featured_image": null,
+            "front_page_art_imgix_retina": "https://hb.imgix.net/7a5a75964f461ea5d4612ffa07625ab2824a06de.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=165ce5b62a353325214c852dca27ef5c",
+            "preview_image_bonus": "https://hb.imgix.net/8f4d4a399959c0673b74178f11bbf9c94d8502f1.jpg?auto=compress,format&fit=clip&h=200&w=200&s=109ffb679c458d35168f9beee04dd512",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/7a5a75964f461ea5d4612ffa07625ab2824a06de.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=0d2100cd2889a9f64ce72d1a6cf548a1",
+            "front_page_art_imgix": "https://hb.imgix.net/7a5a75964f461ea5d4612ffa07625ab2824a06de.png?auto=compress,format&w=180&s=94e26fc0a429a351c2490a817982af31",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/7a5a75964f461ea5d4612ffa07625ab2824a06de.png?auto=compress,format&fit=clip&h=80&w=170&s=9e97bf2fa17ddf3aa34319225252002c",
+            "preview_image": "https://hb.imgix.net/8f4d4a399959c0673b74178f11bbf9c94d8502f1.jpg?auto=compress,format&fit=clip&h=350&w=600&s=54880c3e2bfcd0cb286df3a9d95259d3"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Robotics at Home with Raspberry Pi Pico",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "industrialautomationfromscratch": {
+        "machine_name": "industrialautomationfromscratch",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "267.8 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/industrialautomationfromscratch_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/industrialautomationfromscratch_preview.pdf?t=st=1743612711~exp=1743699111~hmac=6f0f9b564f695ede30545329eda9f0abbac171d4be973a71c755060b6fd435ee"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Packt",
+                "publisher-url": "https://www.packtpub.com/product/Industrial-Automation-from-Scratch/9781800569386"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 16.68
+        },
+        "subtitle_html": null,
+        "description_text": "<h4>Key Features</h4><ul><li>Learn the ins and outs of industrial automation and control by taking a pragmatic approach</li><li>Gain practical insights into automating a manufacturing process using PLCs</li><li>Discover how to monitor and control an industrial process using HMIs and SCADA</li></ul><h4>Who this book is for</h4>This book is for both graduates and undergraduates of electrical, electronics, mechanical, mechatronics, chemical or computer engineering, engineers making a career switch, or anyone looking to pursue their career in the field of industrial automation. The book covers topics ranging from basic to advanced levels, and is a valuable reference for beginner-level electrical, IIoT, automation, process, instrumentation and control, production, and maintenance engineers working in manufacturing and oil and gas industries, among others.",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/industrialautomationfromscratch.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Industrial Automation from Scratch",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/industrialautomationfromscratch_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Olushola Akande"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/17f99b2732e42db20167951221f20d958c70cf41.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=41e1962d57b85c053f9adbda42d5c82c",
+            "featured_image": null,
+            "front_page_art_imgix_retina": "https://hb.imgix.net/e35f5ca6496a80aeb15af3695caa0c1b4ee5217f.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=6b0bcc22e860ec60430f501d00ccaab7",
+            "preview_image_bonus": "https://hb.imgix.net/17f99b2732e42db20167951221f20d958c70cf41.jpg?auto=compress,format&fit=clip&h=200&w=200&s=ffd55af4198f8197d90d6bb3de661d7b",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/e35f5ca6496a80aeb15af3695caa0c1b4ee5217f.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=cf76cd2b6bab3cbeb443ee86fa24f17a",
+            "front_page_art_imgix": "https://hb.imgix.net/e35f5ca6496a80aeb15af3695caa0c1b4ee5217f.png?auto=compress,format&w=180&s=4cd3999594579e296b50b5c0c35a3c86",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/e35f5ca6496a80aeb15af3695caa0c1b4ee5217f.png?auto=compress,format&fit=clip&h=80&w=170&s=be3ae9a2f2a627bf194c035d345b8ef7",
+            "preview_image": "https://hb.imgix.net/17f99b2732e42db20167951221f20d958c70cf41.jpg?auto=compress,format&fit=clip&h=350&w=600&s=fe943df860e2e238488080f62c0b5961"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Industrial Automation from Scratch",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "artificialintelligenceforrobotics": {
+        "machine_name": "artificialintelligenceforrobotics",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": "<div class=\"accolades\">2nd Edition</div>",
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "71.9 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/artificialintelligenceforrobotics_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/artificialintelligenceforrobotics_preview.pdf?t=st=1743612711~exp=1743699111~hmac=c76b1ad93d801c8c46fee0acee9919bf3b63a72724429722fc25fc9ffdfdd19f"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Packt",
+                "publisher-url": "https://www.packtpub.com/product/Artificial-Intelligence-for-Robotics/9781805129592"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 16.68
+        },
+        "subtitle_html": null,
+        "description_text": "<h4>Key Features</h4><ul><li>Gain a holistic understanding of robot design, systems engineering, and task analysis</li><li>Implement AI/ML techniques to detect and manipulate objects and navigate robots using landmarks</li><li>Integrate voice and natural language interactions to create a digital assistant and artificial personality for your robot</li><li>Purchase of the print or Kindle book includes a free PDF eBook</li></ul><h4>Who this book is for</h4>This book is for practicing robotics engineers and enthusiasts aiming to advance their skills by applying AI and ML techniques. Students and researchers looking for practical guidance for solving specific problems or approaching a difficult robot design will find this book insightful.<p>Proficiency in Python programming, familiarity with electronics and wiring, single board computers, Linux-based command-line interface (CLI), and knowledge of AI/ML concepts are required to get started with this book.</p>",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/artificialintelligenceforrobotics.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Artificial Intelligence for Robotics",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/artificialintelligenceforrobotics_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Francis X. Govers III"
+            },
+            {
+                "developer-name": "Dr. Kamesh Namuduri"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "epub",
+                    "pdf"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/35171c1b3a6f8e657ea9ef62c10e6c4aa602fd30.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=def26563a671d4942598346f25bbf75e",
+            "featured_image": null,
+            "front_page_art_imgix_retina": "https://hb.imgix.net/9e27dd77436de2c14deb249e7adf460f7d94160b.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=37806f20e20d3afc7f617060852ee978",
+            "preview_image_bonus": "https://hb.imgix.net/35171c1b3a6f8e657ea9ef62c10e6c4aa602fd30.jpg?auto=compress,format&fit=clip&h=200&w=200&s=c4794fbd699782aabafe1b03dcbdd2b3",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/9e27dd77436de2c14deb249e7adf460f7d94160b.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=d05f0b89870c97974b7778c7d3520ed9",
+            "front_page_art_imgix": "https://hb.imgix.net/9e27dd77436de2c14deb249e7adf460f7d94160b.png?auto=compress,format&w=180&s=95b460ecf3709b1c4e220610346ce030",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/9e27dd77436de2c14deb249e7adf460f7d94160b.png?auto=compress,format&fit=clip&h=80&w=170&s=aa7e3a2904414ef6b96121280f99e83a",
+            "preview_image": "https://hb.imgix.net/35171c1b3a6f8e657ea9ef62c10e6c4aa602fd30.jpg?auto=compress,format&fit=clip&h=350&w=600&s=6f8edffdb91d9beb87addfd402d83759"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Artificial Intelligence for Robotics",
+        "is_mystery_box": null,
+        "payee_secondary_id": "",
+        "wallet_credit": {}
+    },
+    "architectingandbuildinghigh-speedsocs": {
+        "machine_name": "architectingandbuildinghigh-speedsocs",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "209.3 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/architectingandbuildinghigh-speedsocs_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/architectingandbuildinghigh-speedsocs_preview.pdf?t=st=1743612711~exp=1743699111~hmac=49793953744f153ee568b0b0e4513b9ea87ee285ea53c9dbc599669be2d66a30"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Packt",
+                "publisher-url": "https://www.packtpub.com/product/Architecting-and-Building-High-Speed-SoCs/9781801810999"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 1.0
+        },
+        "subtitle_html": null,
+        "description_text": "<h4>Key Features</h4><ul><li>Use development tools to implement and verify an SoC, including ARM CPUs and the FPGA logic</li><li>Overcome the challenge of time to market by using FPGA SoCs and avoid the prohibitive ASIC NRE cost</li><li>Understand the integration of custom logic accelerators and the SoC software and build them</li><li>Purchase of the print or Kindle book includes a free eBook in the PDF format</li></ul><h4>Who this book is for</h4>This book is for FPGA and ASIC hardware and firmware developers, IoT engineers, SoC architects, and anyone interested in understanding the process of developing a complex SoC, including all aspects of the hardware design and the associated firmware design. Prior knowledge of digital electronics, and some experience of coding in VHDL or Verilog and C or a similar language suitable for embedded systems will be required for using this book. A general understanding of FPGA and CPU architecture will also be helpful but not mandatory.",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/architectingandbuildinghigh-speedsocs.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Architecting and Building High-Speed SoCs",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/architectingandbuildinghigh-speedsocs_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Mounir Maaref"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/5aa117fb8a3759094f6a07778d10a7be0b9fe14c.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=6c76b796873852476178ee3dd0d4a57e",
+            "featured_image": null,
+            "front_page_art_imgix_retina": "https://hb.imgix.net/fa48e063b3301e011a23b8467ce695da21c3e4e9.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=2724b19b24ecd2de1060923d1f6e2d23",
+            "preview_image_bonus": "https://hb.imgix.net/5aa117fb8a3759094f6a07778d10a7be0b9fe14c.jpg?auto=compress,format&fit=clip&h=200&w=200&s=2ff7435fe632479da636a9ae543f43e8",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/fa48e063b3301e011a23b8467ce695da21c3e4e9.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=98435024486bd6ef7e5b7969a08bdc1c",
+            "front_page_art_imgix": "https://hb.imgix.net/fa48e063b3301e011a23b8467ce695da21c3e4e9.png?auto=compress,format&w=180&s=8b4c4abdff548a6c876d5f442b01251a",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/fa48e063b3301e011a23b8467ce695da21c3e4e9.png?auto=compress,format&fit=clip&h=80&w=170&s=518e03bdccf69d3094767da2240d34ab",
+            "preview_image": "https://hb.imgix.net/5aa117fb8a3759094f6a07778d10a7be0b9fe14c.jpg?auto=compress,format&fit=clip&h=350&w=600&s=73eccb520ad3c01703ab70fc4c304faf"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Architecting and Building High-Speed SoCs",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "embeddedsystemsarchitecture_secondedition": {
+        "machine_name": "embeddedsystemsarchitecture_secondedition",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": "<div class=\"accolades\">2nd Edition</div>",
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "703.2 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/embeddedsystemsarchitecture_secondedition_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/embeddedsystemsarchitecture_secondedition_preview.pdf?t=st=1743612711~exp=1743699111~hmac=ceef1afabdf410e9ad485d2d08be9a3101e499a11e630c749a9ff7187d36383e"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Packt",
+                "publisher-url": "https://www.packtpub.com/product/Embedded-Systems-Architecture/9781803239545"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 16.68
+        },
+        "subtitle_html": null,
+        "description_text": "<h4>Key Features</h4><ul><li>Identify and overcome challenges in embedded environments</li><li>Understand and implement the steps required to increase the security of IoT solutions</li><li>Build safety-critical and memory-safe parallel and distributed embedded systems</li></ul><h4>Who this book is for</h4>If you're a software developer or designer looking to learn about embedded programming, this is the book for you. You\u2019ll also find this book useful if you\u2019re a beginner or a less experienced embedded programmer on a quest to expand your knowledge on embedded systems.",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/embeddedsystemsarchitecture_secondedition.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Embedded Systems Architecture",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/embeddedsystemsarchitecture_secondedition_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Daniele Lacamera"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/800f0e4d0729747b1e4b20c1a73af9fe7e1acdda.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=07080d4327861b248c35bfaf572519e6",
+            "featured_image": null,
+            "front_page_art_imgix_retina": "https://hb.imgix.net/79d6ced88e7ffc4ad40b0a1636b96c8b83add681.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=a02ea710f579930cc9c8c2e189bd5bba",
+            "preview_image_bonus": "https://hb.imgix.net/800f0e4d0729747b1e4b20c1a73af9fe7e1acdda.jpg?auto=compress,format&fit=clip&h=200&w=200&s=5d1c1ae928da479e6517e67dc4251bac",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/79d6ced88e7ffc4ad40b0a1636b96c8b83add681.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=1ae60a2f06cd5ac4ba53fe21e2a256a5",
+            "front_page_art_imgix": "https://hb.imgix.net/79d6ced88e7ffc4ad40b0a1636b96c8b83add681.png?auto=compress,format&w=180&s=69f0cc512000b410543261c31ac23529",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/79d6ced88e7ffc4ad40b0a1636b96c8b83add681.png?auto=compress,format&fit=clip&h=80&w=170&s=5456a9d1e28b9e6e5a2501534e4818aa",
+            "preview_image": "https://hb.imgix.net/800f0e4d0729747b1e4b20c1a73af9fe7e1acdda.jpg?auto=compress,format&fit=clip&h=350&w=600&s=0b5cdb23824e2fc530817ba54ef15ed4"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Embedded Systems Architecture",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "dronedevelopmentfromconcepttoflight": {
+        "machine_name": "dronedevelopmentfromconcepttoflight",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "702.4 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/dronedevelopmentfromconcepttoflight_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/dronedevelopmentfromconcepttoflight_preview.pdf?t=st=1743612711~exp=1743699111~hmac=e33ece0f2beedff9802bdcc99bef6c7ae74f9108d0bac8f6b10bec9c95f39e6c"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Packt",
+                "publisher-url": "https://www.packtpub.com/product/Drone-Development-from-Concept-to-Flight/9781837633005"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 16.68
+        },
+        "subtitle_html": null,
+        "description_text": "<h4>Key Features</h4><ul><li>Get to grips with multicopter physics (roll, pitch, and yaw) and 3D dynamics for defining a drone's flight</li><li>Optimize drone performance with powerful propulsion systems such as BLDS motors, lipo batteries, and ESCs</li><li>Build a custom survey drone to learn vital aspects of drone assembly, configuration, testing, and maiden flight</li><li>Purchase of the print or Kindle book includes a free PDF eBook</li></ul><h4>Who this book is for</h4>This book is for beginner-level drone engineers, robotics engineers, hardware and design engineers, and hobbyists who want to enter the drone industry and enhance their knowledge of the physics, mechanics, avionics, and programming of drones, multicopters, and UAVs. While not a prerequisite, a basic understanding of circuits, microcontrollers, and electronic instruments like multimeter, camera, and batteries, along with fundamental concepts in physics and mathematics, will be helpful.",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/dronedevelopmentfromconcepttoflight.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Drone Development from Concept to Flight",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/dronedevelopmentfromconcepttoflight_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Sumit  Sharma"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/c6d50df0edba87913b8153af21c4e59a575996ad.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=5d3d4dacf12d9794d7dd194cf9976d6e",
+            "featured_image": null,
+            "front_page_art_imgix_retina": "https://hb.imgix.net/6637e788ce6db4786d542b85813b5e1dc6af99a0.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=6e9075140446b873a2d32e37ab2f44eb",
+            "preview_image_bonus": "https://hb.imgix.net/c6d50df0edba87913b8153af21c4e59a575996ad.jpg?auto=compress,format&fit=clip&h=200&w=200&s=17117d0554b7e4b89c6a9417986a0d41",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/6637e788ce6db4786d542b85813b5e1dc6af99a0.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=049ed5a58d43139fe82d62a8207f6edc",
+            "front_page_art_imgix": "https://hb.imgix.net/6637e788ce6db4786d542b85813b5e1dc6af99a0.png?auto=compress,format&w=180&s=4d0c692da5e46bb8ccb437aaeb3f2049",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/6637e788ce6db4786d542b85813b5e1dc6af99a0.png?auto=compress,format&fit=clip&h=80&w=170&s=2e92fadb5ca48a2c4612154dcd3d9aae",
+            "preview_image": "https://hb.imgix.net/c6d50df0edba87913b8153af21c4e59a575996ad.jpg?auto=compress,format&fit=clip&h=350&w=600&s=bbd13629a12a4235d76aeaa5ba883396"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Drone Development from Concept to Flight",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "ultimateguidetoinformedwearabletechnology": {
+        "machine_name": "ultimateguidetoinformedwearabletechnology",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "85.4 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/ultimateguidetoinformedwearabletechnology_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/ultimateguidetoinformedwearabletechnology_preview.pdf?t=st=1743612711~exp=1743699111~hmac=91bc7b16b15a981c125e92db35eca7b369616f287245b14e152fdce49f47e703"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Packt",
+                "publisher-url": "https://www.packtpub.com/product/The-Ultimate-Guide-to-Informed-Wearable-Technology/9781803230597"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 9.26
+        },
+        "subtitle_html": null,
+        "description_text": "<h4>Key Features</h4><ul><li>Learn wearable technology and build electronic circuits with fun activities using Arduino systems</li><li>Get an in-depth understanding of e-textiles and ESP32 microcontrollers to create interactive wearables</li><li>Apply a design innovation approach and best practices to address real-world issues</li></ul><h4>Who this book is for</h4>This book is for electronics engineers, embedded system engineers and designers, and R&amp;D engineers, who are beginners in the wearable technology domain as well as makers and hobbyists who have an interest in creative computing. It will also be useful for teachers, students, and researchers, who are learning interaction design, physical computing, technology, fashion, or arts. Having a basic understanding of Arduino-based systems will help in easily comprehending the contents of the book.",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/ultimateguidetoinformedwearabletechnology.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "The Ultimate Guide to Informed Wearable Technology",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/ultimateguidetoinformedwearabletechnology_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Christine Farion"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/179a2a8d794c88c1765b5269ca263caa67734190.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=e14dacb6e952e7e18cce011f022dfe17",
+            "featured_image": null,
+            "front_page_art_imgix_retina": "https://hb.imgix.net/b0a2bcd924fbb2e930f5d12f34ee0840843c17b4.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=1855f8d550bad577d88052bcf543ad21",
+            "preview_image_bonus": "https://hb.imgix.net/179a2a8d794c88c1765b5269ca263caa67734190.jpg?auto=compress,format&fit=clip&h=200&w=200&s=72478c4b151117f5cf08cb5a7e79c6db",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/b0a2bcd924fbb2e930f5d12f34ee0840843c17b4.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=c9dbe0e3f56bae414264869e014d04df",
+            "front_page_art_imgix": "https://hb.imgix.net/b0a2bcd924fbb2e930f5d12f34ee0840843c17b4.png?auto=compress,format&w=180&s=ad8e00f36e70e0282cd8fbfdb5b4d517",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/b0a2bcd924fbb2e930f5d12f34ee0840843c17b4.png?auto=compress,format&fit=clip&h=80&w=170&s=47536043874cdb439fe2696c33372d69",
+            "preview_image": "https://hb.imgix.net/179a2a8d794c88c1765b5269ca263caa67734190.jpg?auto=compress,format&fit=clip&h=350&w=600&s=0ffb829d7d238bcc06f9800f1fa46c48"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "The Ultimate Guide to Informed Wearable Technology",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "autosarfundamentalsandapplications": {
+        "machine_name": "autosarfundamentalsandapplications",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "76.5 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/autosarfundamentalsandapplications_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/autosarfundamentalsandapplications_preview.pdf?t=st=1743612711~exp=1743699111~hmac=486a8c842b0e491ed709ee78adf5e84dfd2cd2f96ae8690c73f1924195f1dbbf"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Packt",
+                "publisher-url": "https://www.packtpub.com/product/AUTOSAR-Fundamentals-and-Applications/9781805120872"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 16.68
+        },
+        "subtitle_html": null,
+        "description_text": "<h4>Key Features</h4><ul><li>Grasp core AUTOSAR concepts, such as layered architecture and methodology, through simplified explanations and practical examples</li><li>Understand the role and integration of OS, communication stack, and security stack within electronic control units (ECUs)</li><li>Learn best practices for designing automotive ECUs with AUTOSAR</li><li>Purchase of the print or Kindle book includes a free PDF eBook</li></ul><h4>Who this book is for</h4>This book is for embedded software engineers, software developers, and software architects working with or planning to work with automotive systems, particularly those with little to no knowledge of AUTOSAR. It serves as a reference for project managers, students, and researchers who seek to learn about AUTOSAR and its applications. A background in software development processes and C programming is beneficial.",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/autosarfundamentalsandapplications.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "AUTOSAR Fundamentals and Applications",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/autosarfundamentalsandapplications_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Hossam Soffar"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/8de172940aae1b55e4bec396696afa609da5dbbd.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=2a7278c2ae098de5bf268cdd94af21e4",
+            "featured_image": null,
+            "front_page_art_imgix_retina": "https://hb.imgix.net/4a73255f935a0d5f55e82415eefaa30363318fab.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=b593203ae702a1080e7105f0a105a33e",
+            "preview_image_bonus": "https://hb.imgix.net/8de172940aae1b55e4bec396696afa609da5dbbd.jpg?auto=compress,format&fit=clip&h=200&w=200&s=7bb4699ddf317a6d1ad6a3f12b90cbbf",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/4a73255f935a0d5f55e82415eefaa30363318fab.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=c6e92d8bf8bc74efa7d1c6fbb14808d3",
+            "front_page_art_imgix": "https://hb.imgix.net/4a73255f935a0d5f55e82415eefaa30363318fab.png?auto=compress,format&w=180&s=e66ec6ed5b7ff880a7fb593be8ae7f79",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/4a73255f935a0d5f55e82415eefaa30363318fab.png?auto=compress,format&fit=clip&h=80&w=170&s=3bd91caf3945c6f90cda137e8924a972",
+            "preview_image": "https://hb.imgix.net/8de172940aae1b55e4bec396696afa609da5dbbd.jpg?auto=compress,format&fit=clip&h=350&w=600&s=56e07de79e8819a96fb64f78a74533d1"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "AUTOSAR Fundamentals and Applications",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "designinnovativerobotswithlegospikeprime": {
+        "machine_name": "designinnovativerobotswithlegospikeprime",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "1.4 MB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/designinnovativerobotswithlegospikeprime_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/designinnovativerobotswithlegospikeprime_preview.pdf?t=st=1743612711~exp=1743699111~hmac=cbb42c0fa6ca85196d378b59bde0b750cacb90edb665c4e1af1639714bc9aa31"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Packt",
+                "publisher-url": "https://www.packtpub.com/product/Design-Innovative-Robots-with-LEGO-SPIKE-Prime/9781801811576"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 9.26
+        },
+        "subtitle_html": null,
+        "description_text": "<h4>Key Features</h4><ul><li>Get up and running with new parts not seen in previous LEGO kits</li><li>Gain deeper insights into non-compatible sensors and components that work with all prior LEGO components and third-party elements</li><li>Explore new features and experiment with new robot builds with LEGO's new coding platform</li></ul><h4>Who this book is for</h4>This book is for robot enthusiasts, LEGO lovers, hobbyists, educators, students, and anyone looking to learn about the new LEGO SPIKE Prime kit. The book is designed to go beyond the basic builds to intermediate and advanced builds, while also helping you to learn how to add your own personal touch to the builds and code. To make the most of this book, you'll need a basic understanding of build techniques, coding in block-based software environments, and weaving them together to create unique robot builds.",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/designinnovativerobotswithlegospikeprime.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Design Innovative Robots with LEGO SPIKE Prime",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/designinnovativerobotswithlegospikeprime_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Aaron Maurer"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/5fcd6da2cc3f3982def441d8555dded2537742b7.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=c2f30bf410f70074a9c3b488ed20a31e",
+            "featured_image": null,
+            "front_page_art_imgix_retina": "https://hb.imgix.net/d1663dc8ead8a2665237d743fedef74e75e6ceaf.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=859e695fd44dd7bbf8d7412de5b78a44",
+            "preview_image_bonus": "https://hb.imgix.net/5fcd6da2cc3f3982def441d8555dded2537742b7.jpg?auto=compress,format&fit=clip&h=200&w=200&s=bf6ecd7ff2f643f427b5616839b8c42d",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/d1663dc8ead8a2665237d743fedef74e75e6ceaf.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=3435f04cb495e51036503370d9de50ca",
+            "front_page_art_imgix": "https://hb.imgix.net/d1663dc8ead8a2665237d743fedef74e75e6ceaf.png?auto=compress,format&w=180&s=5b8cd366b9c83e66d76d8cc125cffc4a",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/d1663dc8ead8a2665237d743fedef74e75e6ceaf.png?auto=compress,format&fit=clip&h=80&w=170&s=4270db7ce61b192350b45eb2ccc93921",
+            "preview_image": "https://hb.imgix.net/5fcd6da2cc3f3982def441d8555dded2537742b7.jpg?auto=compress,format&fit=clip&h=350&w=600&s=80e8599162dcb453b86044da7da30cad"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Design Innovative Robots with LEGO SPIKE Prime",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "plcandhmidevelopmentwithsiemenstiaportal": {
+        "machine_name": "plcandhmidevelopmentwithsiemenstiaportal",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "59.6 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/plcandhmidevelopmentwithsiemenstiaportal_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/plcandhmidevelopmentwithsiemenstiaportal_preview.pdf?t=st=1743612711~exp=1743699111~hmac=72fbccedf4e41688385c5bf6004a8070ac7f8a8bfde5b028a71b28644b2fd846"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Packt",
+                "publisher-url": "https://www.packtpub.com/product/PLC-and-HMI-Development-with-Siemens-TIA-Portal/9781801817226"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 16.68
+        },
+        "subtitle_html": null,
+        "description_text": "<h4>Key Features</h4><ul><li>Find out how to use TIA Portal effectively to boost your productivity</li><li>Learn about a structured design pattern and understand why it is so powerful when implemented correctly</li><li>Discover efficient project management and design practices</li></ul><h4>Who this book is for</h4>This TIA Portal book is for anybody looking to learn PLC/HMI development using the latest Siemens development platform. Industrial software engineers, PLC engineers, automation engineers, and electricians will be able to advance their skill set with this guide. A basic understanding of PLC principles such as PLC data types and basic objects such as function blocks and functions is necessary to get started.",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/plcandhmidevelopmentwithsiemenstiaportal.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "PLC and HMI Development with Siemens TIA Portal",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/plcandhmidevelopmentwithsiemenstiaportal_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Liam Bee"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/5a63dc74a455b971a91a62ba328465f79b21b53f.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=2312ecfd965b65b60a910ac5009e7530",
+            "featured_image": null,
+            "front_page_art_imgix_retina": "https://hb.imgix.net/ad198a263697f045508378b9e51e3dd685a4b770.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=43acee071842cd3f89b50e48be7d0b3e",
+            "preview_image_bonus": "https://hb.imgix.net/5a63dc74a455b971a91a62ba328465f79b21b53f.jpg?auto=compress,format&fit=clip&h=200&w=200&s=65662d6064db696daa7a8202a268281d",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/ad198a263697f045508378b9e51e3dd685a4b770.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=d728272d8ef74200f4bec2812265f603",
+            "front_page_art_imgix": "https://hb.imgix.net/ad198a263697f045508378b9e51e3dd685a4b770.png?auto=compress,format&w=180&s=b5d0cfadb864db68be50ce223096243f",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/ad198a263697f045508378b9e51e3dd685a4b770.png?auto=compress,format&fit=clip&h=80&w=170&s=74c347ab9330ae69410d503ad1ccad3c",
+            "preview_image": "https://hb.imgix.net/5a63dc74a455b971a91a62ba328465f79b21b53f.jpg?auto=compress,format&fit=clip&h=350&w=600&s=96095eeccc7123aff7dc10a0c278c901"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "PLC and HMI Development with Siemens TIA Portal",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "embeddedlinuxdevelopmentusingyoctoproject": {
+        "machine_name": "embeddedlinuxdevelopmentusingyoctoproject",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": "<div class=\"accolades\">3rd Edition</div>",
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "105.7 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/embeddedlinuxdevelopmentusingyoctoproject_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/embeddedlinuxdevelopmentusingyoctoproject_preview.pdf?t=st=1743612711~exp=1743699111~hmac=3f560d8a990cf928b105ad6a65fec7e78c6038c5e258d3b6a6e92e265ca2fed9"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Packt",
+                "publisher-url": "https://www.packtpub.com/product/Embedded-Linux-Development-Using-Yocto-Project/9781804615065"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 16.68
+        },
+        "subtitle_html": null,
+        "description_text": "<h4>Key Features</h4><ul><li>Optimize your Yocto Project tools to develop efficient Linux-based projects</li><li>Follow a practical approach to learning Linux development using Yocto Project</li><li>Employ the best practices for embedded Linux and Yocto Project development</li></ul><h4>Who this book is for</h4>If you are an embedded Linux developer and want to broaden your knowledge about the Yocto Project with examples of embedded development, then this book is for you. Professionals looking for new insights into working methodologies for Linux development will also find plenty of helpful information in this book.",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/embeddedlinuxdevelopmentusingyoctoproject.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Embedded Linux Development Using Yocto Project",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/embeddedlinuxdevelopmentusingyoctoproject_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Otavio Salvador"
+            },
+            {
+                "developer-name": "Daiane Angolini"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/08df2d7314b18658a3f5e69855e148bcf2402653.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=19e847d35a171b236a9bd34bc37954d5",
+            "featured_image": null,
+            "front_page_art_imgix_retina": "https://hb.imgix.net/cc088e6d5218944e00f5a0285294b8254ee6242d.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=4019a6fcbd10126b26a91cced4a2facd",
+            "preview_image_bonus": "https://hb.imgix.net/08df2d7314b18658a3f5e69855e148bcf2402653.jpg?auto=compress,format&fit=clip&h=200&w=200&s=3f54a53623bd702f8100303ab95a2448",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/cc088e6d5218944e00f5a0285294b8254ee6242d.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=717f74984559601003619df9b6d9d376",
+            "front_page_art_imgix": "https://hb.imgix.net/cc088e6d5218944e00f5a0285294b8254ee6242d.png?auto=compress,format&w=180&s=61230196a5fdf10cdd316ac0c8564d25",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/cc088e6d5218944e00f5a0285294b8254ee6242d.png?auto=compress,format&fit=clip&h=80&w=170&s=e48727e802f1e4c4518177a0f8e88443",
+            "preview_image": "https://hb.imgix.net/08df2d7314b18658a3f5e69855e148bcf2402653.jpg?auto=compress,format&fit=clip&h=350&w=600&s=fe820d8d3943cf3cb77da32a27941a5d"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Embedded Linux Development Using Yocto Project",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    }
+}

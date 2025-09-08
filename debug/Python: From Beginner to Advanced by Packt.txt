@@ -1,0 +1,3488 @@
+{
+    "pythonrealworldprojects": {
+        "machine_name": "pythonrealworldprojects",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-windows",
+                "hb-osx",
+                "hb-linux",
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-windows": "Windows",
+                "hb-drmfree": "DRM-free download",
+                "hb-file-pdf-o": "PDF",
+                "hb-linux": "Linux",
+                "hb-file-epub": "EPUB",
+                "hb-osx": "Mac"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-windows",
+                        "hb-osx",
+                        "hb-linux",
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-windows": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-linux": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-osx": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "44.8 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/pythonrealworldprojects_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/pythonrealworldprojects_preview.pdf?t=st=1741635744~exp=1741722144~hmac=edbc312b3ecc666eb95f3056c07bd086e3e207fb1c950b0796cd96228d077dc5"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Packt",
+                "publisher-url": "https://www.packtpub.com/product/Python-Real-World-Projects/9781803246765"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 17.28
+        },
+        "subtitle_html": null,
+        "description_text": "<h4>Key Features</h4><ul><li>Master Python and related technologies by working on 12 hands-on projects</li><li>Accelerate your career by building a personal project portfolio</li><li>Explore data acquisition, preparation, and analysis applications </li><li>Purchase of the print or Kindle book includes a free PDF eBook</li></ul><h4>Who this book is for</h4>This book is for beginner-to-intermediate level Python programmers looking to enhance their resume by adding a portfolio of 12 practical projects. A basic understanding of the Python language and its aligned technologies is a must. The book helps you polish your Python skills and project-building prowess without delving into basic Python fundamentals.",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/pythonrealworldprojects.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Python Real World Projects",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/pythonrealworldprojects_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Steven F. Lott"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "game": {
+                "download": [
+                    "windows",
+                    "mac",
+                    "linux"
+                ]
+            },
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/7b61dd3678e2145a983e673a2205b01f21448243.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=930464490b0c053bda585e2640c6270e",
+            "featured_image": null,
+            "preview_image_bonus": "https://hb.imgix.net/7b61dd3678e2145a983e673a2205b01f21448243.jpg?auto=compress,format&fit=clip&h=200&w=200&s=fddec11a2892d519fd0db77020955e5f",
+            "front_page_art_imgix_retina": "https://hb.imgix.net/e78751b5369e8a6f0677684a95e41794a040781b.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=be057b45ab8538607892d1887d5ce807",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/e78751b5369e8a6f0677684a95e41794a040781b.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=337d68ee060e40fae4dd8f5b0d0ecaf1",
+            "preview_image": "https://hb.imgix.net/7b61dd3678e2145a983e673a2205b01f21448243.jpg?auto=compress,format&fit=clip&h=350&w=600&s=1ef617f08f3af9ad8a5b1464e04567eb",
+            "front_page_art_imgix": "https://hb.imgix.net/e78751b5369e8a6f0677684a95e41794a040781b.png?auto=compress,format&w=180&s=5579dfbb6373b5d2e9256429f123c789",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/e78751b5369e8a6f0677684a95e41794a040781b.png?auto=compress,format&fit=clip&h=80&w=170&s=c85b12111c4067bd1599bf758d95a908"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Python Real World Projects",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "buildingaiintensivepythonapplications": {
+        "machine_name": "buildingaiintensivepythonapplications",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "88.7 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/buildingaiintensivepythonapplications_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/buildingaiintensivepythonapplications_preview.pdf?t=st=1741635744~exp=1741722144~hmac=9a0ab90850f2bbb503561fc52e81951f8aee8dc12126d44695695a83d444f9b5"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Packt",
+                "publisher-url": "https://www.packtpub.com/product/Building-AI-Intensive-Python-Applications/9781836207252"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 17.28
+        },
+        "subtitle_html": null,
+        "description_text": "<h4>Key Features</h4><ul><li>Get to grips with the fundamentals of LLMs, vector databases, and Python frameworks</li><li>Implement effective retrieval-augmented generation strategies with MongoDB Atlas</li><li>Optimize AI models for performance and accuracy with model compression and deployment optimization</li><li>Purchase of the print or Kindle book includes a free PDF eBook</li></ul><h4>Who this book is for</h4>This book is for software engineers and developers looking to build intelligent applications using generative AI. While the book is suitable for beginners, a basic understanding of Python programming is required to make the most of it.",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/buildingaiintensivepythonapplications.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Building AI Intensive Python Applications",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/buildingaiintensivepythonapplications_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Rachelle Palmer"
+            },
+            {
+                "developer-name": "Ben Perlmutter"
+            },
+            {
+                "developer-name": "Ashwin Gangadhar"
+            },
+            {
+                "developer-name": "Nicholas Larew"
+            },
+            {
+                "developer-name": "Sigfrido Narv\u00e1ez"
+            },
+            {
+                "developer-name": "Thomas Rueckstiess"
+            },
+            {
+                "developer-name": "Henry Weller"
+            },
+            {
+                "developer-name": "Richmond Alake"
+            },
+            {
+                "developer-name": "Shubham Ranjan"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/1a04c9a4366fe0fc9e90965eab1adef9b335e75d.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=5c635b0885b421dc8cae8713ec888b07",
+            "featured_image": null,
+            "preview_image_bonus": "https://hb.imgix.net/1a04c9a4366fe0fc9e90965eab1adef9b335e75d.jpg?auto=compress,format&fit=clip&h=200&w=200&s=2377f4d9bb9a9d5f709e006e72391ddb",
+            "front_page_art_imgix_retina": "https://hb.imgix.net/eda3d8f526c4ef1a0fd52f5f5f7e07d5ef2be415.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=2aa8cba3406ad01124ea6a195c0317ab",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/eda3d8f526c4ef1a0fd52f5f5f7e07d5ef2be415.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=524e7a7639243d8e186346ef9805e875",
+            "preview_image": "https://hb.imgix.net/1a04c9a4366fe0fc9e90965eab1adef9b335e75d.jpg?auto=compress,format&fit=clip&h=350&w=600&s=3bd47a9af4a8b7d33e8c40be1c737a8f",
+            "front_page_art_imgix": "https://hb.imgix.net/eda3d8f526c4ef1a0fd52f5f5f7e07d5ef2be415.png?auto=compress,format&w=180&s=0c9772dc8f2cb2c055631a1589f18b0a",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/eda3d8f526c4ef1a0fd52f5f5f7e07d5ef2be415.png?auto=compress,format&fit=clip&h=80&w=170&s=0e5275f44e5659b5506f129e591ef96c"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Building AI Intensive Python Applications",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "50algorithmseveryprogrammershouldknow": {
+        "machine_name": "50algorithmseveryprogrammershouldknow",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-windows",
+                "hb-osx",
+                "hb-linux",
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-windows": "Windows",
+                "hb-drmfree": "DRM-free download",
+                "hb-file-pdf-o": "PDF",
+                "hb-linux": "Linux",
+                "hb-file-epub": "EPUB",
+                "hb-osx": "Mac"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-windows",
+                        "hb-osx",
+                        "hb-linux",
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-windows": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-linux": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-osx": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": "Second Edition",
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "97.4 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/50algorithmseveryprogrammershouldknow_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/50algorithmseveryprogrammershouldknow_preview.pdf?t=st=1741635744~exp=1741722144~hmac=01ee6fe30da8fc980ee96abab5e236f797100da0531478919870046220db6c88"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Packt",
+                "publisher-url": "https://www.packtpub.com/product/50-Algorithms-Every-Programmer-Should-Know/9781803247762"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 17.28
+        },
+        "subtitle_html": null,
+        "description_text": "<p><strong>Key Features</strong></p><ul><li>Familiarize yourself with advanced deep learning architectures</li><li>Explore newer topics, such as handling hidden bias in data and algorithm explainability</li><li>Get to grips with different programming algorithms and choose the right data structures for their optimal implementation</li></ul><h4>Who this book is for</h4><p>This computer science book is for programmers or developers who want to understand the use of algorithms for problem-solving and writing efficient code. Whether you are a beginner looking to learn the most used algorithms concisely or an experienced programmer looking to explore cutting-edge algorithms in data science, machine learning, and cryptography, you'll find this book useful. Python programming experience is a must, knowledge of data science will be helpful but not necessary.</p>",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/50algorithmseveryprogrammershouldknow.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "50 Algorithms Every Programmer Should Know",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/50algorithmseveryprogrammershouldknow_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Imran Ahmad"
+            },
+            {
+                "developer-name": "Somaieh Nikpoor"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "game": {
+                "download": [
+                    "windows",
+                    "mac",
+                    "linux"
+                ]
+            },
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/e95373a6c23251c237187fe40d989f45deb67e36.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=82d73dc028f72756901e5e87102a6271",
+            "featured_image": null,
+            "preview_image_bonus": "https://hb.imgix.net/e95373a6c23251c237187fe40d989f45deb67e36.jpg?auto=compress,format&fit=clip&h=200&w=200&s=4bd7ad714089713e4300d28ad13410bf",
+            "front_page_art_imgix_retina": "https://hb.imgix.net/0b613db8164f5d232fbaf98b87a7e9131035524a.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=655af59f09d87176724d8d3a60524b5e",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/0b613db8164f5d232fbaf98b87a7e9131035524a.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=6acb4fdaf5f5c364ca4efcf83a0a6e36",
+            "preview_image": "https://hb.imgix.net/e95373a6c23251c237187fe40d989f45deb67e36.jpg?auto=compress,format&fit=clip&h=350&w=600&s=cbb8e735245bedd525d3fc38591323e1",
+            "front_page_art_imgix": "https://hb.imgix.net/0b613db8164f5d232fbaf98b87a7e9131035524a.png?auto=compress,format&w=180&s=1a1636d107bb49c792a53ed6dfdb39a2",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/0b613db8164f5d232fbaf98b87a7e9131035524a.png?auto=compress,format&fit=clip&h=80&w=170&s=53360e0ce2120590bb6bd52bee40aaa7"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "50 Algorithms Every Programmer Should Know",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "moderntimeseriesforecastingwithpython": {
+        "machine_name": "moderntimeseriesforecastingwithpython",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": "Second Edition",
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "368.9 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/moderntimeseriesforecastingwithpython_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/moderntimeseriesforecastingwithpython_preview.pdf?t=st=1741635744~exp=1741722144~hmac=252188aea194f95326b954e6c908eb6132a9cf824ccf8b213e80e9f588fb3011"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Packt",
+                "publisher-url": "https://www.packtpub.com/product/Modern-Time-Series-Forecasting-with-Python/9781835883181"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 17.28
+        },
+        "subtitle_html": null,
+        "description_text": "<h4>Key Features</h4><ul><li>Apply ML and global models to improve forecasting accuracy through practical examples</li><li>Enhance your time series toolkit by using deep learning models, including RNNs, transformers, and N-BEATS</li><li>Learn probabilistic forecasting with conformal prediction, Monte Carlo dropout, and quantile regressions</li><li>Purchase of the print or Kindle book includes a free eBook in PDF format</li></ul><h4>Who this book is for</h4>This book is ideal for data scientists, financial analysts, quantitative analysts, machine learning engineers, and researchers who need to model time-dependent data across industries, such as finance, energy, meteorology, risk analysis, and retail. Whether you are a professional looking to apply cutting-edge models to real-world problems or a student aiming to build a strong foundation in time series analysis and forecasting, this book will provide the tools and techniques you need. Familiarity with Python and basic machine learning concepts is recommended.",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/moderntimeseriesforecastingwithpython.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Modern Time Series Forecasting with Python",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/moderntimeseriesforecastingwithpython_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Manu Joseph"
+            },
+            {
+                "developer-name": "Jeffrey Tackes"
+            },
+            {
+                "developer-name": "Christoph Bergmeir"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/b1cc1ff71cc790a72cebfb8917d8993e470caaab.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=90b06774291e5ef51130fce107a8c8f1",
+            "featured_image": null,
+            "preview_image_bonus": "https://hb.imgix.net/b1cc1ff71cc790a72cebfb8917d8993e470caaab.jpg?auto=compress,format&fit=clip&h=200&w=200&s=4a54d99b45febc4e9b33daa21006b766",
+            "front_page_art_imgix_retina": "https://hb.imgix.net/80c37140ab3edca11963fcd908c55a50cfcbde4f.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=3921cf1a8680fe83ade1ba777318c131",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/80c37140ab3edca11963fcd908c55a50cfcbde4f.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=ede681958ac9e461b902ecb2adb2f8d0",
+            "preview_image": "https://hb.imgix.net/b1cc1ff71cc790a72cebfb8917d8993e470caaab.jpg?auto=compress,format&fit=clip&h=350&w=600&s=9037a647ac811be4a64b73c85e6ae84b",
+            "front_page_art_imgix": "https://hb.imgix.net/80c37140ab3edca11963fcd908c55a50cfcbde4f.png?auto=compress,format&w=180&s=a69f153016198c360afedec128164060",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/80c37140ab3edca11963fcd908c55a50cfcbde4f.png?auto=compress,format&fit=clip&h=80&w=170&s=bea87fd3a52978c2710a3b37d79180b5"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Modern Time Series Forecasting with Python",
+        "is_mystery_box": null,
+        "payee_secondary_id": "",
+        "wallet_credit": {}
+    },
+    "appliedcomputationalthinkingwithpython": {
+        "machine_name": "appliedcomputationalthinkingwithpython",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-windows",
+                "hb-osx",
+                "hb-linux",
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-windows": "Windows",
+                "hb-drmfree": "DRM-free download",
+                "hb-file-pdf-o": "PDF",
+                "hb-linux": "Linux",
+                "hb-file-epub": "EPUB",
+                "hb-osx": "Mac"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-windows",
+                        "hb-osx",
+                        "hb-linux",
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-windows": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-linux": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-osx": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": "Second Edition",
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "71.3 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/appliedcomputationalthinkingwithpython_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/appliedcomputationalthinkingwithpython_preview.pdf?t=st=1741635744~exp=1741722144~hmac=e208ce2656c3950ffb6cb160142a211efd21680953e1c2a4b9423184a636a174"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Packt",
+                "publisher-url": "https://www.packtpub.com/product/Applied-Computational-Thinking-with-Python/9781837632305"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 17.28
+        },
+        "subtitle_html": null,
+        "description_text": "<h4>Key Features</h4><ul><li>Develop logical reasoning and problem-solving skills that will help you tackle complex problems</li><li>Explore core computer science concepts and important computational thinking elements using practical examples</li><li>Find out how to identify the best-suited algorithmic solution for your problem</li></ul><h4>Who this book is for</h4>This book is for students, developers, and professionals looking to develop problem-solving skills and tactics involved in writing or debugging software programs and applications. Familiarity with Python programming is required.",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/appliedcomputationalthinkingwithpython.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Applied Computational Thinking with Python",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/appliedcomputationalthinkingwithpython_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Sof\u00eda De Jes\u00fas and Dayrene Martinez"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "game": {
+                "download": [
+                    "windows",
+                    "mac",
+                    "linux"
+                ]
+            },
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/25663f9c232aa529d60750ea535ec394d9ea7bfc.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=197dadd456e25408a118821c8dc95890",
+            "featured_image": null,
+            "preview_image_bonus": "https://hb.imgix.net/25663f9c232aa529d60750ea535ec394d9ea7bfc.jpg?auto=compress,format&fit=clip&h=200&w=200&s=a5ccd52edc4f5c7ebd155000cc8d7ff0",
+            "front_page_art_imgix_retina": "https://hb.imgix.net/791229e8cee4bbd25d9e898bd282bc46a5b99653.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=a4728ed4fd8c901bc3219be0006db4e9",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/791229e8cee4bbd25d9e898bd282bc46a5b99653.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=649fd044e5496d48704637fc1b039c44",
+            "preview_image": "https://hb.imgix.net/25663f9c232aa529d60750ea535ec394d9ea7bfc.jpg?auto=compress,format&fit=clip&h=350&w=600&s=6cc84f7f8c27c68e5cdaa4e284a593d1",
+            "front_page_art_imgix": "https://hb.imgix.net/791229e8cee4bbd25d9e898bd282bc46a5b99653.png?auto=compress,format&w=180&s=dcdc55cce16b119cda0866bcddb10cb0",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/791229e8cee4bbd25d9e898bd282bc46a5b99653.png?auto=compress,format&fit=clip&h=80&w=170&s=b5d416874064b2d729473308cca6f087"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Applied Computational Thinking with Python",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "pythondatacleaningcookbook_2ndedition": {
+        "machine_name": "pythondatacleaningcookbook_2ndedition",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-windows",
+                "hb-osx",
+                "hb-linux",
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-windows": "Windows",
+                "hb-drmfree": "DRM-free download",
+                "hb-file-pdf-o": "PDF",
+                "hb-linux": "Linux",
+                "hb-file-epub": "EPUB",
+                "hb-osx": "Mac"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-windows",
+                        "hb-osx",
+                        "hb-linux",
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-windows": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-linux": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-osx": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": "Second Edition",
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "333.3 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/pythondatacleaningcookbook_2ndedition_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/pythondatacleaningcookbook_2ndedition_preview.pdf?t=st=1741635744~exp=1741722144~hmac=77cda906cd71175fb852e5b5645847977f69a6fe761724a45f32cdc0aa8446f2"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Packt",
+                "publisher-url": "https://www.packtpub.com/product/Python-Data-Cleaning-Cookbook/9781803239873"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 17.28
+        },
+        "subtitle_html": null,
+        "description_text": "<p><strong>Key Features</strong></p><ul><li>Get to grips with new techniques for data preprocessing and cleaning for machine learning and NLP models</li><li>Use new and updated AI tools and techniques for data cleaning tasks</li><li>Clean, monitor, and validate large data volumes to diagnose problems using cutting-edge methodologies including Machine learning and AI</li></ul><h4>Who this book is for</h4><p>This book is for anyone looking for ways to handle messy, duplicate, and poor data using different Python tools and techniques. The book takes a recipe-based approach to help you to learn how to clean and manage data with practical examples. Working knowledge of Python programming is all you need to get the most out of the book.</p>",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/pythondatacleaningcookbook_2ndedition.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Python Data Cleaning Cookbook",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/pythondatacleaningcookbook_2ndedition_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Michael Walker"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "game": {
+                "download": [
+                    "windows",
+                    "mac",
+                    "linux"
+                ]
+            },
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/9d62b804095cc6437de60e56168be306573d485f.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=f170d6e7632a21b00fc67deecd81009c",
+            "featured_image": null,
+            "preview_image_bonus": "https://hb.imgix.net/9d62b804095cc6437de60e56168be306573d485f.jpg?auto=compress,format&fit=clip&h=200&w=200&s=e9274e9677960fcd5bce4b3d26e4e586",
+            "front_page_art_imgix_retina": "https://hb.imgix.net/1ca1ffeed1b125a3fe1d2354137e840e14b72359.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=7738b4ab7d22f3e6d95b151c60312feb",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/1ca1ffeed1b125a3fe1d2354137e840e14b72359.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=04cd5b787fa09465d0f55dda42ea3d99",
+            "preview_image": "https://hb.imgix.net/9d62b804095cc6437de60e56168be306573d485f.jpg?auto=compress,format&fit=clip&h=350&w=600&s=6bc35de6e2f7da3e5b9d039ae7a79e29",
+            "front_page_art_imgix": "https://hb.imgix.net/1ca1ffeed1b125a3fe1d2354137e840e14b72359.png?auto=compress,format&w=180&s=70512cc543e1e8a4585c29461e118400",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/1ca1ffeed1b125a3fe1d2354137e840e14b72359.png?auto=compress,format&fit=clip&h=80&w=170&s=0fae556a408b7f33d1a203e70187fbea"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Python Data Cleaning Cookbook",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "masteringpythondesignpatterns_thirdedition": {
+        "machine_name": "masteringpythondesignpatterns_thirdedition",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": "3rd Edition",
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "713.9 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/masteringpythondesignpatterns_thirdedition_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/masteringpythondesignpatterns_thirdedition_preview.pdf?t=st=1741635744~exp=1741722144~hmac=8b957d1f738688d91c198b87bb9adbba9f30219bf3750efa1abbd17acaba5a0e"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Packt",
+                "publisher-url": "https://www.packtpub.com/product/Mastering-Python-Design-Patterns/9781837639618"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 17.28
+        },
+        "subtitle_html": null,
+        "description_text": "<h4>Key Features</h4><ul><li>Master essential design principles to build robust software architecture with the latest features in Python 3.10</li><li>Leverage concurrency, async patterns, and testing strategies for optimal performance</li><li>Apply SOLID principles and advanced patterns to real-world Python projects</li><li>Purchase of the print or Kindle book includes a free PDF eBook</li></ul><h4>Who this book is for</h4>With a focus on intermediate and advanced Python programmers, this book offers valuable insights into the best practices for software design, backed by real-world examples and decades of experience. The book is also an excellent resource for software architects and team leaders who want to improve code quality and maintainability across their projects. Prior Python proficiency, including syntax, data structures, and OOP will help you get the most out of this book.",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/masteringpythondesignpatterns_thirdedition.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Mastering Python Design Patterns",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/masteringpythondesignpatterns_thirdedition_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Kamon Ayeva"
+            },
+            {
+                "developer-name": "Sakis Kasampalis"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/2dece505e45ac81652843c06180f27829bd7c9c2.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=7c34f5a3e8f6d2a2f09b1ff9a15ccfa5",
+            "featured_image": null,
+            "preview_image_bonus": "https://hb.imgix.net/2dece505e45ac81652843c06180f27829bd7c9c2.jpg?auto=compress,format&fit=clip&h=200&w=200&s=0d27125c66fc6f84cb166db1885ccd49",
+            "front_page_art_imgix_retina": "https://hb.imgix.net/67c10b2d92dccb7b64a6760a58b229c5818fcb4d.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=e453de845e68358a2668a20becff8fa9",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/67c10b2d92dccb7b64a6760a58b229c5818fcb4d.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=7d8fab22f4cb5d604f8bf19d0cefe123",
+            "preview_image": "https://hb.imgix.net/2dece505e45ac81652843c06180f27829bd7c9c2.jpg?auto=compress,format&fit=clip&h=350&w=600&s=b61447b36a741a843f93fc523f935664",
+            "front_page_art_imgix": "https://hb.imgix.net/67c10b2d92dccb7b64a6760a58b229c5818fcb4d.png?auto=compress,format&w=180&s=c2fe82175c95cb39465ebdf07aab5168",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/67c10b2d92dccb7b64a6760a58b229c5818fcb4d.png?auto=compress,format&fit=clip&h=80&w=170&s=eecee94e731d2294d813ebb57f0b2f2f"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Mastering Python Design Patterns",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "learnpythonprogramming": {
+        "machine_name": "learnpythonprogramming",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": "Fourth Edition",
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "78.6 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/learnpythonprogramming_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/learnpythonprogramming_preview.pdf?t=st=1741635744~exp=1741722144~hmac=b3887d8862904687ad050cb8f18188a2fc712e2697cb620356398df93b48b833"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Packt",
+                "publisher-url": "https://www.packtpub.com/product/Learn-Python-Programming/9781835882948"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 17.28
+        },
+        "subtitle_html": null,
+        "description_text": "<h4>Key Features</h4><ul><li>Create and deploy APIs and CLI applications, leveraging Python\u2019s strengths in scripting and automation</li><li>Stay current with the latest features and improvements in Python, including pattern matching and the latest exception handling syntax</li><li>Engage with new real-world examples and projects, including competitive programming problems, to solidify your understanding of Python</li></ul><h4>Who this book is for</h4>This Python programming book  is for everyone who wants to learn Python from scratch, as well as experienced programmers looking for a reference book. Prior knowledge of basic programming concepts will help you follow along, but it\u2019s not a prerequisite",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/learnpythonprogramming.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Learn Python Programming",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/learnpythonprogramming_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Fabrizio Romano"
+            },
+            {
+                "developer-name": "Heinrich Kruger"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/d8cb1126808380decc89ad3f1363ebb742d4b175.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=2d02b81986619a676fbf17322c1b0039",
+            "featured_image": null,
+            "preview_image_bonus": "https://hb.imgix.net/d8cb1126808380decc89ad3f1363ebb742d4b175.jpg?auto=compress,format&fit=clip&h=200&w=200&s=239410f4f973b240a3bf9c6abe4c5673",
+            "front_page_art_imgix_retina": "https://hb.imgix.net/8f293988ac81c5c7d80034dfd099418bf6c8b563.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=1c41a693c74e7bc4c31aadf62a540a14",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/8f293988ac81c5c7d80034dfd099418bf6c8b563.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=4b78cbb005458332024c4cb63e83283b",
+            "preview_image": "https://hb.imgix.net/d8cb1126808380decc89ad3f1363ebb742d4b175.jpg?auto=compress,format&fit=clip&h=350&w=600&s=bebc18f31a4d6b59cae57193549c35ec",
+            "front_page_art_imgix": "https://hb.imgix.net/8f293988ac81c5c7d80034dfd099418bf6c8b563.png?auto=compress,format&w=180&s=31858a5926f605e04c08018214354d2e",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/8f293988ac81c5c7d80034dfd099418bf6c8b563.png?auto=compress,format&fit=clip&h=80&w=170&s=71e0befcc08ceb2abba4d520e79aec83"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Learn Python Programming",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "fastapicookbook": {
+        "machine_name": "fastapicookbook",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "75.8 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/fastapicookbook_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/fastapicookbook_preview.pdf?t=st=1741635744~exp=1741722144~hmac=d8d2545bf4c6d83251bdbd2fc0e73d78242ddbe03cd73b860c9b395b76d5ff1f"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Packt",
+                "publisher-url": "https://www.packtpub.com/product/FastAPI-Cookbook/9781805127857"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 9.6
+        },
+        "subtitle_html": null,
+        "description_text": "<h4>Key Features</h4><ul><li>Explore FastAPI in depth, from basic setup to advanced features such as custom middleware and WebSockets</li><li>Discover practical strategies to optimize app performance and handle high traffic</li><li>Implement SQL and NoSQL integration techniques for versatile data management in FastAPI applications</li><li>Purchase of the print or Kindle book includes a free PDF eBook</li></ul><h4>Who this book is for</h4>This book is for Python developers looking to enhance their skills to build scalable, high-performance web apps using FastAPI. Professionals seeking practical guidance to create APIs and web apps that can handle significant traffic and scale as needed will also find this book helpful by learning from both foundational insights and advanced techniques. The book is also designed for anyone familiar with RESTful APIs, HTTP protocols, and database systems, as well as developers looking to migrate existing applications to FastAPI or explore its advanced features.",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/fastapicookbook.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "FastAPI Cookbook",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/fastapicookbook_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Giunio De Luca"
+            },
+            {
+                "developer-name": "Antonio Ferraro"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/9eaaad646850d3e69785562222548f9736c1f15c.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=9e4528bccb857e78263f8b4d3782e8bf",
+            "featured_image": null,
+            "preview_image_bonus": "https://hb.imgix.net/9eaaad646850d3e69785562222548f9736c1f15c.jpg?auto=compress,format&fit=clip&h=200&w=200&s=a55421a429a7085778ed7353b6b46348",
+            "front_page_art_imgix_retina": "https://hb.imgix.net/f1b45dff9ce1ad6634610a35e5fc265b46822ba8.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=475ce1445c655a48bff53a9273d5880c",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/f1b45dff9ce1ad6634610a35e5fc265b46822ba8.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=31ddff4a07b15b12d6626c757a2e63fc",
+            "preview_image": "https://hb.imgix.net/9eaaad646850d3e69785562222548f9736c1f15c.jpg?auto=compress,format&fit=clip&h=350&w=600&s=e7a9bb3eee2d48c5d0d2fe875fd73470",
+            "front_page_art_imgix": "https://hb.imgix.net/f1b45dff9ce1ad6634610a35e5fc265b46822ba8.png?auto=compress,format&w=180&s=28181be34e06e8d77ba77b565b1fc1db",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/f1b45dff9ce1ad6634610a35e5fc265b46822ba8.png?auto=compress,format&fit=clip&h=80&w=170&s=20a926c1c1ae7db6af86a3873ca47e7e"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "FastAPI Cookbook",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "pythonobject-orientedprogramming": {
+        "machine_name": "pythonobject-orientedprogramming",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": "Fourth Edition",
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "135.7 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/pythonobject-orientedprogramming_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/pythonobject-orientedprogramming_preview.pdf?t=st=1741635744~exp=1741722144~hmac=1dfc3df13430237f9b4199330ba90457d67dd07f7c7680c4aa79b6ccf41009c9"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Packt",
+                "publisher-url": "https://www.packtpub.com/product/Python-Object-Oriented-Programming/9781801077262"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 1.0
+        },
+        "subtitle_html": null,
+        "description_text": "<h4>Key Features</h4><ul><li>Build an intuitive understanding of object-oriented design, from introductory to mature programs</li><li>Learn the ins and outs of Python syntax, libraries, and best practices</li><li>Examine a machine-learning case study at the end of each chapter</li></ul><h4>Who this book is for</h4>If you are new to object-oriented programming techniques, or if you have basic Python skills and wish to learn how and when to correctly apply OOP principles in Python, this is the book for you. Moreover, if you are an object-oriented programmer coming from other languages or seeking a leg up in the new world of Python, you will find this book a useful introduction to Python. Minimal previous experience with Python is necessary.",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/pythonobject-orientedprogramming.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Python Object-Oriented Programming",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/pythonobject-orientedprogramming_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Steven F. Lott"
+            },
+            {
+                "developer-name": "Dusty Phillips"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/7b884424cc8834427aeb1ce380ddf3fb96181595.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=3b2a45287af331f0f73c1ffaae955746",
+            "featured_image": null,
+            "preview_image_bonus": "https://hb.imgix.net/7b884424cc8834427aeb1ce380ddf3fb96181595.jpg?auto=compress,format&fit=clip&h=200&w=200&s=cb6e6612d486994f7f7fcf9feec1ee79",
+            "front_page_art_imgix_retina": "https://hb.imgix.net/68be6db8ad32b2ac59aca782e8215e8bcd401bff.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=8b060641827e5a55505027f34e735615",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/68be6db8ad32b2ac59aca782e8215e8bcd401bff.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=cb8bdb624006c7c66744e13923a6c8f6",
+            "preview_image": "https://hb.imgix.net/7b884424cc8834427aeb1ce380ddf3fb96181595.jpg?auto=compress,format&fit=clip&h=350&w=600&s=a515aedab1ee7c9107deb6f32adbaada",
+            "front_page_art_imgix": "https://hb.imgix.net/68be6db8ad32b2ac59aca782e8215e8bcd401bff.png?auto=compress,format&w=180&s=59f0f4a972cbbac068db75334b096f04",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/68be6db8ad32b2ac59aca782e8215e8bcd401bff.png?auto=compress,format&fit=clip&h=80&w=170&s=9647482866ffa59bc9c50a6cfb6fd969"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Python Object-Oriented Programming",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "modernpythoncookbook": {
+        "machine_name": "modernpythoncookbook",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-windows",
+                "hb-osx",
+                "hb-linux",
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-windows": "Windows",
+                "hb-drmfree": "DRM-free download",
+                "hb-file-pdf-o": "PDF",
+                "hb-linux": "Linux",
+                "hb-file-epub": "EPUB",
+                "hb-osx": "Mac"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-windows",
+                        "hb-osx",
+                        "hb-linux",
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-windows": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-linux": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-osx": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": "Third Edition",
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "50 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/modernpythoncookbook_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/modernpythoncookbook_preview.pdf?t=st=1741635744~exp=1741722144~hmac=0686cfbb7ee6b57019d7b16c0763407fdd35034852a9dd2e3280f22da94f7082"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Packt",
+                "publisher-url": "https://www.packtpub.com/product/Modern-Python-Cookbook/9781835466384"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 17.28
+        },
+        "subtitle_html": null,
+        "description_text": "<h4>Key Features</h4><ul><li>New chapters on type matching, data visualization, dependency management, and more</li><li>Comprehensive coverage of Python 3.12 with updated recipes and techniques</li><li>Provides practical examples and detailed explanations to solve real-world problems efficiently</li></ul><h4>Who this book is for</h4>This Python book is for web developers, programmers, enterprise programmers, engineers, and big data scientists. If you are a beginner, this book offers helpful details and design patterns for learning Python. If you are experienced, it will expand your knowledge base. Fundamental knowledge of Python programming and basic programming principles will be helpful",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/modernpythoncookbook.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Modern Python Cookbook",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/modernpythoncookbook_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Steven F. Lott"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "game": {
+                "download": [
+                    "windows",
+                    "mac",
+                    "linux"
+                ]
+            },
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/27acd5b50706a2c0002b5d7bbb10e51cc70736e2.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=c90d66344c10f385f9642ee97a4b82c4",
+            "featured_image": null,
+            "preview_image_bonus": "https://hb.imgix.net/27acd5b50706a2c0002b5d7bbb10e51cc70736e2.jpg?auto=compress,format&fit=clip&h=200&w=200&s=8fc4cd43b45f1b7a3e2f806ef728e0e1",
+            "front_page_art_imgix_retina": "https://hb.imgix.net/d5115dadb6d14e6735a99c9fdaa4d5e60af9630a.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=72a8ff5b9a19f01901b32194a5bbcd11",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/d5115dadb6d14e6735a99c9fdaa4d5e60af9630a.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=bcfa57d781739481a310c63cc49db751",
+            "preview_image": "https://hb.imgix.net/27acd5b50706a2c0002b5d7bbb10e51cc70736e2.jpg?auto=compress,format&fit=clip&h=350&w=600&s=03a8f57bce86e678ae5d415efacf341d",
+            "front_page_art_imgix": "https://hb.imgix.net/d5115dadb6d14e6735a99c9fdaa4d5e60af9630a.png?auto=compress,format&w=180&s=a1413821a4426c7457200ed6573e6a25",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/d5115dadb6d14e6735a99c9fdaa4d5e60af9630a.png?auto=compress,format&fit=clip&h=80&w=170&s=d7bf530774a1c0946a9f54344d1f9272"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Modern Python Cookbook",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "pythonforsecurityandnetworking": {
+        "machine_name": "pythonforsecurityandnetworking",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-windows",
+                "hb-osx",
+                "hb-linux",
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-windows": "Windows",
+                "hb-drmfree": "DRM-free download",
+                "hb-file-pdf-o": "PDF",
+                "hb-linux": "Linux",
+                "hb-file-epub": "EPUB",
+                "hb-osx": "Mac"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-windows",
+                        "hb-osx",
+                        "hb-linux",
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-windows": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-linux": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-osx": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": "Third Edition",
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "70.5 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/pythonforsecurityandnetworking_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/pythonforsecurityandnetworking_preview.pdf?t=st=1741635744~exp=1741722144~hmac=e8c3f8a01bd7f0bd3d2ef5dc634441587fba7319f087dc818a2888c31df71dd5"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Packt",
+                "publisher-url": "https://www.packtpub.com/product/Python-for-Security-and-Networking/9781837637553"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 17.28
+        },
+        "subtitle_html": null,
+        "description_text": "<h4>Key Features</h4><ul><li>Discover security techniques to protect your network and systems using Python</li><li>Create scripts in Python to automate security and pentesting tasks</li><li>Analyze traffic in a network and extract information using Python</li></ul><h4>Who this book is for</h4>This Python book is for network engineers, system administrators, and other security professionals looking to overcome common networking and security issues using Python. You will also find this book useful if you're an experienced programmer looking to explore Python\u2019s full range of capabilities. A basic understanding of general programming structures as well as familiarity with the Python programming language is a prerequisite.",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/pythonforsecurityandnetworking.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Python for Security and Networking",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/pythonforsecurityandnetworking_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Jos\u00e9 Manuel Ortega"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "game": {
+                "download": [
+                    "windows",
+                    "mac",
+                    "linux"
+                ]
+            },
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/21ecdcba22ff2f80925cf4b17b46ddae1a842d9a.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=932fa611eed31969bd0140fe41b32e4a",
+            "featured_image": null,
+            "preview_image_bonus": "https://hb.imgix.net/21ecdcba22ff2f80925cf4b17b46ddae1a842d9a.jpg?auto=compress,format&fit=clip&h=200&w=200&s=1dd331e5b0cc7e6935069bfd0ca9da82",
+            "front_page_art_imgix_retina": "https://hb.imgix.net/77cd837758c4663b790c2b80261ec8d4073616d9.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=ce88f7394a7a664e2f8d3dbd89257048",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/77cd837758c4663b790c2b80261ec8d4073616d9.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=8aec88c185a01e63538131966ab2c224",
+            "preview_image": "https://hb.imgix.net/21ecdcba22ff2f80925cf4b17b46ddae1a842d9a.jpg?auto=compress,format&fit=clip&h=350&w=600&s=07b638d34d8fd324f26cac80efce6ba4",
+            "front_page_art_imgix": "https://hb.imgix.net/77cd837758c4663b790c2b80261ec8d4073616d9.png?auto=compress,format&w=180&s=029ec488a11680a8b63026aeb9d53f78",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/77cd837758c4663b790c2b80261ec8d4073616d9.png?auto=compress,format&fit=clip&h=80&w=170&s=1fb56fe1fef013527856edc4c731f6bd"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Python for Security and Networking",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "pythonsoftwarefoundation": {
+        "machine_name": "pythonsoftwarefoundation",
+        "youtube_link": null,
+        "item_content_type": null,
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": null,
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": null,
+        "publishers": [],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "subtitle_html": null,
+        "description_text": "<p><em>Donations to support Python Software Foundation are made to &nbsp;<a href=\"https://support.humblebundle.com/hc/en-us/articles/205183597\" target=\"_blank\">PayPal Giving Fund</a>, subject to its policies.</em></p>\n<p>The mission of the <em>Python Software Foundation</em> is to promote, protect, and advance the Python programming language, and to support and facilitate the growth of a diverse and international community of Python programmers. The majority of the PSF's work is focused on empowering and supporting people within the Python community. The PSF has active grant programs that support sprints, conferences, meetups, user groups, and Python development efforts all over the world. In addition, the PSF underwrites and runs PyCon US, the primary Python community conference. Being part of the PSF means being part of the Python community. Recently we changed the PSF to an open membership organization, so that everyone who uses and supports Python can join. To learn more, visit <a href=\"https://www.python.org/psf/membership\" target=\"_blank\" title=\"Python Software Foundation Membership\">https://www.python.org/psf/membership</a>.<em><br /><br /></em></p>",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/pythonsoftwarefoundation_dark.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Python Software Foundation",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/pythonsoftwarefoundation_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": " Python Software Foundation",
+                "developer-url": " https://www.python.org/psf/"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {},
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/9d6b65e219a2c22b8cf5e791893e92881cc91c9f.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=7081f958ac580028b9e3ac03975d54de",
+            "featured_image": null,
+            "preview_image_bonus": "https://hb.imgix.net/9d6b65e219a2c22b8cf5e791893e92881cc91c9f.jpg?auto=compress,format&fit=clip&h=200&w=200&s=c0023b5e59a8f2bac926b925d61f00ca",
+            "front_page_art_imgix_retina": "https://hb.imgix.net/e00779f6e92a7543eb638f25cab70fb0d527b3ba.png?auto=compress,format&dpr=2&fit=clip&h=240&w=180&s=d23badf62fa16f70cb34416ff85c6e1b",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/e00779f6e92a7543eb638f25cab70fb0d527b3ba.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=2f0d29ca2c4a32a1be9c12a66b861398",
+            "preview_image": "https://hb.imgix.net/9d6b65e219a2c22b8cf5e791893e92881cc91c9f.jpg?auto=compress,format&fit=clip&h=350&w=600&s=e1438f7c95d0aa446f5030031043a99a",
+            "front_page_art_imgix": "https://hb.imgix.net/e00779f6e92a7543eb638f25cab70fb0d527b3ba.png?auto=compress,format&fit=clip&h=240&w=180&s=1263f35fc2e626ecc2edab48722868a2",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/e00779f6e92a7543eb638f25cab70fb0d527b3ba.png?auto=compress,format&fit=clip&h=80&w=170&s=7adfd9789e82ad573bdf3f35a107a1c0"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Python Software Foundation",
+        "is_mystery_box": null,
+        "payee_secondary_id": "",
+        "wallet_credit": {}
+    },
+    "networksciencewithpython": {
+        "machine_name": "networksciencewithpython",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-windows",
+                "hb-osx",
+                "hb-linux",
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-windows": "Windows",
+                "hb-drmfree": "DRM-free download",
+                "hb-file-pdf-o": "PDF",
+                "hb-linux": "Linux",
+                "hb-file-epub": "EPUB",
+                "hb-osx": "Mac"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-windows",
+                        "hb-osx",
+                        "hb-linux",
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-windows": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-linux": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-osx": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "713.5 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/networksciencewithpython_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/networksciencewithpython_preview.pdf?t=st=1741635744~exp=1741722144~hmac=802d368a49b2aada915332757823959e5ac79ef431ceb8271509c6944fb67d3d"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Packt",
+                "publisher-url": "https://www.packtpub.com/product/Network-Science-with-Python/9781801073691"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 17.28
+        },
+        "subtitle_html": null,
+        "description_text": "<h4>Key Features</h4><ul><li>Create networks using data points and information</li><li>Learn to visualize and analyze networks to better understand communities</li><li>Explore the use of network data in both - supervised and unsupervised machine learning projects</li><li>Purchase of the print or Kindle book includes a free PDF eBook</li></ul><h4>Who this book is for</h4>Network Science with Python demonstrates how programming and social science can be combined to find new insights. Data scientists, NLP engineers, software engineers, social scientists, and data science students will find this book useful. An intermediate level of Python programming is a prerequisite. Readers from both \u2013 social science and programming backgrounds will find a new perspective and add a feather to their hat.",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/networksciencewithpython.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Network Science with Python",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/networksciencewithpython_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "David Knickerbocker"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "game": {
+                "download": [
+                    "windows",
+                    "mac",
+                    "linux"
+                ]
+            },
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/5b261f26f810404b7139d9fc66dd9d7de0f6e64a.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=c117a935de2b4c45431b4e59ecb260bc",
+            "featured_image": null,
+            "preview_image_bonus": "https://hb.imgix.net/5b261f26f810404b7139d9fc66dd9d7de0f6e64a.jpg?auto=compress,format&fit=clip&h=200&w=200&s=7670a85206962247f1db579141fa2edf",
+            "front_page_art_imgix_retina": "https://hb.imgix.net/564658d48a51669bbeb7bf36654a0b3368fdf130.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=7e393461a008ae97ba58cd6878ebe3a3",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/564658d48a51669bbeb7bf36654a0b3368fdf130.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=7b735548b12e5ddd44e7f902471b6390",
+            "preview_image": "https://hb.imgix.net/5b261f26f810404b7139d9fc66dd9d7de0f6e64a.jpg?auto=compress,format&fit=clip&h=350&w=600&s=400d90f89b62d26af353534a7915852b",
+            "front_page_art_imgix": "https://hb.imgix.net/564658d48a51669bbeb7bf36654a0b3368fdf130.png?auto=compress,format&w=180&s=6693ef2200e4e5cd5a0854eeb77d2ab0",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/564658d48a51669bbeb7bf36654a0b3368fdf130.png?auto=compress,format&fit=clip&h=80&w=170&s=34719cc110fb499ce055f0cfce1d3a3c"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Network Science with Python",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "pythonforalgorithmictradingcookbook": {
+        "machine_name": "pythonforalgorithmictradingcookbook",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-windows",
+                "hb-osx",
+                "hb-linux",
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-windows": "Windows",
+                "hb-drmfree": "DRM-free download",
+                "hb-file-pdf-o": "PDF",
+                "hb-linux": "Linux",
+                "hb-file-epub": "EPUB",
+                "hb-osx": "Mac"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-windows",
+                        "hb-osx",
+                        "hb-linux",
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-windows": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-linux": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-osx": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "69.2 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/pythonforalgorithmictradingcookbook_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/pythonforalgorithmictradingcookbook_preview.pdf?t=st=1741635744~exp=1741722144~hmac=652967049bbf058dc0f9df64ac206027111cbf2550bee828b85c127aa291b544"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Packt",
+                "publisher-url": "https://www.packtpub.com/product/Python-for-Algorithmic-Trading-Cookbook/9781835084700"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 17.28
+        },
+        "subtitle_html": null,
+        "description_text": "<h4>Key Features</h4><ul><li>Follow practical Python recipes to acquire, visualize, and store market data for market research</li><li>Design, backtest, and evaluate the performance of trading strategies using professional techniques</li><li>Deploy trading strategies built in Python to a live trading environment with API connectivity</li><li>Purchase of the print or Kindle book includes a free PDF eBook</li></ul><h4>Who this book is for</h4>Python for Algorithmic Trading Cookbook equips traders, investors, and Python developers with code to design, backtest, and deploy algorithmic trading strategies. You should have experience investing in the stock market, knowledge of Python data structures, and a basic understanding of using Python libraries like pandas. This book is also ideal for individuals with Python experience who are already active in the market or are aspiring to be.",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/pythonforalgorithmictradingcookbook.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Python for Algorithmic Trading Cookbook",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/pythonforalgorithmictradingcookbook_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Jason Strimpel"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "game": {
+                "download": [
+                    "windows",
+                    "mac",
+                    "linux"
+                ]
+            },
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/00fe5d357c85227f9b626df6de6b5c6bdf281423.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=980bc478c511e9fc3dc99aaf2768f574",
+            "featured_image": null,
+            "preview_image_bonus": "https://hb.imgix.net/00fe5d357c85227f9b626df6de6b5c6bdf281423.jpg?auto=compress,format&fit=clip&h=200&w=200&s=73c388a8540bd8711ab3a2cc30ee729e",
+            "front_page_art_imgix_retina": "https://hb.imgix.net/75cd6f4ec1920f10a85b9205fda5613e69524e21.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=ccc914579976036b980f25e66eb87e9e",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/75cd6f4ec1920f10a85b9205fda5613e69524e21.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=4ae035f7e4468d2793009345a69e265c",
+            "preview_image": "https://hb.imgix.net/00fe5d357c85227f9b626df6de6b5c6bdf281423.jpg?auto=compress,format&fit=clip&h=350&w=600&s=eb0d228cca305f0a774763b464f4ee77",
+            "front_page_art_imgix": "https://hb.imgix.net/75cd6f4ec1920f10a85b9205fda5613e69524e21.png?auto=compress,format&w=180&s=601fa9e23489bc417755aaf778e7deb9",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/75cd6f4ec1920f10a85b9205fda5613e69524e21.png?auto=compress,format&fit=clip&h=80&w=170&s=6467ead6507bdb639c318f95955a04b7"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Python for Algorithmic Trading Cookbook",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "hands-onwebscrapingwithpython_2ndedition": {
+        "machine_name": "hands-onwebscrapingwithpython_2ndedition",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-windows",
+                "hb-osx",
+                "hb-linux",
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-windows": "Windows",
+                "hb-drmfree": "DRM-free download",
+                "hb-file-pdf-o": "PDF",
+                "hb-linux": "Linux",
+                "hb-file-epub": "EPUB",
+                "hb-osx": "Mac"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-windows",
+                        "hb-osx",
+                        "hb-linux",
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-windows": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-linux": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-osx": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": "Second Edition",
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "229.1 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/hands-onwebscrapingwithpython_2ndedition_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/hands-onwebscrapingwithpython_2ndedition_preview.pdf?t=st=1741635744~exp=1741722144~hmac=742e9fce3dc53e7c202e9fdb1d6f3863767d15a8195c995f6bd4f188b880edc2"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Packt",
+                "publisher-url": "https://www.packtpub.com/product/Hands-On-Web-Scraping-with-Python/9781837636211"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 17.28
+        },
+        "subtitle_html": null,
+        "description_text": "<h4>Key Features</h4><ul><li>Build an initial portfolio of web scraping projects with detailed explanations</li><li>Grasp Python programming fundamentals related to web scraping and data extraction</li><li>Acquire skills to code web scrapers, store data in desired formats, and employ the data professionally</li><li>Purchase of the print or Kindle book includes a free PDF eBook</li></ul><h4>Who this book is for</h4>This book is for beginners who want to learn web scraping and data extraction using Python. No prior programming knowledge is required, but a basic understanding of web-related concepts such as websites, browsers, and HTML is assumed. If you enjoy learning by doing and want to build a portfolio of web scraping projects and delve into data-related studies and application, then this book is tailored for your needs.",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/hands-onwebscrapingwithpython_2ndedition.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Hands-On Web Scraping with Python",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/hands-onwebscrapingwithpython_2ndedition_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Anish Chapagain"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "game": {
+                "download": [
+                    "windows",
+                    "mac",
+                    "linux"
+                ]
+            },
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/fa1ae3f792fa1325bff267ab0d692a4c33c340a5.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=a3f94bc37abf72795174cdd3f8ba00f8",
+            "featured_image": null,
+            "preview_image_bonus": "https://hb.imgix.net/fa1ae3f792fa1325bff267ab0d692a4c33c340a5.jpg?auto=compress,format&fit=clip&h=200&w=200&s=931dc99effa56c2b3a9016024bbe92c7",
+            "front_page_art_imgix_retina": "https://hb.imgix.net/c2a5e4d926f34ad02d3b577bd9a48c938b4d0e1f.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=9cf667b121eac7ce2b0c808ecc890e94",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/c2a5e4d926f34ad02d3b577bd9a48c938b4d0e1f.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=324ec72ce79efb3761b1da7746606678",
+            "preview_image": "https://hb.imgix.net/fa1ae3f792fa1325bff267ab0d692a4c33c340a5.jpg?auto=compress,format&fit=clip&h=350&w=600&s=a1e4fed254d53ea8ecd8bd9f5a0a818f",
+            "front_page_art_imgix": "https://hb.imgix.net/c2a5e4d926f34ad02d3b577bd9a48c938b4d0e1f.png?auto=compress,format&w=180&s=94c717cd93625ed0c134835cdeda9a40",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/c2a5e4d926f34ad02d3b577bd9a48c938b4d0e1f.png?auto=compress,format&fit=clip&h=80&w=170&s=368cb16550d6a03e392241f413983097"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Hands-On Web Scraping with Python",
+        "is_mystery_box": null,
+        "payee_secondary_id": "",
+        "wallet_credit": {}
+    },
+    "generativeaifoundationsinpython": {
+        "machine_name": "generativeaifoundationsinpython",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "725.4 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/generativeaifoundationsinpython_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/generativeaifoundationsinpython_preview.pdf?t=st=1741635744~exp=1741722144~hmac=2859bebf9e792a4fd0b0a1636997cfbaedd68ad3b608dffcea33390484d7bbe6"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Packt",
+                "publisher-url": "https://www.packtpub.com/product/Generative-AI-Foundations-in-Python/9781835460825"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 9.6
+        },
+        "subtitle_html": null,
+        "description_text": "<h4>Key Features</h4><ul><li>Gain expertise in prompt engineering, LLM fine-tuning, and domain adaptation</li><li>Use transformers-based LLMs and diffusion models to implement AI applications</li><li>Discover strategies to optimize model performance, address ethical considerations, and build trust in AI systems</li><li>Purchase of the print or Kindle book includes a free PDF eBook</li></ul><h4>Who this book is for</h4>This book is for developers, data scientists, and machine learning engineers embarking on projects driven by generative AI. A general understanding of machine learning and deep learning, as well as some proficiency with Python, is expected.",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/generativeaifoundationsinpython.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Generative AI Foundations in Python",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/generativeaifoundationsinpython_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Carlos Rodriguez"
+            },
+            {
+                "developer-name": "Samira Shaikh"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/7c83fbbd1cc62fd09909fddb0499bb4d8a4c15ad.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=0d8401d09e2ab1fff1ae15207abf57ff",
+            "featured_image": null,
+            "preview_image_bonus": "https://hb.imgix.net/7c83fbbd1cc62fd09909fddb0499bb4d8a4c15ad.jpg?auto=compress,format&fit=clip&h=200&w=200&s=5d9f128d65d1f85fc1d163fe321316da",
+            "front_page_art_imgix_retina": "https://hb.imgix.net/92348ed06b4f6571e2a192a6c4b56dfebecc5f13.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=4a2763b1cd5c346c620598b96b75b78d",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/92348ed06b4f6571e2a192a6c4b56dfebecc5f13.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=2e2b7e643bc8f2414ff8bec94fd08470",
+            "preview_image": "https://hb.imgix.net/7c83fbbd1cc62fd09909fddb0499bb4d8a4c15ad.jpg?auto=compress,format&fit=clip&h=350&w=600&s=d6c6c8e64efb298bc9d2bba1497172d0",
+            "front_page_art_imgix": "https://hb.imgix.net/92348ed06b4f6571e2a192a6c4b56dfebecc5f13.png?auto=compress,format&w=180&s=b7a0b68f969d6a2af56e1b7900560f6e",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/92348ed06b4f6571e2a192a6c4b56dfebecc5f13.png?auto=compress,format&fit=clip&h=80&w=170&s=14311f4dab0bddf2a410a765b56d6094"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Generative AI Foundations in Python",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "django5byexample": {
+        "machine_name": "django5byexample",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": "Fifth Edition",
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "104.9 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/django5byexample_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/django5byexample_preview.pdf?t=st=1741635744~exp=1741722144~hmac=82f5e36a9bac945b41ac47363c4627f133b1215e19fa4012f15c5e62027e782b"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Packt",
+                "publisher-url": "https://www.packtpub.com/product/Django-5-By-Example/9781805125457"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 17.28
+        },
+        "subtitle_html": null,
+        "description_text": "<p><strong>Key Features</strong></p><ul><li>Updated with Django 5 features, detailed app planning, improved tooling, and GPT prompts for extending projects</li><li>Learn Django essentials, including models, ORM, views, templates, URLs, forms, authentication, signals, and middleware</li><li>Integrate JavaScript, PostgreSQL, Redis, Celery, Docker, and Memcached into your applications</li></ul><h4>Who this book is for</h4><p>This book is for readers with basic Python programming knowledge and programmers transitioning from other web frameworks who wish to learn Django by doing. If you already use Django, or have in the past, and want to learn best practices and integrate other technologies to scale your applications, then this book is for you too. This book will help you master the most relevant areas of the framework by building practical projects from scratch. Some previous knowledge of HTML and JavaScript is assumed.</p>",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/django5byexample.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Django 5 By Example",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/django5byexample_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Antonio Mel\u00e9"
+            },
+            {
+                "developer-name": "Paolo Melchiorre"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/c539d68306e9444a41b81f957747eff4a1426d81.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=9b57500c3a1d1b57ad4897f75302b433",
+            "featured_image": null,
+            "preview_image_bonus": "https://hb.imgix.net/c539d68306e9444a41b81f957747eff4a1426d81.jpg?auto=compress,format&fit=clip&h=200&w=200&s=ddcad57916054dabfd424eb94c3c13d8",
+            "front_page_art_imgix_retina": "https://hb.imgix.net/9a17fde8b62fcc22809b49360ebfaffc1afcec68.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=916de19bfc25cba73a1327ba63584517",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/9a17fde8b62fcc22809b49360ebfaffc1afcec68.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=ad2bc632321fc4a01c907ea766824f73",
+            "preview_image": "https://hb.imgix.net/c539d68306e9444a41b81f957747eff4a1426d81.jpg?auto=compress,format&fit=clip&h=350&w=600&s=e34e629da94dd56f78f7cd14102a6464",
+            "front_page_art_imgix": "https://hb.imgix.net/9a17fde8b62fcc22809b49360ebfaffc1afcec68.png?auto=compress,format&w=180&s=e4daf044f2d3c09b8b7935ba90ee32fe",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/9a17fde8b62fcc22809b49360ebfaffc1afcec68.png?auto=compress,format&fit=clip&h=80&w=170&s=288fe0c2e640ce2c389f705b1c7b2c6d"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Django 5 By Example",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "dataanalysisfoundationswithpython": {
+        "machine_name": "dataanalysisfoundationswithpython",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "42 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/dataanalysisfoundationswithpython_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/dataanalysisfoundationswithpython_preview.pdf?t=st=1741635744~exp=1741722144~hmac=3a6f40fbde9c0638836b2dc2dff13cb1c46f7ac62ca2c34d7e3bcc2473e2d4b7"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Packt",
+                "publisher-url": "https://www.packtpub.com/product/Data-Analysis-Foundations-with-Python/9781836209072"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 1.0
+        },
+        "subtitle_html": null,
+        "description_text": "<h4>Key Features</h4><ul><li>From Python basics to advanced data analysis techniques.</li><li>Apply your skills to practical scenarios through real-world case studies.</li><li>Detailed projects and quizzes to help gain the necessary skills.</li></ul><h4>Who this book is for</h4>This course adopts a hands-on approach, seamlessly blending theoretical lessons with practical exercises and real-world case studies. Practical exercises are designed to apply theoretical knowledge, providing learners with the opportunity to experiment and learn through doing. Real-world applications and examples are integrated throughout the course to contextualize concepts, making the learning process engaging, relevant, and effective. By the end of the course, students will have a thorough understanding of the subject matter and the ability to apply their knowledge in practical scenarios.",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/dataanalysisfoundationswithpython.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Data Analysis Foundations with Python",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/dataanalysisfoundationswithpython_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Cuantum Technologies LLC"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/2a1f5896f3530591b6dfd28c2039d209931615b0.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=3ddf309294860e7cb28f5ba1ddf9abbc",
+            "featured_image": null,
+            "preview_image_bonus": "https://hb.imgix.net/2a1f5896f3530591b6dfd28c2039d209931615b0.jpg?auto=compress,format&fit=clip&h=200&w=200&s=08bcc51a6238c32ab757c05abca7628d",
+            "front_page_art_imgix_retina": "https://hb.imgix.net/e12cbd8b8d0e5681698c0cdd369a7b0a016c5034.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=1bf779d833bf021d95c9977f7932dcb1",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/e12cbd8b8d0e5681698c0cdd369a7b0a016c5034.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=13f55352834d02128fd4fd5b2691f46f",
+            "preview_image": "https://hb.imgix.net/2a1f5896f3530591b6dfd28c2039d209931615b0.jpg?auto=compress,format&fit=clip&h=350&w=600&s=ebc839e7899ea500f0ec1cfb599820a5",
+            "front_page_art_imgix": "https://hb.imgix.net/e12cbd8b8d0e5681698c0cdd369a7b0a016c5034.png?auto=compress,format&w=180&s=db521721f7ce32a153f36d382d315fd8",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/e12cbd8b8d0e5681698c0cdd369a7b0a016c5034.png?auto=compress,format&fit=clip&h=80&w=170&s=556161b13f4a534dcb4657cf0127fbed"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Data Analysis Foundations with Python",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "pythonguiprogrammingwithtkinter2ndedition": {
+        "machine_name": "pythonguiprogrammingwithtkinter2ndedition",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-windows",
+                "hb-osx",
+                "hb-linux",
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-windows": "Windows",
+                "hb-drmfree": "DRM-free download",
+                "hb-file-pdf-o": "PDF",
+                "hb-linux": "Linux",
+                "hb-file-epub": "EPUB",
+                "hb-osx": "Mac"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-windows",
+                        "hb-osx",
+                        "hb-linux",
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-windows": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-linux": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-osx": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": "Second Edition",
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "159 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/pythonguiprogrammingwithtkinter2ndedition_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/pythonguiprogrammingwithtkinter2ndedition_preview.pdf?t=st=1741635744~exp=1741722144~hmac=e84022e09fea775a6958d05527383a27134d7553a976372b47b977689882c754"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Packt",
+                "publisher-url": "https://www.packtpub.com/product/Python-GUI-Programming-with-Tkinter,-2nd-edition/9781801815925"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 17.28
+        },
+        "subtitle_html": null,
+        "description_text": "<h4>Key Features</h4><ul><li>Extensively revised with new content on RESTful networking, classes in Tkinter, and the Notebook widget</li><li>Take advantage of Tkinter\u2019s lightweight, portable, and easy-to-use features</li><li>Build better-organized code and learn to manage an evolving codebase</li></ul><h4>Who this book is for</h4>This book is for programmers who understand the syntax of Python, but do not yet have the skills, techniques, and knowledge to design and implement a complete software application. A fair grasp of basic Python syntax is required.",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/pythonguiprogrammingwithtkinter2ndedition.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Python GUI Programming with Tkinter",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/pythonguiprogrammingwithtkinter2ndedition_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Alan D. Moore"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "game": {
+                "download": [
+                    "windows",
+                    "mac",
+                    "linux"
+                ]
+            },
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/d8eca0bb08474849a01532529fa46e82248be438.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=14935f575b4ce18a712c93f61aaaea52",
+            "featured_image": null,
+            "preview_image_bonus": "https://hb.imgix.net/d8eca0bb08474849a01532529fa46e82248be438.jpg?auto=compress,format&fit=clip&h=200&w=200&s=f00575098ca2aefe7e81bb62e7089b01",
+            "front_page_art_imgix_retina": "https://hb.imgix.net/b004c5d9950ec211e01adf15625d05714d09afb0.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=fa1ddd896ec6f2ea81ec1098cb793f63",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/b004c5d9950ec211e01adf15625d05714d09afb0.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=28ea1151c47b4a3c67d17d68afb41cd4",
+            "preview_image": "https://hb.imgix.net/d8eca0bb08474849a01532529fa46e82248be438.jpg?auto=compress,format&fit=clip&h=350&w=600&s=86bb2398b1b66e9e27896c036230da89",
+            "front_page_art_imgix": "https://hb.imgix.net/b004c5d9950ec211e01adf15625d05714d09afb0.png?auto=compress,format&w=180&s=a2376273fea2118fbed63751254be16b",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/b004c5d9950ec211e01adf15625d05714d09afb0.png?auto=compress,format&fit=clip&h=80&w=170&s=d1551ba93364b97cdc8626b8e4531129"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Python GUI Programming with Tkinter",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "pythonandalgorithmicthinkingforthecompletebeginner": {
+        "machine_name": "pythonandalgorithmicthinkingforthecompletebeginner",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": "Third Edition",
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "93.9 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/pythonandalgorithmicthinkingforthecompletebeginner_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/pythonandalgorithmicthinkingforthecompletebeginner_preview.pdf?t=st=1741635744~exp=1741722144~hmac=65e1d220af799221faab038ad6a4ca524c1603e0363cf6481a3e4aa3529b27a7"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Packt",
+                "publisher-url": "https://www.packtpub.com/product/Python-and-Algorithmic-Thinking-for-the-Complete-Beginner/9781836209270"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 9.6
+        },
+        "subtitle_html": null,
+        "description_text": "<h4>Key Features</h4><ul><li>Comprehensive coverage from basic computer operations to advanced programming concepts</li><li>Step-by-step progression of each topic, along with tips and tricks to enhance coding efficiency</li><li>In-depth exploration of Python and algorithmic thinking with exercises and practical examples</li></ul><h4>Who this book is for</h4>This course is ideal for absolute beginners with no prior programming experience. Basic computer literacy is required, but no specific knowledge of programming or algorithms is necessary. It is also suitable for individuals looking to refresh their Python skills and enhance their understanding of algorithmic thinking. High school and college students interested in programming, professionals seeking to upskill, and hobbyists eager to learn a new programming language will all find value in this course.",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/pythonandalgorithmicthinkingforthecompletebeginner.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Python and Algorithmic Thinking for the Complete Beginner",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/pythonandalgorithmicthinkingforthecompletebeginner_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Aristides Bouras"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/b5169ebf76602331d84fbcb61912c8138a012a18.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=3a744e133418110d398f7c0615a50cb6",
+            "featured_image": null,
+            "preview_image_bonus": "https://hb.imgix.net/b5169ebf76602331d84fbcb61912c8138a012a18.jpg?auto=compress,format&fit=clip&h=200&w=200&s=bbe0f99a34ce768e7c60a8d5228da035",
+            "front_page_art_imgix_retina": "https://hb.imgix.net/4f2aabff5d6cdb874602b1ea3430d04b9e6e9323.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=1d73e17e8c4eb5c4d06cbd421ebf3e0d",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/4f2aabff5d6cdb874602b1ea3430d04b9e6e9323.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=5e791dd3a3a0f0ab9f1283dcc415a166",
+            "preview_image": "https://hb.imgix.net/b5169ebf76602331d84fbcb61912c8138a012a18.jpg?auto=compress,format&fit=clip&h=350&w=600&s=9fd414869b1f9fd2b3e35f570eae1aa9",
+            "front_page_art_imgix": "https://hb.imgix.net/4f2aabff5d6cdb874602b1ea3430d04b9e6e9323.png?auto=compress,format&w=180&s=ce844076610aef85c7bc5d7c2e45c7fd",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/4f2aabff5d6cdb874602b1ea3430d04b9e6e9323.png?auto=compress,format&fit=clip&h=80&w=170&s=d33ee7a7459a264e332c20f2f131d998"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Python and Algorithmic Thinking for the Complete Beginner",
+        "is_mystery_box": null,
+        "payee_secondary_id": "",
+        "wallet_credit": {}
+    },
+    "masteringpythonnetworking_fourthedition": {
+        "machine_name": "masteringpythonnetworking_fourthedition",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-windows",
+                "hb-osx",
+                "hb-linux",
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-windows": "Windows",
+                "hb-drmfree": "DRM-free download",
+                "hb-file-pdf-o": "PDF",
+                "hb-linux": "Linux",
+                "hb-file-epub": "EPUB",
+                "hb-osx": "Mac"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-windows",
+                        "hb-osx",
+                        "hb-linux",
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-windows": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-linux": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-osx": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": "Fourth Edition",
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "105.1 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/masteringpythonnetworking_fourthedition_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/masteringpythonnetworking_fourthedition_preview.pdf?t=st=1741635744~exp=1741722144~hmac=c3bcbe13062da0397e2f86c92831d39616845e0aa03d6eeeffb167b07a623da3"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Packt",
+                "publisher-url": "https://www.packtpub.com/product/Mastering-Python-Networking/9781803234618"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 17.28
+        },
+        "subtitle_html": null,
+        "description_text": "<p><strong>Key Features</strong></p><ul><li>Leverage Python's powerful libraries and frameworks to build production-ready network automation solutions efficiently and effectively</li><li>Implement network security, monitoring, and management solutions using modern DevOps tools and cloud-native approaches</li><li>Utilize AsyncIO and cloud capabilities in Python 3 for AWS and Azure network solutions</li></ul><h4>Who this book is for</h4><p>Mastering Python Networking, Fourth edition is for network engineers, developers, and SREs who want to learn Python for network automation, programmability, monitoring, cloud, and data analysis. Network engineers who want to transition from manual to automation-based networks using the latest DevOps tools will also get a lot of useful information from this book. Basic familiarity with Python programming and networking-related concepts such as Transmission Control Protocol/Internet Protocol (TCP/IP) will be helpful in getting the most out of this book.</p>",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/masteringpythonnetworking_fourthedition.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Mastering Python Networking",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/masteringpythonnetworking_fourthedition_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Eric Chou"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "game": {
+                "download": [
+                    "windows",
+                    "mac",
+                    "linux"
+                ]
+            },
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/b99cb512e1573569be017f8c49d6ad0aba925c1a.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=156088a2765dce660ec8a8b12091979e",
+            "featured_image": null,
+            "preview_image_bonus": "https://hb.imgix.net/b99cb512e1573569be017f8c49d6ad0aba925c1a.jpg?auto=compress,format&fit=clip&h=200&w=200&s=a06c701c133d41ef351f65397803bd34",
+            "front_page_art_imgix_retina": "https://hb.imgix.net/f7bbf17eb62f707ff281a8951dbb84b3d6d6f939.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=4890bbe8a4968ab02dc3a09a5bdfffc1",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/f7bbf17eb62f707ff281a8951dbb84b3d6d6f939.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=878e2cdf118c720491b4b225f8500cf1",
+            "preview_image": "https://hb.imgix.net/b99cb512e1573569be017f8c49d6ad0aba925c1a.jpg?auto=compress,format&fit=clip&h=350&w=600&s=426178d595798eebb0cc1f8fc35750a0",
+            "front_page_art_imgix": "https://hb.imgix.net/f7bbf17eb62f707ff281a8951dbb84b3d6d6f939.png?auto=compress,format&w=180&s=2579503917c097d788029c2412919725",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/f7bbf17eb62f707ff281a8951dbb84b3d6d6f939.png?auto=compress,format&fit=clip&h=80&w=170&s=4d29dde4ae11c6afeffa0ef1f17da70c"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Mastering Python Networking",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    }
+}

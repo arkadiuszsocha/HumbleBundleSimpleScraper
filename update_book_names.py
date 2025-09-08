@@ -26,10 +26,22 @@ def rename_epub_files(folder_path):
             
             if title and authors:
                 safe_title = "".join(c for c in title if c.isalnum() or c in "- _")
-                safe_authors = ["".join(c for c in author if c.isalnum() or c in "- _.")  # Added period here
-                              for author in authors]
-                new_filename = f"{' & '.join(safe_authors)} - {safe_title}.epub"
+                # Switch first and last names for each author
+                switched_authors = []
+                for author in authors:
+                    name_parts = author.split()
+                    if len(name_parts) > 1:
+                        # Take the last name and put it first
+                        switched_name = f"{name_parts[-1]} {' '.join(name_parts[:-1])}"
+                    else:
+                        switched_name = author
+                    safe_author = "".join(c for c in switched_name if c.isalnum() or c in "- _.")
+                    switched_authors.append(safe_author)
+                
+                new_filename = f"{', '.join(switched_authors)} - {safe_title}.epub"
+                new_filename_pdf = f"{', '.join(switched_authors)} - {safe_title}.pdf"
                 new_filepath = os.path.join(folder_path, new_filename)
+                new_filepath_pdf = os.path.join(folder_path, new_filename_pdf)
                 
                 try:
                     if not os.path.exists(new_filepath):
@@ -37,10 +49,21 @@ def rename_epub_files(folder_path):
                         print(f"Renamed '{filename}' to '{new_filename}'")
                     else:
                         print(f"Skipping '{filename}': Target file already exists")
+                        
+                    # Check for corresponding PDF file
+                    pdf_filename = filename.replace('.epub', '.pdf')
+                    pdf_path = os.path.join(folder_path, pdf_filename)
+                    if os.path.exists(pdf_path):
+                        if not os.path.exists(new_filepath_pdf):
+                            os.rename(pdf_path, new_filepath_pdf)
+                            print(f"Renamed '{pdf_filename}' to '{new_filename_pdf}'")
+                        else:
+                            print(f"Skipping '{pdf_filename}': Target file already exists")
                 except OSError as e:
                     print(f"Error renaming '{filename}': {str(e)}")
+                    
 
 if __name__ == "__main__":
-    folder_path = '/Users/arek/Documents/_aDoWgrania/_kupione/Humble Tech Book Bundle Full Stack Development with Apress test/'
+    folder_path = '/Users/arek/Documents/_aDoWgrania/_kupione/Ultimate Programming Languages Bundle by Pact to fix'
     print('start')
     rename_epub_files(folder_path)

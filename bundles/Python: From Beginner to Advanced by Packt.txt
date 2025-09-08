@@ -1,0 +1,21 @@
+Steven F. Lott - Python Real World Projects
+Rachelle Palmer, Ben Perlmutter, Ashwin Gangadhar, Nicholas Larew, Sigfrido Narváez, Thomas Rueckstiess, Henry Weller, Richmond Alake, Shubham Ranjan - Building AI Intensive Python Applications
+Imran Ahmad, Somaieh Nikpoor - 50 Algorithms Every Programmer Should Know
+Manu Joseph, Jeffrey Tackes, Christoph Bergmeir - Modern Time Series Forecasting with Python
+Sofía De Jesús and Dayrene Martinez - Applied Computational Thinking with Python
+Michael Walker - Python Data Cleaning Cookbook
+Kamon Ayeva, Sakis Kasampalis - Mastering Python Design Patterns
+Fabrizio Romano, Heinrich Kruger - Learn Python Programming
+Giunio De Luca, Antonio Ferraro - FastAPI Cookbook
+Steven F. Lott, Dusty Phillips - Python Object-Oriented Programming
+Steven F. Lott - Modern Python Cookbook
+José Manuel Ortega - Python for Security and Networking
+David Knickerbocker - Network Science with Python
+Jason Strimpel - Python for Algorithmic Trading Cookbook
+Anish Chapagain - Hands-On Web Scraping with Python
+Carlos Rodriguez, Samira Shaikh - Generative AI Foundations in Python
+Antonio Melé, Paolo Melchiorre - Django 5 By Example
+Cuantum Technologies LLC - Data Analysis Foundations with Python
+Alan D. Moore - Python GUI Programming with Tkinter
+Aristides Bouras - Python and Algorithmic Thinking for the Complete Beginner
+Eric Chou - Mastering Python Networking

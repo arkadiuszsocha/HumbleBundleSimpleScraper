@@ -1,0 +1,3090 @@
+{
+    "jamstackbook": {
+        "machine_name": "jamstackbook",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "457.2 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/jamstackbook_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/jamstackbook_preview.pdf?t=st=1752521871~exp=1752608271~hmac=5bf88bd02cdd1c47b3d532462e1bb1fe748d8cd7f17d407c731cf833c997dfb7"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Manning",
+                "publisher-url": "https://www.manning.com/books/the-jamstack-book"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 9.4
+        },
+        "subtitle_html": null,
+        "description_text": "<p>The Jamstack Book teaches effectively by creating a portfolio of sites, ranging from a simple blog to an eCommerce store. Each new project introduces important skills, including cloud deployment, user logins, and search. You\u2019ll get hands-on experience with tools like 11ty, Next.js, and Netlify. As your skills grow, the examples become more sophisticated, including serverless technology, dynamic forms, and an integrated CMS.</p>",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/jamstackbook.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "The Jamstack Book",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/jamstackbook_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Raymond Camden and Brian Rinaldi",
+                "developer-url": "https://www.manning.com/authors/brian-rinaldi"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/8b7fd6d364e177a3aff5d21fe3ec22da12294061.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=e7fb758899679b3eb7cd70be8cc6c209",
+            "featured_image": null,
+            "preview_image_bonus": "https://hb.imgix.net/8b7fd6d364e177a3aff5d21fe3ec22da12294061.jpg?auto=compress,format&fit=clip&h=200&w=200&s=9a2c9ee34b532608820c2d37ca7324cc",
+            "front_page_art_imgix_retina": "https://hb.imgix.net/8b0a793ce6f2868f914b4af0a724320473facaaf.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=d79f016ce8b77454aff61687f84a8f47",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/8b0a793ce6f2868f914b4af0a724320473facaaf.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=ca8166e64004f8edce8a7ea071e3b4db",
+            "preview_image": "https://hb.imgix.net/8b7fd6d364e177a3aff5d21fe3ec22da12294061.jpg?auto=compress,format&fit=clip&h=350&w=600&s=e0329ffa3e96c8691a75e6b64c0740d6",
+            "front_page_art_imgix": "https://hb.imgix.net/8b0a793ce6f2868f914b4af0a724320473facaaf.png?auto=compress,format&w=180&s=5ba42e323b22aa2526a0d10b951ff096",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/8b0a793ce6f2868f914b4af0a724320473facaaf.png?auto=compress,format&fit=clip&h=80&w=170&s=c90057d6758637842e82e3d486de7138"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "The Jamstack Book",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "d3jsinaction2e": {
+        "machine_name": "d3jsinaction2e",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": "First Edition",
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "144.8 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/d3jsinaction2e_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/d3jsinaction2e_preview.pdf?t=st=1752521871~exp=1752608271~hmac=439e02a26629a89b71232a8ea9dc175121a177a69c40186acd1c53ec368aa8a3"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Manning",
+                "publisher-url": "https://www.manning.com/books/d3-js-in-action"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 21.37
+        },
+        "subtitle_html": null,
+        "description_text": "<p>D3.js in Action introduces you to the most powerful web data visualization library available and shows you how to use it to build interactive graphics and data-driven applications. You'll start with dozens of practical use cases that align with different types of charts, networks, and maps using D3's out-of-the-box layouts. Then, you'll explore practical techniques for content design, animation, and representation of dynamic data\u2014including interactive graphics and live streaming data.</p>",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/d3jsinaction2e.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "D3.js in Action",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/d3jsinaction2e_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Elijah Meeks",
+                "developer-url": "https://www.manning.com/authors/elijah-meeks"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "epub",
+                    "pdf"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/c98018f2dc258503725cadc30b6531ac8f7c4819.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=7211986eb345158ae04a5d65082b004c",
+            "featured_image": null,
+            "preview_image_bonus": "https://hb.imgix.net/c98018f2dc258503725cadc30b6531ac8f7c4819.jpg?auto=compress,format&fit=clip&h=200&w=200&s=9e147d7518c53e63f7034936e3cdfddb",
+            "front_page_art_imgix_retina": "https://hb.imgix.net/42d9b159f34b7101fcf8c18e16c6c494b49f532d.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=4ed7f7221a1b951b1cc4b0cd663292da",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/42d9b159f34b7101fcf8c18e16c6c494b49f532d.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=afd5c366f033ef7e75400ab10c28a42e",
+            "preview_image": "https://hb.imgix.net/c98018f2dc258503725cadc30b6531ac8f7c4819.jpg?auto=compress,format&fit=clip&h=350&w=600&s=6befe7956b8a5ee5d6d698e1b9e38be8",
+            "front_page_art_imgix": "https://hb.imgix.net/42d9b159f34b7101fcf8c18e16c6c494b49f532d.png?auto=compress,format&w=180&s=82e5e512458c3242483c68fb384f7cbd",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/42d9b159f34b7101fcf8c18e16c6c494b49f532d.png?auto=compress,format&fit=clip&h=80&w=170&s=c9a231857face06cc2e531b9b84e4a3a"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "D3.js in Action",
+        "is_mystery_box": null,
+        "payee_secondary_id": "",
+        "wallet_credit": {}
+    },
+    "designingapiswithswaggerandopenapi": {
+        "machine_name": "designingapiswithswaggerandopenapi",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "51.1 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/designingapiswithswaggerandopenapi_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/designingapiswithswaggerandopenapi_preview.pdf?t=st=1752521871~exp=1752608271~hmac=c372871245fcc0c2271371a3d79c1882de7538a89aa5a930485e554b937e2be7"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Manning",
+                "publisher-url": "https://www.manning.com/books/designing-apis-with-swagger-and-openapi"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 21.37
+        },
+        "subtitle_html": null,
+        "description_text": "<p>Designing APIs with Swagger and OpenAPI introduces a design-first approach. Written for developers new to API design, it follows the lifecycle of an API project from concept to production. You\u2019ll explore the dos and don\u2019ts of APIs through progressively complete examples. You\u2019ll get hands-on experience designing APIs for specific business needs, using open source tools to generate documentation, and building developer-friendly components like mocks and client SDKs.</p>",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/designingapiswithswaggerandopenapi.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Designing APIs with Swagger and OpenAPI",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/designingapiswithswaggerandopenapi_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Josh Ponelat and Lukas Rosenstock"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/ecfdb7d8ddc0b59f8b028c72efa7204a5feb8076.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=ee92c340c9adfcc3aefc885c57c584db",
+            "featured_image": null,
+            "preview_image_bonus": "https://hb.imgix.net/ecfdb7d8ddc0b59f8b028c72efa7204a5feb8076.jpg?auto=compress,format&fit=clip&h=200&w=200&s=4e15bc51f452f3d621dbef95e2666951",
+            "front_page_art_imgix_retina": "https://hb.imgix.net/80dc62e7cc74bd3ea3c43b8ba255f560cf80c723.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=60edf449dfbad42f11a404699d07c7ef",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/80dc62e7cc74bd3ea3c43b8ba255f560cf80c723.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=9a3bf59995f63d32ee829f26f8f91425",
+            "preview_image": "https://hb.imgix.net/ecfdb7d8ddc0b59f8b028c72efa7204a5feb8076.jpg?auto=compress,format&fit=clip&h=350&w=600&s=9df1f8ef847a8fe869a99cc3fcab401a",
+            "front_page_art_imgix": "https://hb.imgix.net/80dc62e7cc74bd3ea3c43b8ba255f560cf80c723.png?auto=compress,format&w=180&s=4e6bf0ded2aca9b1d6b43f1f78f13513",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/80dc62e7cc74bd3ea3c43b8ba255f560cf80c723.png?auto=compress,format&fit=clip&h=80&w=170&s=25edc3c27bc84c18abacc2a173626b40"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Designing APIs with Swagger and OpenAPI",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "reacthooksinaction": {
+        "machine_name": "reacthooksinaction",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "184.3 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/reacthooksinaction_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/reacthooksinaction_preview.pdf?t=st=1752521871~exp=1752608271~hmac=5a17bcfad841b99458d52e97af008d5ea1316acf8f5c5ffe645883eb8c53a41f"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Manning",
+                "publisher-url": "https://www.manning.com/books/react-hooks-in-action"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 4.27
+        },
+        "subtitle_html": null,
+        "description_text": "<p>React Hooks in Action teaches you to write fast and reusable React components using Hooks. You\u2019ll start by learning to create component code with Hooks. Next, you\u2019ll implement a resource booking application that demonstrates managing local state, application state, and side effects like fetching data. Code samples and illustrations make learning Hooks easy.</p>",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/reacthooksinaction.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "React Hooks in Action",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/reacthooksinaction_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "John Larsen",
+                "developer-url": "https://www.manning.com/authors/john-larsen"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/071157be023fd15753892737e4046d1ac6c0f529.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=528750e837d1b275b89687dcec0a89ff",
+            "featured_image": null,
+            "preview_image_bonus": "https://hb.imgix.net/071157be023fd15753892737e4046d1ac6c0f529.jpg?auto=compress,format&fit=clip&h=200&w=200&s=daf556767fdc4bc0299366325978e39e",
+            "front_page_art_imgix_retina": "https://hb.imgix.net/b16864506ae0e16b7b9799189a3bd4839de25739.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=2050667608021185601deacbb208e11c",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/b16864506ae0e16b7b9799189a3bd4839de25739.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=06641ae261281c4dcf62e32bdfac49ae",
+            "preview_image": "https://hb.imgix.net/071157be023fd15753892737e4046d1ac6c0f529.jpg?auto=compress,format&fit=clip&h=350&w=600&s=a93af34ec60760a042b3a1a9766d62dc",
+            "front_page_art_imgix": "https://hb.imgix.net/b16864506ae0e16b7b9799189a3bd4839de25739.png?auto=compress,format&w=180&s=d4f3406e0e9e04789cf33417eb95938d",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/b16864506ae0e16b7b9799189a3bd4839de25739.png?auto=compress,format&fit=clip&h=80&w=170&s=57092a51356467cbbf6670a46760f62a"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "React Hooks in Action",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "artofunittesting3e": {
+        "machine_name": "artofunittesting3e",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": "3rd Edition",
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "55.4 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/artofunittesting3e_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/artofunittesting3e_preview.pdf?t=st=1752521871~exp=1752608271~hmac=010dd2604c8224eb77d5c7f8c40038f9eb406e4bb7ccf21eade66526c2268022"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Manning",
+                "publisher-url": "https://www.manning.com/books/the-art-of-unit-testing-third-edition"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 21.37
+        },
+        "subtitle_html": null,
+        "description_text": "<p>The Art of Unit Testing, Third Edition shows you how to create readable and maintainable tests. It goes well beyond basic test creation into organization-wide test strategies, troubleshooting, working with legacy code, and \u201cmerciless\u201d refactoring. You\u2019ll love the practical examples and familiar scenarios that make testing come alive as you read. This third edition has been updated with techniques specific to object-oriented, functional, and modular coding styles. The examples use JavaScript.</p>",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/artofunittesting3e.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Art of Unit Testing 3E",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/artofunittesting3e_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Roy Osherove",
+                "developer-url": "https://www.manning.com/authors/roy-osherove"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/1cdb217e02720513fa2fb1e6d7984ca314e965f6.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=9e2d36cc0d7e9e2165155cad2144431b",
+            "featured_image": null,
+            "preview_image_bonus": "https://hb.imgix.net/1cdb217e02720513fa2fb1e6d7984ca314e965f6.jpg?auto=compress,format&fit=clip&h=200&w=200&s=f79d0c275321834da037f17976bf84a0",
+            "front_page_art_imgix_retina": "https://hb.imgix.net/7066090b9ee475406f0fbc141401a6af0b967920.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=cd1ed8034caae005282ea826416a429c",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/7066090b9ee475406f0fbc141401a6af0b967920.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=83439fb4cffeddf77e2f79342fbd012b",
+            "preview_image": "https://hb.imgix.net/1cdb217e02720513fa2fb1e6d7984ca314e965f6.jpg?auto=compress,format&fit=clip&h=350&w=600&s=0eb07f2c5b17785f890035fb06eddf52",
+            "front_page_art_imgix": "https://hb.imgix.net/7066090b9ee475406f0fbc141401a6af0b967920.png?auto=compress,format&w=180&s=d8c911c42daefe05b40142ca3affea64",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/7066090b9ee475406f0fbc141401a6af0b967920.png?auto=compress,format&fit=clip&h=80&w=170&s=00799e0aa66d3e4f031d146662efb2b8"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Art of Unit Testing 3E",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "userfriendlydsls": {
+        "machine_name": "userfriendlydsls",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "148.6 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/userfriendlydsls_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/userfriendlydsls_preview.pdf?t=st=1752521871~exp=1752608271~hmac=3f33c4c4a622d51c225dcbc4bd2647a1472208aef94bb0c1567c161f9cdcf761"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Manning",
+                "publisher-url": "https://www.manning.com/books/building-user-friendly-dsls"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 21.37
+        },
+        "subtitle_html": null,
+        "description_text": "<p>Building User-Friendly DSLs teaches you how to create a complete domain-specific language that looks and works like a web application. These easy-to-use DSLs put the power to create custom software into the hands of business domain experts. As you go, you\u2019ll cover all the essentials, from establishing structure and syntax of your DSL to implementing a user-friendly interface.</p>",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/userfriendlydsls.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Building User Friendly DSLs",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/userfriendlydsls_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Meinte Boersma",
+                "developer-url": "https://www.manning.com/authors/meinte-boersma"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/9caab1926d3452ea7aaf243d6076e35ac18b2edf.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=9d3cda7cc8d5521a90ee9abe2ee69439",
+            "featured_image": null,
+            "preview_image_bonus": "https://hb.imgix.net/9caab1926d3452ea7aaf243d6076e35ac18b2edf.jpg?auto=compress,format&fit=clip&h=200&w=200&s=e6a3a47b699bd54880f975d0d4733752",
+            "front_page_art_imgix_retina": "https://hb.imgix.net/57c9189e523f9b5bc46f0d172a9982612e59ef9b.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=45701e6549776b56a2449231fb939960",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/57c9189e523f9b5bc46f0d172a9982612e59ef9b.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=48cf109cb6a429619a6d239162d73ada",
+            "preview_image": "https://hb.imgix.net/9caab1926d3452ea7aaf243d6076e35ac18b2edf.jpg?auto=compress,format&fit=clip&h=350&w=600&s=4bf09a1171b2a6ce4726d86bc94e6c86",
+            "front_page_art_imgix": "https://hb.imgix.net/57c9189e523f9b5bc46f0d172a9982612e59ef9b.png?auto=compress,format&w=180&s=53c1f70fcf621ddabf0f7bf2e58cdcc6",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/57c9189e523f9b5bc46f0d172a9982612e59ef9b.png?auto=compress,format&fit=clip&h=80&w=170&s=04e8299726fef55e01d68acb1256a024"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Building User Friendly DSLs",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "webdesignplayground": {
+        "machine_name": "webdesignplayground",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "113.7 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/webdesignplayground_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/webdesignplayground_preview.pdf?t=st=1752521871~exp=1752608271~hmac=a71ccb96ddb21c0367e98a05218bbe836cc03cdd6ebb1736462316b3e718fcbb"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Manning",
+                "publisher-url": "https://www.manning.com/books/web-design-playground"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 21.37
+        },
+        "subtitle_html": null,
+        "description_text": "<p>Web Design Playground takes you step by step from writing your first line of HTML to creating interesting, attractive web pages. In this project-based book, you\u2019ll use a custom online workspace to design websites, product pages, photo galleries, and more. Don\u2019t worry about setting up your own servers and domain names\u2014the book comes with a free \u201cplayground\u201d which lets you experiment without any of that! You can concentrate on core skills like adding images and video and laying out the page, plus learning typography, responsive design, and the other tools of the web trade.</p>",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/webdesignplayground.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Web Design Playground",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/webdesignplayground_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Paul McFedries",
+                "developer-url": "https://www.manning.com/authors/paul-mcfedries"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "epub",
+                    "pdf"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/6f047886870461d72bcd4a9d834e6a9049abd14d.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=c4316fbec938470a32d1120eb4fb72f1",
+            "featured_image": null,
+            "preview_image_bonus": "https://hb.imgix.net/6f047886870461d72bcd4a9d834e6a9049abd14d.jpg?auto=compress,format&fit=clip&h=200&w=200&s=db68da360b5507ed34d42350810aa76b",
+            "front_page_art_imgix_retina": "https://hb.imgix.net/33c45974d88d4fb2e58212f71a6ea1222f364849.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=65292f602cf41d2e2920f34c2beacf5b",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/33c45974d88d4fb2e58212f71a6ea1222f364849.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=ab409df6b4da6c6f9ecf2a43adfd5c6b",
+            "preview_image": "https://hb.imgix.net/6f047886870461d72bcd4a9d834e6a9049abd14d.jpg?auto=compress,format&fit=clip&h=350&w=600&s=ee328568f978249a7821216b5f075018",
+            "front_page_art_imgix": "https://hb.imgix.net/33c45974d88d4fb2e58212f71a6ea1222f364849.png?auto=compress,format&w=180&s=1e4a151b4ef2ddec6cf44691f09c478b",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/33c45974d88d4fb2e58212f71a6ea1222f364849.png?auto=compress,format&fit=clip&h=80&w=170&s=ea011a38dadaea39acbd14394f8b4e94"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Web Design Playground",
+        "is_mystery_box": null,
+        "payee_secondary_id": "",
+        "wallet_credit": {}
+    },
+    "reactquickly2e": {
+        "machine_name": "reactquickly2e",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": "2nd Edition",
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "80.2 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/reactquickly2e_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/reactquickly2e_preview.pdf?t=st=1752521871~exp=1752608271~hmac=9aa537f79a264b85c73b0d40dc4c8df33875526532a35d9cf044507eb66a314d"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Manning",
+                "publisher-url": "https://www.manning.com/books/react-quickly-second-edition"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 21.37
+        },
+        "subtitle_html": null,
+        "description_text": "<p>React Quickly, Second Edition offers a unique approach to learning the React framework. More than 80 concise examples guide you from your first steps through advanced applications. You\u2019ll appreciate the up-to-date coverage of functional components, React hooks, and web accessibility, along with interesting projects to practice your new skill.</p>",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/reactquickly2e.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "React Quickly, 2E",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/reactquickly2e_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Morten Barklund, Azat Mardan"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/5f2ceb9bafcc2b9cdd5d9104f6a2480a9bc25719.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=fc5873d573449f275bb6661925653090",
+            "featured_image": null,
+            "preview_image_bonus": "https://hb.imgix.net/5f2ceb9bafcc2b9cdd5d9104f6a2480a9bc25719.jpg?auto=compress,format&fit=clip&h=200&w=200&s=816b9e34688bde386d4f0c40c0120351",
+            "front_page_art_imgix_retina": "https://hb.imgix.net/10aeb52da71491e1f3cf50d7ab569331a1101360.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=733af3b20f5c0bd9881c0f64895ead58",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/10aeb52da71491e1f3cf50d7ab569331a1101360.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=7f09fa46a9fb56fc48955d71457c2c55",
+            "preview_image": "https://hb.imgix.net/5f2ceb9bafcc2b9cdd5d9104f6a2480a9bc25719.jpg?auto=compress,format&fit=clip&h=350&w=600&s=b3fe73ea042ea90efc72c9f6dde30bdc",
+            "front_page_art_imgix": "https://hb.imgix.net/10aeb52da71491e1f3cf50d7ab569331a1101360.png?auto=compress,format&w=180&s=764b3a8eaef82e7b7ed56636ac00429e",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/10aeb52da71491e1f3cf50d7ab569331a1101360.png?auto=compress,format&fit=clip&h=80&w=170&s=e0be3238ab54f27ec12a086437456058"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "React Quickly, 2E",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "rustwebdevelopment": {
+        "machine_name": "rustwebdevelopment",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "56.2 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/rustwebdevelopmentwithrocket_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/rustwebdevelopmentwithrocket_preview.pdf?t=st=1752521871~exp=1752608271~hmac=02de34a4136ea28fb2495d92b02a80939fbefb680757eb8103c73ce561e63fd6"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Manning",
+                "publisher-url": "https://www.manning.com/books/rust-web-development"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 9.4
+        },
+        "subtitle_html": null,
+        "description_text": "<p>Rust Web Development, teaches you to build server-side web apps using Rust, along with important Rust libraries like tokio for async runtimes, warp for web servers and APIs, and reqwest to run external HTTP requests. The book is packed full of examples, code samples, and pro tips for setting up your projects and organizing your code. As you go, you\u2019ll build a complete Q&amp;A web service and iterate on your code chapter-by-chapter, just like a real development project.</p>",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/rustwebdevelopmentwithrocket.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Rust Web Development",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/rustwebdevelopmentwithrocket_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Bastian Gruber",
+                "developer-url": "https://www.manning.com/authors/bastian-gruber"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/2d8cd3c37063875fea000752564b3539010de809.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=44ce19ee36d67caf62d3fbd46a1fc1bc",
+            "featured_image": null,
+            "preview_image_bonus": "https://hb.imgix.net/2d8cd3c37063875fea000752564b3539010de809.jpg?auto=compress,format&fit=clip&h=200&w=200&s=3cf44129d221e524955745396cc70ab9",
+            "front_page_art_imgix_retina": "https://hb.imgix.net/68b543ae1f4dcaca0433c6ed87410869a8e0b787.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=1c896f772824400660d5d8e5de0d2f41",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/68b543ae1f4dcaca0433c6ed87410869a8e0b787.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=a73d814c31aaed6daa059bdb17d4ff96",
+            "preview_image": "https://hb.imgix.net/2d8cd3c37063875fea000752564b3539010de809.jpg?auto=compress,format&fit=clip&h=350&w=600&s=ea753be0e94081ee7095b93ecc90d25c",
+            "front_page_art_imgix": "https://hb.imgix.net/68b543ae1f4dcaca0433c6ed87410869a8e0b787.png?auto=compress,format&w=180&s=34ea2288cfe117800e7a078048fef5fb",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/68b543ae1f4dcaca0433c6ed87410869a8e0b787.png?auto=compress,format&fit=clip&h=80&w=170&s=2a0517c23b1ee106b9efcd8e6c190dc8"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Rust Web Development",
+        "is_mystery_box": null,
+        "payee_secondary_id": "",
+        "wallet_credit": {}
+    },
+    "girlswhocode": {
+        "machine_name": "girlswhocode",
+        "youtube_link": null,
+        "item_content_type": null,
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": null,
+        "featured_image": "images/charities/GWC_Final-Logo_Black.png",
+        "ppgf_info": {
+            "category": "Human Services,Schools and Education",
+            "city": "New York",
+            "description": "Girls Who Code programs work to inspire, educate, and equip young women with the computing skills to pursue 21st century opportunities.",
+            "url": "https://www.girlswhocode.com/",
+            "country": "US",
+            "charity_id": "65556",
+            "state": "NY",
+            "keywords": "STEM, Girls and Women, Education, Coding, Copmuter Science",
+            "human_name": "Girls Who Code, Inc.",
+            "logo_url": "https://hbproxy.imgix.net/https%3A%2F%2Fpics.paypal.com%2F00%2Fs%2FOTkwZDM4MzQtYzZhYi00Yzk5LTgwMWUtNmQ0YzRmZmNjMmQw%2Ffile.PNG?auto=compress&auto=format&bg=fff&fit=fill&h=350&w=510&s=5c49b6324045f6480502e1db4b2a2878"
+        },
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": null,
+        "publishers": [],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "subtitle_html": null,
+        "description_text": "<p class=\"p1\"><span class=\"s1\"><em>Donations to support Girls Who Code are made to &nbsp;<a href=\"https://support.humblebundle.com/hc/en-us/articles/205183597\" target=\"_blank\">PayPal Giving Fund</a>, subject to its policies.</em><br /></span></p>\n<p class=\"p1\"><span class=\"s1\">Girls Who Code, a nonprofit organization, was founded in 2012 to encourage more young women to complete a college-level computer science education and gain skills to further enhance their employability. Mobilizing leading executives, educators, and engineers, Girls Who Code has developed a new model of computer science education designed to inspire, educate, and equip girls of all experience levels and backgrounds with the skills to succeed in the field.<br /><br /></span>In just three years, Girls Who Code has already begun to move the needle: through rapid iteration and expansion of our Summer Immersion Program and highly-scalable Clubs Program, Girls Who Code has delivered 3,000+ hours of instruction to 3,000+ girls nationwide. Our programs have earned support from the CEOs of top Fortune 500 companies, engaged 700+ industry professionals, delivered among the most robust dataset on computer science education, and been featured in 100+ publications, from <i>The New York Times</i> to the <i>Today Show</i>. Our alumnae are overwhelmingly choosing to major in computer science or related studies and consistently name Girls Who Code's programs as their chief incentive to do so.<br /><br />Girls Who Code is dedicated to closing the gender gap in the technology world. Supporting the work of Girls Who Code is an opportunity to empower the engineers, innovators, and executives of tomorrow.</p>\n<p class=\"p2\"></p>\n<p class=\"p1\"><span class=\"s1\">&nbsp;</span></p>",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/charities/GWC_Final-Logo_Black.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Girls Who Code",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/girlswhocode_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "girlswhocode.com",
+                "developer-url": "https://girlswhocode.com/"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {},
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/3d1a78a654655a7782decaa874c82fe290f2d456.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=ece09bc3ca774cd50291cde35461c1a1",
+            "featured_image": null,
+            "preview_image_bonus": "https://hb.imgix.net/3d1a78a654655a7782decaa874c82fe290f2d456.jpg?auto=compress,format&fit=clip&h=200&w=200&s=5b30306f5e35124cd99f5a46aa44d2aa",
+            "front_page_art_imgix_retina": "https://hb.imgix.net/72b62c373be482932b90dffbfcc6a1fe6cb7c618.png?auto=compress,format&dpr=2&fit=clip&h=240&w=180&s=61db727ab91bb99b21dad19d2f19a851",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/72b62c373be482932b90dffbfcc6a1fe6cb7c618.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=4b0d7acec6f08c7382762d243643216b",
+            "preview_image": "https://hb.imgix.net/3d1a78a654655a7782decaa874c82fe290f2d456.jpg?auto=compress,format&fit=clip&h=350&w=600&s=3bfc88c3ec3352604384a466d3d5f75a",
+            "front_page_art_imgix": "https://hb.imgix.net/72b62c373be482932b90dffbfcc6a1fe6cb7c618.png?auto=compress,format&fit=clip&h=240&w=180&s=606171b91fb30646ae0691b2b30ecb89",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/72b62c373be482932b90dffbfcc6a1fe6cb7c618.png?auto=compress,format&fit=clip&h=80&w=170&s=cb65018fd2d43a4b693a1d4a93342693"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Girls Who Code",
+        "is_mystery_box": null,
+        "payee_secondary_id": "65556",
+        "wallet_credit": {}
+    },
+    "designofwebapisfirstedition": {
+        "machine_name": "designofwebapisfirstedition",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": "First Edition",
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "91.2 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/designofwebapisfirstedition_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/designofwebapisfirstedition_preview.pdf?t=st=1752521871~exp=1752608271~hmac=cb1967af1dc6950cdca47af5c654a30e8eb25e92e6b6873faf9637a306374ba4"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Manning",
+                "publisher-url": "https://www.manning.com/books/the-design-of-web-apis"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 21.37
+        },
+        "subtitle_html": null,
+        "description_text": "<p>Drawing on author Arnaud Lauret's many years of API design experience, this book teaches you how to gather requirements, how to balance business and technical goals, and how to adopt a consumer-first mindset. It teaches effective practices using numerous interesting examples.</p>",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/designofwebapisfirstedition.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "The Design of Web APIs",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/designofwebapisfirstedition_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Arnaud Lauret",
+                "developer-url": "https://www.manning.com/authors/arnaud-lauret"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/fc633bf11c4f2599b4ba81642fce42c384f1d92f.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=e6c284f8aa42e2b5d616b4f8eb373dc2",
+            "featured_image": null,
+            "preview_image_bonus": "https://hb.imgix.net/fc633bf11c4f2599b4ba81642fce42c384f1d92f.jpg?auto=compress,format&fit=clip&h=200&w=200&s=4ae8bb22ea1635a2a6aa0cb6ed26cfdf",
+            "front_page_art_imgix_retina": "https://hb.imgix.net/2aa0f130379849fb2e219c138d152f2e31edcc05.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=11103411b1e45c461f23ef444b3957f1",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/2aa0f130379849fb2e219c138d152f2e31edcc05.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=c2090f053fd4f8bb611a50344cb0eb48",
+            "preview_image": "https://hb.imgix.net/fc633bf11c4f2599b4ba81642fce42c384f1d92f.jpg?auto=compress,format&fit=clip&h=350&w=600&s=448fcac2403196c99f595a01aeab4353",
+            "front_page_art_imgix": "https://hb.imgix.net/2aa0f130379849fb2e219c138d152f2e31edcc05.png?auto=compress,format&w=180&s=628bf17654a01df9444327b490a20188",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/2aa0f130379849fb2e219c138d152f2e31edcc05.png?auto=compress,format&fit=clip&h=80&w=170&s=96afe74b79265d43e197e321c6a2ef18"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "The Design of Web APIs",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "reactindepth": {
+        "machine_name": "reactindepth",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "140.2 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/reactindepth_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/reactindepth_preview.pdf?t=st=1752521871~exp=1752608271~hmac=a08ee45caa50c8e3c9a174ccbb2420cbbd995dc05d5752990c5496dd881fe10a"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Manning",
+                "publisher-url": "https://www.manning.com/books/react-in-depth"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 9.4
+        },
+        "subtitle_html": null,
+        "description_text": "<p>React in Depth teaches you the best practices of React development, with up-to-date coverage of the React ecosystem. In it, you\u2019ll learn how to put NextJS, Remix, TypeScript, and more in your React toolbox. You\u2019ll explore advanced topics like component patterns, optimization techniques, and developer tooling. Along the way, you\u2019ll collect pro tips for creating applications that can scale without sacrificing performance or stability. Each skill is proven with hands-on examples, from a weather app to a Wordle clone.</p>",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/reactindepth.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "React in Depth",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/reactindepth_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Morten Barklund",
+                "developer-url": "https://www.manning.com/authors/morten-barklund"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/3ea393956f1335e5212e36953baae7eefd472e88.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=1c9aa5c11020e2a1b7b3164d337289af",
+            "featured_image": null,
+            "preview_image_bonus": "https://hb.imgix.net/3ea393956f1335e5212e36953baae7eefd472e88.jpg?auto=compress,format&fit=clip&h=200&w=200&s=9ff0a0de58abdfc85216e66dec27e85f",
+            "front_page_art_imgix_retina": "https://hb.imgix.net/d2f2f140adddb95ecacda325b49a7f6002073086.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=127fef58a994571bb4584aecffb4c7d6",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/d2f2f140adddb95ecacda325b49a7f6002073086.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=e9650d2487db345b59dbdd0cc8a9507a",
+            "preview_image": "https://hb.imgix.net/3ea393956f1335e5212e36953baae7eefd472e88.jpg?auto=compress,format&fit=clip&h=350&w=600&s=78095b61f0ee3b081d3f857077070303",
+            "front_page_art_imgix": "https://hb.imgix.net/d2f2f140adddb95ecacda325b49a7f6002073086.png?auto=compress,format&w=180&s=b7a7cedf7a5d6fa3b12c2a1cbd714eb4",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/d2f2f140adddb95ecacda325b49a7f6002073086.png?auto=compress,format&fit=clip&h=80&w=170&s=328a879767f89c80d0cc555966539ad7"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "React in Depth",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "fullstackgraphqlapplications_withreactnodejsandneo4j": {
+        "machine_name": "fullstackgraphqlapplications_withreactnodejsandneo4j",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "93.2 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/fullstackgraphqlapplications_withreactnodejsandneo4j_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/fullstackgraphqlapplications_withreactnodejsandneo4j_preview.pdf?t=st=1752521871~exp=1752608271~hmac=a9c0bab15cb9f1f26042cc8a5470de216e6d693057ffe7da1df432cf2924fa5d"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Manning",
+                "publisher-url": "https://www.manning.com/books/fullstack-graphql-applications"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 21.37
+        },
+        "subtitle_html": null,
+        "description_text": "<p>Full Stack GraphQL Applications teaches you to build graph-aware web applications using GraphQL, React, Apollo, and the Neo4j database, collectively called \u201cthe GRANDstack.\u201d Practical, hands-on examples quickly develop your understanding of how the GRANDstack fits together. As you go, you\u2019ll create and deploy to the cloud a full-featured web application that includes search, authentication, and more. Soon, you\u2019ll be ready to deploy end-to-end applications that take full advantage of GraphQL\u2019s outstanding performance.</p>",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/fullstackgraphqlapplications_withreactnodejsandneo4j.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Full Stack GraphQL Applications: With React, Node.js, and Neo4j",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/fullstackgraphqlapplications_withreactnodejsandneo4j_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "William Lyon",
+                "developer-url": "https://www.manning.com/authors/william-lyon"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/ac8853cbb781cca0de0d19c3a05d2f770a785f68.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=397623b6fd828f22d1ac7c606dd9f1a6",
+            "featured_image": null,
+            "preview_image_bonus": "https://hb.imgix.net/ac8853cbb781cca0de0d19c3a05d2f770a785f68.jpg?auto=compress,format&fit=clip&h=200&w=200&s=242d831922406ecb58809ae9752d4902",
+            "front_page_art_imgix_retina": "https://hb.imgix.net/ef1c06b6b3b65844833fbfb000e751d2436978ef.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=8eef75c2b52a9e85d485d27d7388c6bd",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/ef1c06b6b3b65844833fbfb000e751d2436978ef.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=2337cfac776bbd3c88f0bca18ebd8348",
+            "preview_image": "https://hb.imgix.net/ac8853cbb781cca0de0d19c3a05d2f770a785f68.jpg?auto=compress,format&fit=clip&h=350&w=600&s=b480b89f854c1316b6758dc07ca02267",
+            "front_page_art_imgix": "https://hb.imgix.net/ef1c06b6b3b65844833fbfb000e751d2436978ef.png?auto=compress,format&w=180&s=c7d9617a8e1307e8e3ab72df8b7615e5",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/ef1c06b6b3b65844833fbfb000e751d2436978ef.png?auto=compress,format&fit=clip&h=80&w=170&s=733598b797a9944b17ac5351c3d183af"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Full Stack GraphQL Applications: With React, Node.js, and Neo4j",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "singlepagewebapplications": {
+        "machine_name": "singlepagewebapplications",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "59 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/singlepagewebapplications_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/singlepagewebapplications_preview.pdf?t=st=1752521871~exp=1752608271~hmac=14425c3e99bfe603357cdd8ea2b6a3992694f84e80d5ca59bf3b96f0d1394215"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Manning",
+                "publisher-url": "https://www.manning.com/books/single-page-web-applications"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 9.4
+        },
+        "subtitle_html": null,
+        "description_text": "<p>If your website is a jumpy collection of linked pages, you are behind. Single-page web applications are your next step: pushing UI rendering and business logic to the browser and communicating with the server only to synchronize data, they provide a smooth user experience, much like a native application. But, SPAs can be hard to develop, manage, and test. Single Page Web Applications shows how your team can easily design, test, maintain, and extend sophisticated SPAs using JavaScript end-to-end, without getting locked into a framework. Along the way, you'll develop advanced HTML5, CSS3, and JavaScript skills, and use JavaScript as the language of the web server and the database. This book assumes basic knowledge of web development. No experience with SPAs is required.</p>",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/singlepagewebapplications.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Single Page Web Applications",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/singlepagewebapplications_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Michael S. Mikowski and Josh C. Powell"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/c80c7719fcfab6e1b5a666d8e0033402bdf8d385.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=e4a07505fdb096a8be57dcd9c048b4de",
+            "featured_image": null,
+            "preview_image_bonus": "https://hb.imgix.net/c80c7719fcfab6e1b5a666d8e0033402bdf8d385.jpg?auto=compress,format&fit=clip&h=200&w=200&s=cd9c549f55c152bf2e501ed3332c0d29",
+            "front_page_art_imgix_retina": "https://hb.imgix.net/7687084566127a98d4b844555d9ff59f62064001.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=20cb2502734f7840efe2733848a1b324",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/7687084566127a98d4b844555d9ff59f62064001.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=10e07250822933755f79f20e92b1c88c",
+            "preview_image": "https://hb.imgix.net/c80c7719fcfab6e1b5a666d8e0033402bdf8d385.jpg?auto=compress,format&fit=clip&h=350&w=600&s=2ab4f5770a549d17fe73cb833d7bec6c",
+            "front_page_art_imgix": "https://hb.imgix.net/7687084566127a98d4b844555d9ff59f62064001.png?auto=compress,format&w=180&s=2963d0d66830477b35e5d3208ba40237",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/7687084566127a98d4b844555d9ff59f62064001.png?auto=compress,format&fit=clip&h=80&w=170&s=b5b427a9e4f8e0fd7b1cda195dcb6ef6"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Single Page Web Applications",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "buildawebsitewithchatgpt": {
+        "machine_name": "buildawebsitewithchatgpt",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "470.9 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/buildawebsitewithchatgpt_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/buildawebsitewithchatgpt_preview.pdf?t=st=1752521871~exp=1752608271~hmac=5ff2162263edd5a2e61000e7ec835373bfbe4d2caf9489a85b8392edef4629ae"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Manning",
+                "publisher-url": "https://www.manning.com/books/build-a-website-with-chatgpt"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 21.37
+        },
+        "subtitle_html": null,
+        "description_text": "<p>Build a Website with ChatGPT shows you how to make websites in an AI-first world\u2014no experience required! You\u2019ll start with the basics of generating pages with ChatGPT, and by the end of the second chapter your first site will be up and running. Author Paul McFedries then shows you how to add interesting text and graphics, forms for user input, and even custom CSS to give your pages some pizzazz. As you go, you\u2019ll expand your new AI skills to create photo galleries, portfolios, catalog pages and more.</p>",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/buildawebsitewithchatgpt.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Build a Website with ChatGPT",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/buildawebsitewithchatgpt_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Paul McFedries",
+                "developer-url": "https://www.manning.com/authors/paul-mcfedries"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/d0db7247fb1278908148b7fad096cfaaa77b6053.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=bb99f8043abe045deae3f6bd90eda959",
+            "featured_image": null,
+            "preview_image_bonus": "https://hb.imgix.net/d0db7247fb1278908148b7fad096cfaaa77b6053.jpg?auto=compress,format&fit=clip&h=200&w=200&s=acd0652015daa74503f8fe5c2f3bd2c8",
+            "front_page_art_imgix_retina": "https://hb.imgix.net/770432e87196ead68527c69019c613ac0ee7f26c.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=fe788532f4c94fbb412d237dcb0076b3",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/770432e87196ead68527c69019c613ac0ee7f26c.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=e9d7508c41dac1a78817c487ef60df62",
+            "preview_image": "https://hb.imgix.net/d0db7247fb1278908148b7fad096cfaaa77b6053.jpg?auto=compress,format&fit=clip&h=350&w=600&s=b37a739718cdcf78cb8a1d234f65e207",
+            "front_page_art_imgix": "https://hb.imgix.net/770432e87196ead68527c69019c613ac0ee7f26c.png?auto=compress,format&w=180&s=3626b2654c57236ab36eabac5345c4ee",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/770432e87196ead68527c69019c613ac0ee7f26c.png?auto=compress,format&fit=clip&h=80&w=170&s=a710df9e2b47d2d0f4ca0ccb3a779318"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Build a Website with ChatGPT",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "getprogrammingwithjavascript": {
+        "machine_name": "getprogrammingwithjavascript",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "149.4 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/getprogrammingwithjavascript_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/getprogrammingwithjavascript_preview.pdf?t=st=1752521871~exp=1752608271~hmac=24f45615731afea4771e6f17d19d66e3a83b85113b90313f9036920f93d388e1"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Manning",
+                "publisher-url": "https://www.manning.com/books/get-programming-with-javascript"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 4.27
+        },
+        "subtitle_html": null,
+        "description_text": "<p>Are you ready to start writing your own web apps, games, and programs? You're in the right place! Get Programming with JavaScript is a hands-on introduction to programming for readers who have never written a line of code. Since you're just getting started, this friendly book offers you lots of examples backed by careful explanations. As you go along, you'll find exercises to check your understanding and plenty of opportunities to practice your new skills. You don't need anything special to follow the examples-just the text editor and web browser already installed on your computer. We even give you links to working online code so you can see how everything should look live on your screen.</p>",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/getprogrammingwithjavascript.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Get Programming with JavaScript",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/getprogrammingwithjavascript_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "John Larsen",
+                "developer-url": "https://www.manning.com/authors/john-larsen"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "epub",
+                    "pdf"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/bfd4e7ece222f679455d3636702e7aa0d15451fc.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=128462a2fb815435f08413786051ad52",
+            "featured_image": null,
+            "preview_image_bonus": "https://hb.imgix.net/bfd4e7ece222f679455d3636702e7aa0d15451fc.jpg?auto=compress,format&fit=clip&h=200&w=200&s=4eb23c719759300c18ad4a238e628e99",
+            "front_page_art_imgix_retina": "https://hb.imgix.net/5f52f60e4650adbfe9a5c9065f753f661a1b5b84.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=a2a62668a9d7c620e0bfa2b44b7767f8",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/5f52f60e4650adbfe9a5c9065f753f661a1b5b84.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=043a35940a5e40f8d5314bffc9fec85a",
+            "preview_image": "https://hb.imgix.net/bfd4e7ece222f679455d3636702e7aa0d15451fc.jpg?auto=compress,format&fit=clip&h=350&w=600&s=47bc1544c71190f1119aacb20b480ccc",
+            "front_page_art_imgix": "https://hb.imgix.net/5f52f60e4650adbfe9a5c9065f753f661a1b5b84.png?auto=compress,format&w=180&s=31ac54e3670656259dc26655c9193b04",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/5f52f60e4650adbfe9a5c9065f753f661a1b5b84.png?auto=compress,format&fit=clip&h=80&w=170&s=15e86b708c95188dd3161bd29ddc024d"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Get Programming with JavaScript",
+        "is_mystery_box": null,
+        "payee_secondary_id": "",
+        "wallet_credit": {}
+    },
+    "essentialtypescript5": {
+        "machine_name": "essentialtypescript5",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "91 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/essentialtypescript5_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/essentialtypescript5_preview.pdf?t=st=1752521871~exp=1752608271~hmac=fcb0056d7f857dfc10e9d64832fc50bf24ff4f7351978790bcd42698e752716f"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Manning",
+                "publisher-url": "https://www.manning.com/books/essential-typescript-5-third-edition"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 9.4
+        },
+        "subtitle_html": null,
+        "description_text": "<p>Essential TypeScript 5 is a fully updated third edition of the classic Adam Freeman bestseller. It provides full coverage of TypeScript 5, including new features like decorators. You\u2019ll begin with the hows-and-whys of TypeScript, then quickly progress to practical applications of static types. No wasted pages! Each chapter is focused on the skills you need to write awesome web apps.</p>",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/essentialtypescript5.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Essential TypeScript 5",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/essentialtypescript5_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Adam Freeman",
+                "developer-url": "https://www.manning.com/authors/adam-freeman"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/973caa855ebe515c19d2608d4de18313bb9c4d78.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=50b60fa04f64a1a6fa33d375f37da1d3",
+            "featured_image": null,
+            "preview_image_bonus": "https://hb.imgix.net/973caa855ebe515c19d2608d4de18313bb9c4d78.jpg?auto=compress,format&fit=clip&h=200&w=200&s=0f187e39a01c9c06e5623a105c702e3c",
+            "front_page_art_imgix_retina": "https://hb.imgix.net/ccc7ba800a9377f62bcdf206c1bb2516d34882b0.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=b0d21108b88decab83f45a75d41c08cb",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/ccc7ba800a9377f62bcdf206c1bb2516d34882b0.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=0238e42751f9ae745d35dc36a7b73018",
+            "preview_image": "https://hb.imgix.net/973caa855ebe515c19d2608d4de18313bb9c4d78.jpg?auto=compress,format&fit=clip&h=350&w=600&s=d7e71679b1b34d8eb4bea2d8810c305b",
+            "front_page_art_imgix": "https://hb.imgix.net/ccc7ba800a9377f62bcdf206c1bb2516d34882b0.png?auto=compress,format&w=180&s=4584aacdba2f9bd74910410108646beb",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/ccc7ba800a9377f62bcdf206c1bb2516d34882b0.png?auto=compress,format&fit=clip&h=80&w=170&s=a62fd91b43b7c37188424bbd8e5dcd7d"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Essential TypeScript 5",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "buildafrontendframeworkfromscratch": {
+        "machine_name": "buildafrontendframeworkfromscratch",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "58.7 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/buildafrontendframeworkfromscratch_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/buildafrontendframeworkfromscratch_preview.pdf?t=st=1752521871~exp=1752608271~hmac=e51d41813f0c963ee59729e9367d06a0a919e11d75cc3c93b111555eb35cee78"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Manning",
+                "publisher-url": "https://www.manning.com/books/build-a-frontend-web-framework-from-scratch"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 21.37
+        },
+        "subtitle_html": null,
+        "description_text": "<p>Build a Frontend Web Framework (From Scratch) guides you through a simple component-based frontend framework that borrows from React, Svelte, Angular, and other familiar tools. You\u2019ll learn how a modern framework operates by adding features like component state and lifecycle management, a virtual DOM, and reconciliation algorithms to update the HTML efficiently. You\u2019ll appreciate how each critical concept is broken down into easy-to-digest chunks and explained with engaging graphics.</p>",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/buildafrontendframeworkfromscratch.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Build a Frontend Framework from Scratch",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/buildafrontendframeworkfromscratch_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "\u00c1ngel Sola Orbaiceta"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/df048351f5f8831638c035e989a01d294fa9e650.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=6da38c8ec1a08f679fca0efacae3591d",
+            "featured_image": null,
+            "preview_image_bonus": "https://hb.imgix.net/df048351f5f8831638c035e989a01d294fa9e650.jpg?auto=compress,format&fit=clip&h=200&w=200&s=0ae8e95d19e700103f8ad876b65c0311",
+            "front_page_art_imgix_retina": "https://hb.imgix.net/137d48b9295bdb62401573c9fc8c39222599e061.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=fca11d0a602c04906421b8c0f7596117",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/137d48b9295bdb62401573c9fc8c39222599e061.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=432155ab77db046882235adee52c9666",
+            "preview_image": "https://hb.imgix.net/df048351f5f8831638c035e989a01d294fa9e650.jpg?auto=compress,format&fit=clip&h=350&w=600&s=7436d3aa1c8ab06707f3aff470d08d76",
+            "front_page_art_imgix": "https://hb.imgix.net/137d48b9295bdb62401573c9fc8c39222599e061.png?auto=compress,format&w=180&s=fdef3764276858ae2f1c0935b338261b",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/137d48b9295bdb62401573c9fc8c39222599e061.png?auto=compress,format&fit=clip&h=80&w=170&s=cb76432296d51b7dc101eec21b909117"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Build a Frontend Framework from Scratch",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "functionalprogrammingwithjavascript": {
+        "machine_name": "functionalprogrammingwithjavascript",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "60.4 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/functionalprogrammingwithjavascript_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/functionalprogrammingwithjavascript_preview.pdf?t=st=1752521871~exp=1752608271~hmac=de4a215be367bffc4080510fdf6fb107e813199202bae8f9c726c669dea4db59"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Manning",
+                "publisher-url": "https://www.manning.com/books/functional-programming-in-javascript"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 4.27
+        },
+        "subtitle_html": null,
+        "description_text": "<p>Functional Programming in JavaScript teaches you techniques to improve your web applications: their extensibility, modularity, reusability, and testability, as well as their performance. This easy-to-read book uses concrete examples and clear explanations to show you how to use functional programming in real life. If you're new to functional programming, you'll appreciate this guide's many insightful comparisons to imperative or object-oriented programming that help you understand functional design. By the end, you'll think about application design in a fresh new way, and you may even grow to appreciate monads!</p>",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/functionalprogrammingwithjavascript.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Functional Programming with JavaScript",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/functionalprogrammingwithjavascript_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Luis Atencio",
+                "developer-url": "https://www.manning.com/authors/luis-atencio"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/313434f02cc5f9579bbf88e8058f847844356299.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=1284aad8a4347a282c650a3556ef74b1",
+            "featured_image": null,
+            "preview_image_bonus": "https://hb.imgix.net/313434f02cc5f9579bbf88e8058f847844356299.jpg?auto=compress,format&fit=clip&h=200&w=200&s=68278df8db5fc2e2c102a73b584e1abf",
+            "front_page_art_imgix_retina": "https://hb.imgix.net/e339e289a4c6840bc498d52e1e6f134d012f9457.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=69b7e597f53ac02dcc67b2b1c0a0289c",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/e339e289a4c6840bc498d52e1e6f134d012f9457.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=4cdc6501cd04158c00b94dd13964053c",
+            "preview_image": "https://hb.imgix.net/313434f02cc5f9579bbf88e8058f847844356299.jpg?auto=compress,format&fit=clip&h=350&w=600&s=39f0e0dcf7b8081d55fafa81f6d5a2e3",
+            "front_page_art_imgix": "https://hb.imgix.net/e339e289a4c6840bc498d52e1e6f134d012f9457.png?auto=compress,format&w=180&s=f675124cfa6d346df2510a5d9dbc5d75",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/e339e289a4c6840bc498d52e1e6f134d012f9457.png?auto=compress,format&fit=clip&h=80&w=170&s=b76da104f911d7a94cf2dc0d24daa712"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Functional Programming with JavaScript",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "grokkingwebapplicationsecurity": {
+        "machine_name": "grokkingwebapplicationsecurity",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "854.6 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/grokkingwebapplicationsecurity_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/grokkingwebapplicationsecurity_preview.pdf?t=st=1752521871~exp=1752608271~hmac=012032b7f81d700a5435f45ae3ee3309c04c829fb8cb005225b820d9d60270d0"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Manning",
+                "publisher-url": "https://www.manning.com/books/grokking-web-application-security"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 21.37
+        },
+        "subtitle_html": null,
+        "description_text": "<p>Grokking Web Application Security covers everything a working developer needs to know about securing applications in the browser and on the server. The tested techniques apply to any stack and are illustrated with concrete examples plucked from author Malcolm McDonald\u2019s extensive career. You\u2019ll discover must-implement security principles and even learn the fascinating tools and techniques the bad guys use to crack systems.</p>",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/grokkingwebapplicationsecurity.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Grokking Web Application Security",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/grokkingwebapplicationsecurity_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Malcolm McDonald",
+                "developer-url": "https://www.manning.com/authors/malcolm-mcdonald"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/28a1e244756fa7e630789e10077149ce19c62d90.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=218a3653d79a4d1fc89df1d80f040ac2",
+            "featured_image": null,
+            "preview_image_bonus": "https://hb.imgix.net/28a1e244756fa7e630789e10077149ce19c62d90.jpg?auto=compress,format&fit=clip&h=200&w=200&s=a3108a7d8780065af2d807212acf6e1a",
+            "front_page_art_imgix_retina": "https://hb.imgix.net/6f08ac8ced1631e19c40bf6b1c0d2034738ee136.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=c016c1d908c05c181916de56520a2462",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/6f08ac8ced1631e19c40bf6b1c0d2034738ee136.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=0bf530e8931a934a3aa096857684cd13",
+            "preview_image": "https://hb.imgix.net/28a1e244756fa7e630789e10077149ce19c62d90.jpg?auto=compress,format&fit=clip&h=350&w=600&s=95781efa04edd82bdb27782177418f9e",
+            "front_page_art_imgix": "https://hb.imgix.net/6f08ac8ced1631e19c40bf6b1c0d2034738ee136.png?auto=compress,format&w=180&s=6b319209725f273ea5148c285ce8a77d",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/6f08ac8ced1631e19c40bf6b1c0d2034738ee136.png?auto=compress,format&fit=clip&h=80&w=170&s=18c2cb67fa95007360dd78da3e6c1019"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Grokking Web Application Security",
+        "is_mystery_box": null,
+        "payee_secondary_id": null,
+        "wallet_credit": {}
+    },
+    "secretsofthejavascriptninja2e": {
+        "machine_name": "secretsofthejavascriptninja2e",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": "2nd Edition",
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "97.9 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/secretsofthejavascriptninjasecondedition_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/secretsofthejavascriptninjasecondedition_preview.pdf?t=st=1752521871~exp=1752608271~hmac=9de345cc9155964d1d6d310064e1df07eb8d2e3b369116ab8e14da215b5f3cbc"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Manning",
+                "publisher-url": "https://www.manning.com/books/secrets-of-the-javascript-ninja-second-edition"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 9.4
+        },
+        "subtitle_html": null,
+        "description_text": "<p>Secrets of the JavaScript Ninja, Second Edition uses practical examples to clearly illustrate each core concept and technique. This completely revised edition shows you how to master key JavaScript concepts such as functions, closures, objects, prototypes, and promises. It covers APIs such as the DOM, events, and timers. You'll discover best practice techniques such as testing, and cross-browser development, all taught from the perspective of skilled JavaScript practitioners.</p>",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/secretsofthejavascriptninja2e.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "Secrets of the JavaScript Ninja",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/secretsofthejavascriptninja2e_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Josip Maras",
+                "developer-url": "https://www.manning.com/authors/john-resig"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "pdf",
+                    "epub"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/85e20596bbeb4d507f20c1c3f5b30f6cf6a27d9f.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=15c1be01952a82ed9c85cf06e0e4c563",
+            "featured_image": null,
+            "preview_image_bonus": "https://hb.imgix.net/85e20596bbeb4d507f20c1c3f5b30f6cf6a27d9f.jpg?auto=compress,format&fit=clip&h=200&w=200&s=c93ed4569a99f0cfc4715e4dfbca2885",
+            "front_page_art_imgix_retina": "https://hb.imgix.net/956584a7613130aa6fe83ef41757a83d28f62c42.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=355fcc7f731f4f25316f9e47138116b6",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/956584a7613130aa6fe83ef41757a83d28f62c42.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=49c6546cfd84f6cb700727e60dd93817",
+            "preview_image": "https://hb.imgix.net/85e20596bbeb4d507f20c1c3f5b30f6cf6a27d9f.jpg?auto=compress,format&fit=clip&h=350&w=600&s=89e1b9e467bfd28276677d9db77bea39",
+            "front_page_art_imgix": "https://hb.imgix.net/956584a7613130aa6fe83ef41757a83d28f62c42.png?auto=compress,format&w=180&s=984bde2804ce9a1532672bb60f1c3401",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/956584a7613130aa6fe83ef41757a83d28f62c42.png?auto=compress,format&fit=clip&h=80&w=170&s=aad4141e8c7ff876d4ee599a55564d4e"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "Secrets of the JavaScript Ninja",
+        "is_mystery_box": null,
+        "payee_secondary_id": "",
+        "wallet_credit": {}
+    },
+    "javascriptonthings": {
+        "machine_name": "javascriptonthings",
+        "youtube_link": null,
+        "item_content_type": "ebook",
+        "soundtrack_listing": {
+            "hide_listing": null,
+            "tracks": []
+        },
+        "user_ratings": {},
+        "limited_content": null,
+        "availability_icons": {
+            "platform_icons": [
+                "hb-file-pdf-o",
+                "hb-file-epub"
+            ],
+            "human_names": {
+                "hb-file-pdf-o": "PDF",
+                "hb-file-epub": "EPUB",
+                "hb-drmfree": "DRM-free download"
+            },
+            "delivery_to_platform": {
+                "hb-drmfree": {
+                    "available": [
+                        "hb-file-pdf-o",
+                        "hb-file-epub"
+                    ],
+                    "unavailable": []
+                }
+            },
+            "preamble": {
+                "available": "Redeem for",
+                "unavailable": "not available",
+                "hb-drmfree": "Download for"
+            },
+            "delivery_icons": [
+                "hb-drmfree"
+            ],
+            "platform_to_delivery": {
+                "hb-file-pdf-o": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                },
+                "hb-file-epub": {
+                    "available": [
+                        "hb-drmfree"
+                    ],
+                    "unavailable": []
+                }
+            }
+        },
+        "featured_image": null,
+        "ppgf_info": {},
+        "is_region_locked": false,
+        "exclusive_countries": [],
+        "display_user_ratings": null,
+        "rating_details": "",
+        "front_page_art_enabled": true,
+        "rating_info": null,
+        "callout": null,
+        "subscribe_text": null,
+        "all_ratings": {
+            "rar-rating": null,
+            "esrb-rating": null,
+            "pegi-rating": null,
+            "oflc-nz-rating": null,
+            "oflc-au-rating": null,
+            "usk-rating": null
+        },
+        "cta_badge": null,
+        "book_preview": {
+            "preview_file_size": "91.3 KB",
+            "preview_prefix": null,
+            "preview_file_type": "PDF",
+            "unsigned_url": "ops/pdfs/javascriptonthings_preview.pdf",
+            "preview_icon": "pdf",
+            "preview_file_link": "https://cdn.humble.com/humblebundle/ops/pdfs/javascriptonthings_preview.pdf?t=st=1752521871~exp=1752608271~hmac=62e6315bb4ec1cb238cfa36a3f7536ed159866b25a6be55d3ce4ddefaaa7216c"
+        },
+        "publishers": [
+            {
+                "publisher-name": "Manning",
+                "publisher-url": "https://www.manning.com/books/javascript-on-things"
+            }
+        ],
+        "show_rating": null,
+        "side_box_art_text": null,
+        "third_party_subscribe_text": null,
+        "msrp_price": null,
+        "min_price|money": {
+            "currency": "EUR",
+            "amount": 21.37
+        },
+        "subtitle_html": null,
+        "description_text": "<p>JavaScript on Things introduces the exciting world of programming small electronics! You'll start building things immediately, beginning with basic blinking on Arduino. This fully illustrated, hands-on book surveys JavaScript toolkits like Johnny-Five along with platforms including Raspberry Pi, Tessel, and BeagleBone. As you build project after interesting project, you'll learn to wire in sensors, hook up motors, transmit data, and handle user input. So be warned: once you start, you won't want to stop.</p>",
+        "user_ratings_css_class": "none",
+        "wide_hero_art": false,
+        "front_page_art": {
+            "image_path": "images/displayitems/master_images/javascriptonthings.png",
+            "title": null,
+            "resolved_paths": {},
+            "image_text": "JavaScript on Things",
+            "link": null,
+            "badge_info": {
+                "badge_tooltip": null,
+                "badge_number": null,
+                "badge_type": null
+            }
+        },
+        "preview_image": "images/popups/javascriptonthings_slideout.jpg",
+        "developers": [
+            {
+                "developer-name": "Lyza Gardner"
+            }
+        ],
+        "is_clickable": true,
+        "platforms_and_oses": {
+            "ebook": {
+                "download": [
+                    "epub",
+                    "pdf"
+                ]
+            }
+        },
+        "resolved_paths": {
+            "preview_image_bonus_retina": "https://hb.imgix.net/dd5ec8751c3b0e67eee112b8cce9bba494a755bc.jpg?auto=compress,format&dpr=2&fit=clip&h=200&w=200&s=e071fadd2fbc06f0cca5dec158731139",
+            "featured_image": null,
+            "preview_image_bonus": "https://hb.imgix.net/dd5ec8751c3b0e67eee112b8cce9bba494a755bc.jpg?auto=compress,format&fit=clip&h=200&w=200&s=cd0c8f13757bfdabf9ae17173b0f918a",
+            "front_page_art_imgix_retina": "https://hb.imgix.net/b48425c670e796c1cf00838af54a2b6ef47fd9d9.png?auto=compress,format&dpr=2&fit=clip&h=218&w=150&s=eb4470480aa9db51f31c948ac8669451",
+            "front_page_art_charity_imgix_retina": "https://hb.imgix.net/b48425c670e796c1cf00838af54a2b6ef47fd9d9.png?auto=compress,format&dpr=2&fit=clip&h=80&w=170&s=ddca94fc27b7c90b874c960f01369cae",
+            "preview_image": "https://hb.imgix.net/dd5ec8751c3b0e67eee112b8cce9bba494a755bc.jpg?auto=compress,format&fit=clip&h=350&w=600&s=ebfea9426f0f97a8b5d71710b27394d5",
+            "front_page_art_imgix": "https://hb.imgix.net/b48425c670e796c1cf00838af54a2b6ef47fd9d9.png?auto=compress,format&w=180&s=e0e13a34a6d97d980732d8939b2fa3ce",
+            "front_page_art_charity_imgix": "https://hb.imgix.net/b48425c670e796c1cf00838af54a2b6ef47fd9d9.png?auto=compress,format&fit=clip&h=80&w=170&s=fe37879ffdd56021f0968f3bd8bcfdc1"
+        },
+        "disallowed_countries": [],
+        "front_page_url": null,
+        "tall_hero_art": false,
+        "human_name": "JavaScript on Things",
+        "is_mystery_box": null,
+        "payee_secondary_id": "",
+        "wallet_credit": {}
+    }
+}

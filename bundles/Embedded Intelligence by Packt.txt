@@ -1,0 +1,21 @@
+Lukas Kaul - Practical Arduino Robotics
+M. T. White - Mastering PLC Programming
+Jim Ledin, Dave Farley - Modern Computer Architecture and Organization - Second Edition
+Colin Dow - Internet of Things Programming Projects
+Dr. Dennis Kengo Oka, Sharanukumar Nadahalli, Jeff Yost, Ram Prasad Bojanki, André Weimerskirch - Building Secure Automotive IoT Applications
+Edouard Renard - ROS 2 from Scratch
+M. T. White - PLCs for Beginners
+Marco Carvalho - Building Smart Home Automation Solutions with Home Assistant
+Frank Bruno, Guy Eschemann - The FPGA Programming Handbook
+Giacomo Veneri, Antonio Capasso - Hands-On Industrial Internet of Things
+Danny Staple - Robotics at Home with Raspberry Pi Pico
+Olushola Akande - Industrial Automation from Scratch
+Francis X. Govers III, Dr. Kamesh Namuduri - Artificial Intelligence for Robotics
+Mounir Maaref - Architecting and Building High-Speed SoCs
+Daniele Lacamera - Embedded Systems Architecture
+Sumit  Sharma - Drone Development from Concept to Flight
+Christine Farion - The Ultimate Guide to Informed Wearable Technology
+Hossam Soffar - AUTOSAR Fundamentals and Applications
+Aaron Maurer - Design Innovative Robots with LEGO SPIKE Prime
+Liam Bee - PLC and HMI Development with Siemens TIA Portal
+Otavio Salvador, Daiane Angolini - Embedded Linux Development Using Yocto Project
