@@ -26,52 +26,21 @@ def rename_epub_files(folder_path):
             
             if title and authors:
                 safe_title = "".join(c for c in title if c.isalnum() or c in "- _")
-                # Clean author names and preserve the original separation
+                # Process each author individually
                 safe_authors = []
-                for author in authors:
-                    # First split by comma to get individual authors
-                    comma_parts = author.split(',')
-                    for i, part in enumerate(comma_parts):
-                        # Then split by 'and' if it's the last part
-                        if ' and ' in part:
-                            and_parts = part.split(' and ')
-                            # Process first part of 'and'
-                            clean_part = "".join(c for c in and_parts[0] if c.isalnum() or c in "- _." or c.isspace())
-                            if clean_part:
-                                name_parts = clean_part.strip().split()
-                                if len(name_parts) >= 2:
-                                    last_name = name_parts[-1]
-                                    first_name = " ".join(name_parts[:-1])
-                                    safe_authors.append(f"{last_name} {first_name}")
-                                else:
-                                    safe_authors.append(clean_part.strip())
-                            # Process second part of 'and'
-                            clean_part = "".join(c for c in and_parts[1] if c.isalnum() or c in "- _." or c.isspace())
-                            if clean_part:
-                                name_parts = clean_part.strip().split()
-                                if len(name_parts) >= 2:
-                                    last_name = name_parts[-1]
-                                    first_name = " ".join(name_parts[:-1])
-                                    safe_authors.append(f"{last_name} {first_name}")
-                                else:
-                                    safe_authors.append(clean_part.strip())
-                        else:
-                            # Process regular comma-separated author
-                            clean_part = "".join(c for c in part if c.isalnum() or c in "- _." or c.isspace())
-                            if clean_part:
-                                name_parts = clean_part.strip().split()
-                                if len(name_parts) >= 2:
-                                    last_name = name_parts[-1]
-                                    first_name = " ".join(name_parts[:-1])
-                                    safe_authors.append(f"{last_name} {first_name}")
-                                else:
-                                    safe_authors.append(clean_part.strip())
-                
-                # Join authors with comma and 'and' for the last one
-                if len(safe_authors) > 1:
-                    authors_str = ", ".join(safe_authors)
-                else:
-                    authors_str = safe_authors[0]
+                for author in authors:  # authors is already a list of individual authors
+                    # Clean the author name
+                    clean_name = "".join(c for c in author if c.isalnum() or c in "- _." or c.isspace())
+                    name_parts = clean_name.strip().split()
+                    if len(name_parts) >= 2:
+                        last_name = name_parts[-1]
+                        first_name = " ".join(name_parts[:-1])
+                        safe_authors.append(f"{last_name} {first_name}")
+                    else:
+                        safe_authors.append(clean_name.strip())
+
+                # Join authors with comma
+                authors_str = ", ".join(safe_authors)
                 new_filename_base = f"{authors_str} - {safe_title}"
                 new_epub_filename = f"{new_filename_base}.epub"
                 new_pdf_filename = f"{new_filename_base}.pdf"

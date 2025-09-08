@@ -1,5 +1,5 @@
 import os
-from ebooklib import epub
+from ebooklib  import epub
 
 def get_epub_metadata(epub_path):
     try:
@@ -7,8 +7,25 @@ def get_epub_metadata(epub_path):
         title_metadata = book.get_metadata('DC', 'title')
         title = title_metadata[0][0] if title_metadata and title_metadata[0] else 'Unknown Title'
         authors_metadata = book.get_metadata('DC', 'creator')
-        authors = [author[0] for author in authors_metadata if author] if authors_metadata else ['Unknown Author']
-        return title, authors
+        print(f"Extracted authors metadata: {authors_metadata}")
+        # Process authors
+        authors = []
+        for author in authors_metadata:
+            author_text = author[0]
+            # authors = [author.strip() for author in author_text.split('|')]
+            # Split authors by "and" or commas
+            if " and " in author_text.lower():
+                parts = [p.strip() for p in author_text.split(" and ")]
+            elif "," in author_text:
+                parts = [p.strip() for p in author_text.split(",")]
+            else:
+                parts = [author.strip() for author in author_text.split('|')]
+            print(f"Extracted author parts: {parts}")
+            # Add each author to the list
+            authors.extend(parts)
+        print(f"Extracted title: {title}")
+        print(f"Extracted authors: {authors}")
+        return title, authors or ['Unknown Author']
     except Exception as e:
         print(f"Error processing {epub_path}: {str(e)}")
         return None, None
@@ -26,20 +43,27 @@ def rename_epub_files(folder_path):
             
             if title and authors:
                 safe_title = "".join(c for c in title if c.isalnum() or c in "- _")
-                # Switch first and last names for each author
-                switched_authors = []
-                for author in authors:
-                    name_parts = author.split()
-                    if len(name_parts) > 1:
-                        # Take the last name and put it first
-                        switched_name = f"{name_parts[-1]} {' '.join(name_parts[:-1])}"
-                    else:
-                        switched_name = author
-                    safe_author = "".join(c for c in switched_name if c.isalnum() or c in "- _.")
-                    switched_authors.append(safe_author)
+                safe_authors = []
                 
-                new_filename = f"{', '.join(switched_authors)} - {safe_title}.epub"
-                new_filename_pdf = f"{', '.join(switched_authors)} - {safe_title}.pdf"
+                # Process each author separately
+                for author in authors:
+                    name_parts = author.strip().split()
+                    if len(name_parts) > 1:
+                        last_name = name_parts[-1]
+                        first_name = " ".join(name_parts[:-1])
+                        formatted_name = f"{last_name} {first_name}"
+                    else:
+                        formatted_name = author
+                    print(f"Extracted author: {formatted_name}")
+                    # Clean the formatted name
+                    safe_author = "".join(c for c in formatted_name 
+                                        if c.isalnum() or c in "- _." or c.isspace()).strip()
+                    safe_authors.append(safe_author)
+                
+                # Ensure the first author is formatted as "LastName FirstName"
+                authors_str = f"{safe_authors[0]}, " + ", ".join(safe_authors[1:]) if len(safe_authors) > 1 else safe_authors[0]
+                new_filename = f"{authors_str} - {safe_title}.epub"
+                new_filename_pdf = f"{authors_str} - {safe_title}.pdf"
                 new_filepath = os.path.join(folder_path, new_filename)
                 new_filepath_pdf = os.path.join(folder_path, new_filename_pdf)
                 
@@ -49,7 +73,7 @@ def rename_epub_files(folder_path):
                         print(f"Renamed '{filename}' to '{new_filename}'")
                     else:
                         print(f"Skipping '{filename}': Target file already exists")
-                        
+                    
                     # Check for corresponding PDF file
                     pdf_filename = filename.replace('.epub', '.pdf')
                     pdf_path = os.path.join(folder_path, pdf_filename)
