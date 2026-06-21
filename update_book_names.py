@@ -88,6 +88,8 @@ def rename_epub_files(folder_path):
                     
 
 if __name__ == "__main__":
-    folder_path = '/Users/arek/Documents/_aDoWgrania/_kupione/Ultimate Programming Languages Bundle by Pact to fix'
+    humble_folder = 'Python The Good Stuff by No Starch to Fix'
+    folder_base = '/Users/arek/Documents/_aDoWgrania/_kupione'
+    folder_path = os.path.join(folder_base, humble_folder)
     print('start')
     rename_epub_files(folder_path)
